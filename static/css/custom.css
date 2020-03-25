@@ -1,0 +1,212 @@
+@font-face {
+  font-family: 'Smudger LET';
+  src: url('../fonts/SmudgerLetPlain.woff2') format('woff2'),
+      url('../fonts/SmudgerLetPlain.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media (min-width:992px) {
+	nav.navbar[data-menu-style="transparent-to-dark"] {
+		border-bottom: none;
+  }
+
+  .nav>li>a {
+      font-family: 'Roboto Condensed', sans-serif;
+      font-size: 12.4px;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Dosis';
+  color: #444;
+}
+
+h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
+  font-family: 'Dosis';
+  color: #82b440;
+}
+
+h1 strong.logo {
+  font-family: 'Smudger LET';
+  font-weight: lighter;
+  line-height: 140px;
+  font-size: 110px;
+}
+
+body {
+  font-family:'Roboto Condensed';
+}
+
+.btn {
+  font-family:'Roboto Condensed';
+}
+
+[data-overlay-dark] p, [data-overlay-color] p {
+  color: #fff;
+}
+
+.vossen-portfolio-filters li {
+  font-family: "Roboto Condensed";
+  border: 2px solid #82b440;
+  border-radius: 0;
+  background-color: white;
+  color: #82b440;
+}
+
+.vossen-portfolio-filters li.active {
+  font-family: "Roboto Condensed";
+  background-color: #82b440;
+  color: white;
+}
+
+#news {
+  padding: 20px 10%;
+}
+
+.popover {
+  border-radius: 3px;
+  padding: 15px;
+  text-align: center;
+}
+
+.popover h4, .popover p {
+  font-family: 'Roboto Condensed';
+  color: black;
+}
+
+.popover.whatsapp-popover.top {
+    margin-top: -75px;
+}
+
+.blog-grid-content time span {
+  font-family: 'Roboto Condensed';
+}
+
+.blog-grid-img img {
+  object-fit: cover;
+  width: 375px;
+  height: 250px;
+}
+
+.vossen-blog-grid > div.reveal {
+  height: 450px;
+  overflow-y: hidden;
+}
+
+.blog-grid-content p {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.contact.box-style input.submit.btn-square, input.submit.btn-square {
+  border-radius: 0;
+}
+
+.nav li.dropdown a i {
+  display: inline;
+}
+
+.vossen-map {
+  position: relative;
+  width: 300px;
+  padding-bottom: 250px;
+  height: 0;
+  overflow: hidden;
+  margin: auto;
+  margin-bottom: 70px;
+}
+
+.vossen-map iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.footer.style-1.dark ul {
+  margin-bottom: 20px;
+}
+
+.footer.style-1.dark h2 {
+  font-family: 'Roboto Condensed';
+  text-transform: uppercase;
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+
+.footer.style-1.dark .footer-text p {
+  text-align: left;
+}
+
+.footer.style-1.dark p {
+  color: #bbb;
+}
+
+.footer.style-1.dark p strong {
+  color: #ddd;
+}
+
+a.francois {
+  position: relative;
+}
+a.francois:after {
+  position: absolute;
+  transition: opacity 2s;
+  opacity: 0;
+  pointer-events: none;
+  background-image: url('../img/assets/Francois.jpg');
+  background-position: center;
+  background-size: cover;
+  display: inline-block;
+  width: 100px; 
+  height: 100px;
+  content:"";
+  top: -110px;
+  left: 0;
+  border-radius: 50px;
+}
+a.francois:hover:after {
+  opacity: 1;
+  transition-delay: 2s;
+}
+
+#footer .container {
+  width: 100%;
+}
+
+.item-image img {
+  object-fit: cover;
+}
+
+.col-md-3 .item-image img {
+  height: 200px;
+}
+
+.col-md-6 .item-image img {
+  height: 420px;
+}
+
+.col-md-3.tall .item-image img {
+  height: 420px;
+}
+
+.navbar-nav>li>a.lang i.world{
+  font-size: 24px;
+}
+
+.navbar-nav>li>a.lang {
+  padding: 5px 11px 5px 11px;
+}
+
+#langBadge {
+  font-size: 9px;
+  position: absolute;
+  top: 55%;
+  left: 40%;
+  background-color: #82b440;
+  padding: 2px 5px;
+}

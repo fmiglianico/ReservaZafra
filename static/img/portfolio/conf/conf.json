@@ -1,0 +1,250 @@
+{
+  "images": {
+    "1.jpg": {
+      "title": "test title",
+      "subtitle": "test subtitle",
+      "categories": ["Alojamiento", "Espacios comunes"],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": true
+    },
+    "10.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "12.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 2,
+      "portrait": false,
+      "showOnIndex": true
+    },
+    "13.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": true
+    },
+    "11.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": true,
+      "showOnIndex": true
+    },
+    "14.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 2,
+      "portrait": false,
+      "showOnIndex": true
+    },
+    "15.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "16.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "17.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "18.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": true
+    },
+    "19.jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "2.jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "20.jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": true
+    },
+    "21.jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "23.jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": true,
+      "showOnIndex": true
+    },
+    "24.jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "25.jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "26.jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": true,
+      "showOnIndex": true
+    },
+    "22.jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": true
+    },
+    "27.jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": true,
+      "showOnIndex": false
+    },
+    "28.jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "29.jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "3.jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "30.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "4.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "5.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "6.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "7.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    },
+    "8.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": true
+    },
+    "9.JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [],
+      "size": 1,
+      "portrait": false,
+      "showOnIndex": false
+    }
+  },
+  "categories": [
+    "Alojamiento",
+    "Naturaleza",
+    "Eventos",
+    "Lugar de Vida"
+  ]
+}
