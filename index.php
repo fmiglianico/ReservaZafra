@@ -12,19 +12,19 @@
     
         include('common/header.html');
 
-        include('sections/hero.html'); 
-        include('sections/about.html'); 
-        include('sections/video.html'); 
-        include('sections/funfacts.html'); 
-        include('sections/news.html'); 
-        include('sections/quotes.html'); 
+        include('sections/index/hero.html'); 
+        include('sections/index/about.html'); 
+        include('sections/index/video.html'); 
+        include('sections/index/funfacts.html'); 
+        include('sections/index/news.html'); 
+        include('sections/index/quotes.html'); 
 
         $portfolioId = 'indexPortfolio';
         include('common/portfolio.php'); 
         
-        include('sections/testimonials.html'); 
-        include('sections/clients.html'); 
-        include('sections/connect.html'); 
+        include('sections/index/testimonials.html'); 
+        include('sections/index/clients.html'); 
+        include('sections/index/connect.html'); 
         include('common/contact.html'); 
 
         include('common/footer.html'); 

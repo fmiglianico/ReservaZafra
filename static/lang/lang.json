@@ -14,6 +14,11 @@
     "en": "Accomodation - Reserva Natural Zafra",
     "fr": "Logement - Reserva Natural Zafra"
   },
+  "productos.head.title": {
+    "es": "Productos y Eventos - Reserva Natural Zafra",
+    "en": "Products and Events - Reserva Natural Zafra",
+    "fr": "Produits et Évenements - Reserva Natural Zafra"
+  },
   "header.about": {
     "es": "La Reserva",
     "en": "The Reserve",
@@ -663,5 +668,15 @@
     "es": "Cabañas naturales en el bosque",
     "en": "Natural cabins in the forest",
     "fr": "Cabanes naturelles en forêt"
+  },
+  "hero.productos.title": {
+    "es": "Productos y Eventos",
+    "en": "Products and Events",
+    "fr": "Produits et Évenements"
+  },
+  "hero.productos.subtitle": {
+    "es": "Bienes materiales y immateriales que puedes conseguir",
+    "en": "Material and immaterials goods you can get",
+    "fr": "Biens matériels et immatériels que tu peux obtenir"
   }
 }

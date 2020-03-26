@@ -10,7 +10,7 @@
 
     <?php 
         include('common/header.html');
-        include('sections/hero_portfolio.html');
+        include('sections/portfolio/hero.html');
 
         $portfolioId = 'fullPortfolio';
         include('common/portfolio.php'); 

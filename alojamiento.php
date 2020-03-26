@@ -10,10 +10,10 @@
 
     <?php 
         include('common/header.html');
-        include('sections/hero_accomodation.html');
+        include('sections/accomodation/hero.html');
 
-        include('sections/cabanas.html');
-        include('sections/prices.html');
+        include('sections/accomodation/cabins.html');
+        include('sections/accomodation/prices.html');
         include('common/contact.html');
 
         include('common/footer.html');
