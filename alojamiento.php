@@ -9,7 +9,7 @@
 <body data-fade-in="true">
 
     <?php 
-        include('common/header.php');
+        include('common/header.html');
         include('sections/hero_accomodation.html');
 
         include('sections/cabanas.html');

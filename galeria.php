@@ -13,7 +13,7 @@
         include('sections/hero_portfolio.html');
 
         $portfolioId = 'fullPortfolio';
-        include('sections/portfolio.php'); 
+        include('common/portfolio.php'); 
 
         include('common/footer.html');
         include('common/scripts.html'); 

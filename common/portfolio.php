@@ -25,10 +25,15 @@
                 </div>
 
             </div>
+            
+            <?php if ($portfolioId == 'indexPortfolio') { ?>
 
-            <a href="/galeria.php" class="btn btn-md btn-ghost btn-square btn-appear mt30">
-                <span><span data-lang-key="portfolio.button"></span> <i class="ion-arrow-right-c"></i></span>
-            </a>
+                <a href="/galeria.php" class="btn btn-md btn-ghost btn-square btn-appear mt30">
+                    <span><span data-lang-key="portfolio.button"></span> <i class="ion-arrow-right-c"></i></span>
+                </a>
+
+            <?php } ?>
+
 
         </div>
     </div>

@@ -20,7 +20,7 @@
         include('sections/quotes.html'); 
 
         $portfolioId = 'indexPortfolio';
-        include('sections/portfolio.php'); 
+        include('common/portfolio.php'); 
         
         include('sections/testimonials.html'); 
         include('sections/clients.html'); 
