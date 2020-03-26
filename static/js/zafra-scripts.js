@@ -42,8 +42,7 @@
 		// Animate Items
 		portfolioItems.waypoint(function () {
 			portfolioItems.each(function (i) {
-				var eachItem = $(this);
-				setTimeout(function () { eachItem.addClass('reveal'); }, (i * 3) * 60);
+				$(this).addClass('reveal');
 			});
 		}, { offset: '100%', triggerOnce: true });
 		initialCat = $('.vossen-portfolio-filters').attr('data-initial-filter');
@@ -81,8 +80,7 @@
 		});
 		portfolioItems.waypoint(function () {
 				portfolioItems.each(function (i) {
-						var eachItem = $(this);
-						setTimeout(function () { eachItem.addClass('reveal'); }, (i * 3) * 60);
+					$(this).addClass('reveal');
 				});
 		}, { offset: '100%', triggerOnce: true });
 		vosPortfolio.isotope({
@@ -289,7 +287,7 @@
 	}
 
 	/**********************************************************/
-	/*									 Init main portfolio									*/
+	/*										 Init portfolio											*/
 	/**********************************************************/
 
 	const PORTFOLIO_FILTER_TEMPLATE = '<li data-filter="{filter}" data-lang-key="portfolio.filter.{filter}"></li>';
@@ -309,22 +307,22 @@
 				</a>\
 		</div>';
 
-		const SIZE_1X = 'col-md-3 col-sm-6';
-		const SIZE_2X = 'col-md-6 col-sm-12';
+	const SIZE_1X = 'col-md-3 col-sm-6';
+	const SIZE_2X = 'col-md-6 col-sm-12';
 
-		const CONF_URL = "static/img/portfolio/conf/conf.json";
+	const PORTFOLIO_CONF_URL = "static/img/portfolio/conf/conf.json";
 
-	function initPortfolio (images, portfolioDiv, isMain) {
+	function initPortfolio (images, portfolioDiv, isIndex) {
 		for (var i in images) {
 			var portfolioItem = PORTFOLIO_ITEM_TEMPLATE;
 
 			var image = images[i];
 
-			if (isMain && !image.showOnIndex) {
+			if (isIndex && !image.showOnIndex) {
 				continue;
 			}
 
-			portfolioItem = portfolioItem.replace('{filters}', image.categories.map(categorie => categorie.replace(' ', '').toLowerCase()).join(' '));
+			portfolioItem = portfolioItem.replace('{filters}', image.categories.map(categorie => categorie.split(' ').join('').toLowerCase()).join(' '));
 			portfolioItem = portfolioItem.replace('{title}', image.title);
 			portfolioItem = portfolioItem.replace('{subtitle}', image.subtitle);
 			portfolioItem = portfolioItem.replace('{filename}', i);
@@ -336,7 +334,7 @@
 				clazz += SIZE_1X;
 			}
 
-			if (image.portrait) {
+			if (image.landscape) {
 				clazz += ' tall';
 			}
 			
@@ -346,34 +344,44 @@
 		}
 	}
 
-	$.get(CONF_URL, function (data) {
-		if (data.error) {
-			console.log(error);
-			return;
-		}
+	const indexPortfolio = $('#indexPortfolio');
+	const fullPortfolio = $('#fullPortfolio');
+	console.log(indexPortfolio);
+	console.log(fullPortfolio);
 
-		const images = data.images;
-		const categories = data.categories;
+	if (indexPortfolio.length || fullPortfolio.length) {
 
-		// Generate filters
-		const portfolioFilterDiv = $('#mainPortfolioFilters');
-		for (var i in categories) {
-			var filterLi = PORTFOLIO_FILTER_TEMPLATE;
-			filterLi = filterLi.split('{filter}').join(categories[i].split(' ').join('').toLowerCase());
+		$.get(PORTFOLIO_CONF_URL, function (data) {
+			if (data.error) {
+				console.log(error);
+				return;
+			}
 
-			portfolioFilterDiv.append(filterLi);
-		}
+			const images = data.images;
+			const categories = data.categories;
 
-		// Generate image divs
-		const mainPortfolioDiv = $('#mainPortfolio');
+			// Generate filters
+			const portfolioFilterDiv = $('#portfolioFilters');
+			for (var i in categories) {
+				var filterLi = PORTFOLIO_FILTER_TEMPLATE;
+				filterLi = filterLi.split('{filter}').join(categories[i].split(' ').join('').toLowerCase());
 
-		if (mainPortfolioDiv) {
-			initPortfolio(images, mainPortfolioDiv, true);
+				portfolioFilterDiv.append(filterLi);
+			}
+
+			// Generate image divs
+
+			if (indexPortfolio.length) {
+				initPortfolio(images, indexPortfolio, true);
+			} else {
+				initPortfolio(images, fullPortfolio, false);
+			}
 			$('#portfolio').show();
 			vossenPortfolio();
-		}
 
-	});
+		});
+
+	}
 
 	/**********************************************************/
 	/*									 			Lang module											*/
@@ -399,13 +407,14 @@
 		location.reload()
 	});
 
-
+	// Load language file
 	$.get(LANG_FILE_URL, function (data) {
 		if (data.error) {
 			console.log(error);
 			return;
 		}
 
+		// Replace all lang keys with translated text
 		$("[data-lang-key]").each(function() {
 			var attr = $(this).data("lang-attr");
 			var key = $(this).data("lang-key");
@@ -413,6 +422,8 @@
 			var value = key;
 			if (data[key] && data[key][locale]) {
 				value = data[key][locale];
+			} else if (data[key] && data[key][DEFAULT_LOCALE]) {
+				value = data[key][DEFAULT_LOCALE];
 			}
 
 			if (attr) {

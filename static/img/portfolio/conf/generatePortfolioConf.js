@@ -4,7 +4,7 @@ const PORTOFOLIO_JSON_FILE = 'conf.json';
 const PORTOFOLIO_NEW_JSON_FILE = 'new_conf.json';
 const files = fs.readdirSync(FILE_DIR);
 
-const CATEGORIES_LIST = ['Alojamiento', 'Naturaleza', 'Eventos', 'Lugar de Vida'];
+const CATEGORIES_LIST = ['Alojamiento', 'Naturaleza', 'Eventos', 'Lugar de Vida', 'Productos'];
 
 fs.readFile(PORTOFOLIO_JSON_FILE, function read(err, data) {
   if (err) {

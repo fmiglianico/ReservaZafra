@@ -3,22 +3,22 @@
 
 <head>
     <?php include('common/imports.html'); ?>
-    <title>Alojamiento - Reserva Natural Zafra</title>
+    <title data-lang-key="accomodation.head.title"></title>
 </head>
 
 <body data-fade-in="true">
 
     <?php 
-        $header_class = 'dark';
-        include('common/header.php'); 
-    ?>
+        include('common/header.php');
+        include('sections/hero_accomodation.html');
 
-    <?php include('sections/cabanas.html'); ?>
-    <?php include('sections/prices.html'); ?>
-    <?php include('common/contact.html'); ?>
->
-    <?php include('common/footer.html'); ?>
-    <?php include('common/scripts.html'); ?>
+        include('sections/cabanas.html');
+        include('sections/prices.html');
+        include('common/contact.html');
+
+        include('common/footer.html');
+        include('common/scripts.html'); 
+    ?>
 
 </body>
 

@@ -1,4 +1,19 @@
 {
+  "index.head.title": {
+    "es": "Reserva Natural Zafra - Bienvenidos",
+    "en": "Reserva Natural Zafra - Welcome",
+    "fr": "Reserva Natural Zafra - Bienvenue"
+  },
+  "portfolio.head.title": {
+    "es": "Galería - Reserva Natural Zafra",
+    "en": "Portfolio - Reserva Natural Zafra",
+    "fr": "Galerie - Reserva Natural Zafra"
+  },
+  "accomodation.head.title": {
+    "es": "Alojamiento - Reserva Natural Zafra",
+    "en": "Accomodation - Reserva Natural Zafra",
+    "fr": "Logement - Reserva Natural Zafra"
+  },
   "header.about": {
     "es": "La Reserva",
     "en": "The Reserve",
@@ -33,6 +48,11 @@
     "es": "Alojamiento",
     "en": "Accomodation",
     "fr": "Logement"
+  },
+  "header.products": {
+    "es": "Productos y Eventos",
+    "en": "Products and Events",
+    "fr": "Produits et Évenements"
   },
   "header.menu": {
     "es": "Menu",
@@ -342,12 +362,12 @@
   "portfolio.title": {
     "es": "Una muestra",
     "en": "A sample",
-    "fr": "Un échantillon"
+    "fr": "Un aperçu"
   },
   "portfolio.title.strong": {
     "es": "de lo que te proponemos aquí",
     "en": "of what you will see here",
-    "fr": "de ce que tu verras ici"
+    "fr": "de ce que tu pourras voir ici"
   },
   "portfolio.subtitle": {
     "es": "¡Zafra se queda en tí!",
@@ -378,6 +398,11 @@
     "es": "Lugar de vida",
     "en": "Life spaces",
     "fr": "Lieux de vie"
+  },
+  "portfolio.filter.productos": {
+    "es": "Productos",
+    "en": "Products",
+    "fr": "Produits"
   },
   "portfolio.button": {
     "es": "Ver todo",
@@ -618,5 +643,25 @@
     "es": "François",
     "en": "François",
     "fr": "François"
+  },
+  "hero.portfolio.title": {
+    "es": "Galería",
+    "en": "Portfolio",
+    "fr": "Galerie"
+  },
+  "hero.portfolio.subtitle": {
+    "es": "¡Ven a dar un paseo!",
+    "en": "Come on in!",
+    "fr": "Viens faire un tour!"
+  },
+  "hero.accomodation.title": {
+    "es": "Alojamiento",
+    "en": "Accomodation",
+    "fr": "Logement"
+  },
+  "hero.accomodation.subtitle": {
+    "es": "Cabañas naturales en el bosque",
+    "en": "Natural cabins in the forest",
+    "fr": "Cabanes naturelles en forêt"
   }
 }

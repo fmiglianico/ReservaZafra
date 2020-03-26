@@ -3,30 +3,33 @@
 
 <head>
     <?php include('common/imports.html'); ?>
-    <title>Reserva Natural Zafra - Bienvenidos</title>
+    <title data-lang-key="index.head.title"></title>
 </head>
 
 <body data-fade-in="true">
 
     <?php 
-        $header_class = 'transparent-to-dark';
-        include('common/header.php'); 
+    
+        include('common/header.html');
+
+        include('sections/hero.html'); 
+        include('sections/about.html'); 
+        include('sections/video.html'); 
+        include('sections/funfacts.html'); 
+        include('sections/news.html'); 
+        include('sections/quotes.html'); 
+
+        $portfolioId = 'indexPortfolio';
+        include('sections/portfolio.php'); 
+        
+        include('sections/testimonials.html'); 
+        include('sections/clients.html'); 
+        include('sections/connect.html'); 
+        include('common/contact.html'); 
+
+        include('common/footer.html'); 
+        include('common/scripts.html'); 
     ?>
-
-    <?php include('sections/hero.html'); ?>
-    <?php include('sections/about.html'); ?>
-    <?php include('sections/video.html'); ?>
-    <?php include('sections/funfacts.html'); ?>
-    <?php include('sections/news.html'); ?>
-    <?php include('sections/quotes.html'); ?>
-    <?php include('sections/portfolio.html'); ?>
-    <?php include('sections/testimonials.html'); ?>
-    <?php include('sections/clients.html'); ?>
-    <?php include('sections/connect.html'); ?>
-    <?php include('common/contact.html'); ?>
-
-    <?php include('common/footer.html'); ?>
-    <?php include('common/scripts.html'); ?>
 
 </body>
 
