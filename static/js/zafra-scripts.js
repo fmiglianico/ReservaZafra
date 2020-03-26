@@ -280,6 +280,7 @@
 
 				if (count > 0) {
 					$('#news').show();
+					$('#newsLink').show(); 
 					vossenBlogGrid();
 				}
 			}
