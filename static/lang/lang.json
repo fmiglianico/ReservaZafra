@@ -19,664 +19,709 @@
     "en": "Products and Events - Reserva Natural Zafra",
     "fr": "Produits et Évenements - Reserva Natural Zafra"
   },
-  "header.about": {
+  "common.header.about": {
     "es": "La Reserva",
     "en": "The Reserve",
     "fr": "La Réserve"
   },
-  "header.values": {
+  "common.header.values": {
     "es": "Nuestros valores",
     "en": "Our values",
     "fr": "Nos valeurs"
   },
-  "header.news": {
+  "common.header.news": {
     "es": "Noticias",
     "en": "News",
     "fr": "Actualités"
   },
-  "header.portfolio": {
+  "common.header.portfolio": {
     "es": "Galería",
     "en": "Portfolio",
     "fr": "Galerie"
   },
-  "header.connect": {
+  "common.header.connect": {
     "es": "Contacto",
     "en": "Contact",
     "fr": "Contact"
   },
-  "header.services": {
+  "common.header.services": {
     "es": "Servicios",
     "en": "Services",
     "fr": "Services"
   },
-  "header.accomodation": {
+  "common.header.accomodation": {
     "es": "Alojamiento",
     "en": "Accomodation",
     "fr": "Logement"
   },
-  "header.products": {
+  "common.header.products": {
     "es": "Productos y Eventos",
     "en": "Products and Events",
     "fr": "Produits et Évenements"
   },
-  "header.menu": {
+  "common.header.menu": {
     "es": "Menu",
     "en": "Menu",
     "fr": "Menu"
   },
-  "header.logo.alt": {
+  "common.header.logo.alt": {
     "es": "Logo Zafra",
     "en": "Logo Zafra",
     "fr": "Logo Zafra"
   },
-  "header.lang.es": {
+  "common.header.lang.es": {
     "es": "Español",
     "en": "Español",
     "fr": "Español"
   },
-  "header.lang.en": {
+  "common.header.lang.en": {
     "es": "English",
     "en": "English",
     "fr": "English"
   },
-  "header.lang.fr": {
+  "common.header.lang.fr": {
     "es": "Français",
     "en": "Français",
     "fr": "Français"
   },
-  "hero.title": {
+  "index.hero.title": {
     "es": "Bienvenidos a la Reserva Natural",
     "en": "Welcome to the Natural Reserve",
     "fr": "Bienvenue à la Réserve Naturelle"
   },
-  "hero.title.strong": {
+  "index.hero.title.strong": {
     "es": "zafra",
     "en": "zafra",
     "fr": "zafra"
   },
-  "hero.subtitle": {
+  "index.hero.subtitle": {
     "es": "Un espacio de naturaleza para conocer, aprender y disfrutar.",
     "en": "A nature space to meet, learn and enjoy.",
     "fr": "Un espace en pleine nature pour apprendre, se rencontrer et se reposer."
   },
-  "hero.button": {
+  "index.hero.button": {
     "es": "Descubrir",
     "en": "Discover",
     "fr": "Découvrir"
   },
-  "about.title": {
+  "index.about.title": {
     "es": "Somos la Reserva Zafra",
     "en": "We are the Reserve Zafra",
     "fr": "Nous sommes la Réserve Zafra"
   },
-  "about.title.strong": {
+  "index.about.title.strong": {
     "es": "Un espacio estimulante tu inspiración",
     "en": "A space stimulating your inspiration",
     "fr": "Un espace stimulant ton inspiration"
   },
-  "about.subtitle.1": {
+  "index.about.subtitle.1": {
     "es": "para la búsqueda de ",
     "en": "for the search for ",
     "fr": "pour la recherche d'"
   },
-  "about.subtitle.2": {
+  "index.about.subtitle.2": {
     "es": "opciones de vida",
     "en": "healthier",
     "fr": "options de vie"
   },
-  "about.subtitle.3": {
+  "index.about.subtitle.3": {
     "es": "mas saludable",
     "en": "life options",
     "fr": "plus saines"
   },
-  "about.subtitle.4": {
+  "index.about.subtitle.4": {
     "es": "en relación de ",
     "en": "in ",
     "fr": "en relation d'"
   },
-  "about.subtitle.5": {
+  "index.about.subtitle.5": {
     "es": "armonía",
     "en": "harmony",
     "fr": "harmonie"
   },
-  "about.subtitle.6": {
+  "index.about.subtitle.6": {
     "es": "con la naturaleza y con la sociedad.",
     "en": "with nature and society.",
     "fr": "avec la nature et la société."
   },
-  "about.1.title.strong": {
+  "index.about.1.title.strong": {
     "es": "Encuéntranos",
     "en": "Let's meet",
     "fr": "Rejoins-nous"
   },
-  "about.1.title": {
+  "index.about.1.title": {
     "es": "Donde estamos preservando fauna y flora",
     "en": "Where we preserve flora and fauna",
     "fr": "Là où nous préservons la faune et la flore"
   },
-  "about.1.content": {
+  "index.about.1.content": {
     "es": "La Reserva natural Zafra está ubicada en la Vereda Camelias del Municipio de San Carlos, con acceso por el Municipio de San Rafael, a sólo 6km de la cabecera municipal.",
     "en": "Zafra Natural Reserve is located on the Vereda Camelias of the San Carlos municipality, accessible by the San Rafael town, at about 6km from the main street.",
     "fr": "La Réserve naturelle Zafra est située sur la Vereda Camelias de la municipalité de San Carlos, accessible par le village de San Rafael, à seulement 6km de la rue principale."
   },
-  "about.2.title.strong": {
+  "index.about.2.title.strong": {
     "es": "Descansa",
     "en": "Rest",
     "fr": "Repose-toi"
   },
-  "about.2.title": {
+  "index.about.2.title": {
     "es": "Entre arboles y agua",
     "en": "In between water and trees",
     "fr": "Entre forêts et rivières"
   },
-  "about.2.content": {
+  "index.about.2.content": {
     "es": "La Reserva es un espacio para el descanso en entorno de bosque, con proximidad al Rio Arenal, principal rio turístico del Municipio de San Rafael, un destino \"único por naturaleza\".",
     "en": "The Reserve is a space for rest surrounded by a forest, close to the Arenal River, the main touristic river of the Municipality of San Rafael, a destination \"unique in naturaleza\".",
     "fr": "La Réserve est un espace de repos dans un cadre forestier, à proximité de la rivière Arenal, la principale rivière touristique de la municipalité de San Rafael, une destination \"unique dans la nature\"."
   },
-  "about.3.title.strong": {
+  "index.about.3.title.strong": {
     "es": "Aprende",
     "en": "Learn",
     "fr": "Approfondis"
   },
-  "about.3.title": {
+  "index.about.3.title": {
     "es": "Sobre la naturaleza",
     "en": "About nature",
     "fr": "Ta connaissance de la nature"
   },
-  "about.3.content": {
+  "index.about.3.content": {
     "es": "Con actividades, talleres y vivencias que te permitirán descubrir lo que te pueden ofrecer las 35 hectáreas de la Reserva.",
     "en": "With activities, classes and experiences that will allow you to understand what the 35 hectares of the Reserve can provide for you.",
     "fr": "Avec des activités, des cours et des expériences qui te permettront de découvrir ce que peuvent t'apporter les 35 hectares de la Réserve."
   },
-  "about.4.title.strong": {
+  "index.about.4.title.strong": {
     "es": "Reúnete",
     "en": "Get together",
     "fr": "Réunissez-vous"
   },
-  "about.4.title": {
+  "index.about.4.title": {
     "es": "En nuestro salon de eventos",
     "en": "In our event room",
     "fr": "Dans notre salon pour les événements"
   },
-  "about.4.content": {
+  "index.about.4.content": {
     "es": "Un espacioso lugar, ubicado en medio de la tranquilidad del bosque, que tiene capacidad para reunir hasta a 40 personas y cuenta con ayudas tecnológicas audio visuales.",
     "en": "A spacious space, surrounded by the tranquility of the forest, with a capacity to gather up to 40 people and fully equipped with audio/video technology.",
     "fr": "Un lieu spacieux, situé au coeur de la forêt et de sa tranquilité, ayant une capacité maximum de 40 personnes et disposant de tout l'équipement audiovisuel."
   },
-  "about.5.title.strong": {
+  "index.about.5.title.strong": {
     "es": "Aliméntate bien",
     "en": "Eat well",
     "fr": "Alimente-toi bien"
   },
-  "about.5.title": {
+  "index.about.5.title": {
     "es": "Con comida local y saludable",
     "en": "Healthy and local food",
     "fr": "Avec de la nourriture locale et saine"
   },
-  "about.5.content": {
+  "index.about.5.content": {
     "es": "Aprovechando la fertilidad de la región se ofrecen platos diversos, preparados con la sazón tradicional de las mujeres paisas, complementada con toques no convencionales que le aportan nuevas sensaciones a los visitantes.",
     "en": "Taking advantage of the fertility of the region, various dishes are offered, prepared with the traditional flavor of the paisa women, complemented by unconventional touches that bring new sensations to visitors.",
     "fr": "Profitant de la fertilité de la région, divers plats sont proposés, préparés avec la saveur traditionnelle des femmes paisas, complétés par des touches non conventionnelles qui apportent de nouvelles sensations aux visiteurs."
   },
-  "about.6.title.strong": {
+  "index.about.6.title.strong": {
     "es": "Cuida tu cuerpo",
     "en": "Take care of your body",
     "fr": "Prends soin de ton corps"
   },
-  "about.6.title": {
+  "index.about.6.title": {
     "es": "Haciendo actividades en el bosque",
     "en": "Doing activities in the forest",
     "fr": "En faisant diverses activités dans la forêt"
   },
-  "about.6.content": {
+  "index.about.6.content": {
     "es": "Puedes hacer caminatas guiadas por la granja y senderos naturales, llegando hasta ríos y quebradas limpias y transparentes donde te puedes refrescar.",
     "en": "You can take guided walks through the farm on natural trails, reaching rivers and clean and transparent gorges where you can cool off.",
     "fr": "Tu peux suivre des chemins de randonnée guidés sur des sentiers naturels, qui vont jusqu'à des rivières et des gorges où les eaux sont propres, transparentes et rafraichissantes."
   },
-  "video.title": {
+  "index.video.title": {
     "es": "Nuestros Valores",
     "en": "Our Values",
     "fr": "Nos Valeurs"
   },
-  "video.subtitle": {
+  "index.video.subtitle": {
     "es": "Protegemos la naturaleza",
     "en": "We protect nature",
     "fr": "Nous protégeons la nature"
   },
-  "video.p.1": {
+  "index.video.p.1": {
     "es": "La Zafra es una Reserva Natural de Sociedad Civil, es una figura de conservación que ha sido avalada por el ministerio de medio ambiente. Es una muestra de cómo los humanos, cuando nos establecemos en un territorio, tenemos todas las posibilidades de generar  interacciones positivas, cuidando el entorno, cuidando la naturaleza y posibilitando la vida.",
     "en": "La Zafra is a private Natural Reserve, it is a conservation figure that has been endorsed by the Ministry of the Environment. It is an example of how humans, when settling in a territory, have all the possibilities of generating positive interactions, taking care of the environment, taking care of nature and making life possible.",
     "fr": "La Zafra est une Réserve Naturelle de la Société Civile, c'est une figure de la conservation qui a été approuvée par le ministère de l'Environnement. Elle constitue un exemple de la manière dont les humains, lors de l'installation sur un territoire, ont toutes les possibilités de générer des interactions positives, de prendre soin de l'environnement, de prendre soin de la nature et de rendre la vie possible."
   },
-  "video.p.2": {
+  "index.video.p.2": {
     "es": "La naturaleza es parte de la riqueza que tiene el vivir acá, y queremos invitarlos a venir a conocer la Zafra: hay la posibilidad de venir pasar un día de sol para conocer, quedarse, interactuar como familia y también interactuar con esta naturaleza. Es una manera de empezar a conocer una forma diferente de relacionarse con ella y llevarse elementos de inspiración.",
     "en": "Nature is part of the richness of linving here, and we want to invite you to come to know Zafra: there is the possibility of coming to spend a sunny day to meet us, enjoy, interact as a family and also interact with this nature. It is a way to begin to know a different way of relating to her and take elements of inspiration.",
     "fr": "La nature fait partie de la richesse de vivre ici, et nous voulons vous inviter à découvrir la Zafra: il est possible de venir passer une journée ensoleillée pour se rencontrer, profiter, interagir en famille et aussi interagir avec cette nature. C'est une façon de commencer à connaître une manière différente de se comporter face à elle, et de s'en inspirer."
   },
-  "funfacts.1": {
+  "index.funfacts.1": {
     "es": "Hectáreas de reserva",
     "en": "Hectares of reserve",
     "fr": "Hectares de réserve"
   },
-  "funfacts.2": {
+  "index.funfacts.2": {
     "es": "Ríos",
     "en": "Rivers",
     "fr": "Rivières"
   },
-  "funfacts.3": {
+  "index.funfacts.3": {
     "es": "Especies de aves enumeradas",
     "en": "Bird species",
     "fr": "Espèces d'oiseaux recensées"
   },
-  "funfacts.4": {
+  "index.funfacts.4": {
     "es": "Años desde la creacion del proyecto",
     "en": "Years since the creation of the project",
     "fr": "Années depuis la création du projet"
   },
-  "news.title": {
+  "index.news.title": {
     "es": "Actualidades",
     "en": "News",
     "fr": "Actualités"
   },
-  "news.title.strong": {
+  "index.news.title.strong": {
     "es": "en la Zafra",
     "en": "from the Zafra",
     "fr": "de la Zafra"
   },
-  "quotes.1.1": {
+  "index.quotes.1.1": {
     "es": "Hay un libro abierto siempre para todos los ojos: ",
     "en": "There is always an open book for all eyes: ",
     "fr": "Il est un livre ouvert à tous les yeux , c'est celui de "
   },
-  "quotes.1.strong": {
+  "index.quotes.1.strong": {
     "es": "la naturaleza",
     "en": "nature",
     "fr": "la nature"
   },
-  "quotes.1.2": {
+  "index.quotes.1.2": {
     "es": ".",
     "en": ".",
     "fr": "."
   },
-  "quotes.1.name": {
+  "index.quotes.1.name": {
     "es": "Jean-Jacques Rousseau",
     "en": "Jean-Jacques Rousseau",
     "fr": "Jean-Jacques Rousseau"
   },
-  "quotes.2.1": {
+  "index.quotes.2.1": {
     "es": "Si realmente amas la naturaleza,",
     "en": "If you truly love nature,",
     "fr": "Si tu aimes vraiment la nature,"
   },
-  "quotes.2.strong": {
+  "index.quotes.2.strong": {
     "es": "encontrarás la belleza",
     "en": "you will find beauty",
     "fr": "tu trouveras la beauté"
   },
-  "quotes.2.2": {
+  "index.quotes.2.2": {
     "es": "en todas partes.",
     "en": "everywhere.",
     "fr": "partout."
   },
-  "quotes.2.name": {
+  "index.quotes.2.name": {
     "es": "Vincent Van Gogh",
     "en": "Vincent Van Gogh",
     "fr": "Vincent Van Gogh"
   },
-  "quotes.3.1": {
+  "index.quotes.3.1": {
     "es": "La tierra tiene",
     "en": "The earth has its",
     "fr": "La Terre a une"
   },
-  "quotes.3.strong": {
+  "index.quotes.3.strong": {
     "es": "música",
     "en": "music",
     "fr": "musique"
   },
-  "quotes.3.2": {
+  "index.quotes.3.2": {
     "es": "para los que escuchan.",
     "en": "for those who will listen.",
     "fr": "pour ceux qui l'écoutent."
   },
-  "quotes.3.name": {
+  "index.quotes.3.name": {
     "es": "George Santayana",
     "en": "George Santayana",
     "fr": "George Santayana"
   },
-  "quotes.4.1": {
+  "index.quotes.4.1": {
     "es": "El buen hombre es el amigo de",
     "en": "The good man is the friend of  ",
     "fr": "L'homme bon est l'ami de"
   },
-  "quotes.4.strong": {
+  "index.quotes.4.strong": {
     "es": "todos",
     "en": "all",
     "fr": "tous"
   },
-  "quotes.4.2": {
+  "index.quotes.4.2": {
     "es": "los seres vivos.",
     "en": "living things.",
     "fr": "les êtres vivants."
   },
-  "quotes.4.name": {
+  "index.quotes.4.name": {
     "es": "Mahatma Gandhi",
     "en": "Mahatma Gandhi",
     "fr": "Mahatma Gandhi"
   },
-  "portfolio.title": {
+  "common.portfolio.title": {
     "es": "Una muestra",
     "en": "A sample",
     "fr": "Un aperçu"
   },
-  "portfolio.title.strong": {
+  "common.portfolio.title.strong": {
     "es": "de lo que te proponemos aquí",
     "en": "of what you will see here",
     "fr": "de ce que tu pourras voir ici"
   },
-  "portfolio.subtitle": {
+  "common.portfolio.subtitle": {
     "es": "¡Zafra se queda en tí!",
     "en": "¡Zafra se queda en tí!",
     "fr": "¡Zafra se queda en tí!"
   },
-  "portfolio.filter.all": {
+  "common.portfolio.filter.all": {
     "es": "Todo",
     "en": "All",
     "fr": "Tout"
   },
-  "portfolio.filter.alojamiento": {
+  "common.portfolio.filter.alojamiento": {
     "es": "Alojamiento",
     "en": "Accomodation",
     "fr": "Logement"
   },
-  "portfolio.filter.naturaleza": {
+  "common.portfolio.filter.naturaleza": {
     "es": "Naturaleza",
     "en": "Nature",
     "fr": "Nature"
   },
-  "portfolio.filter.eventos": {
+  "common.portfolio.filter.eventos": {
     "es": "Eventos",
     "en": "Events",
     "fr": "Événements"
   },
-  "portfolio.filter.lugardevida": {
+  "common.portfolio.filter.lugardevida": {
     "es": "Lugar de vida",
     "en": "Life spaces",
     "fr": "Lieux de vie"
   },
-  "portfolio.filter.productos": {
+  "common.portfolio.filter.productos": {
     "es": "Productos",
     "en": "Products",
     "fr": "Produits"
   },
-  "portfolio.button": {
+  "common.portfolio.button": {
     "es": "Ver todo",
     "en": "See all",
     "fr": "Voir tout"
   },
-  "testimonials.title": {
+  "index.testimonials.title": {
     "es": "Algunos commentarios",
     "en": "A few comments",
     "fr": "Quelques retours"
   },
-  "testimonials.title.strong": {
+  "index.testimonials.title.strong": {
     "es": "De nuestros clientes",
     "en": "From our clients",
     "fr": "De nos clients"
   },
-  "testimonials.1.1": {
+  "index.testimonials.1.1": {
     "es": "Excelente lugar para disfrutar de la naturaleza y",
     "en": "Excelente lugar para disfrutar de la naturaleza y",
     "fr": "Excelente lugar para disfrutar de la naturaleza y"
   },
-  "testimonials.1.2": {
+  "index.testimonials.1.2": {
     "es": "la atención por parte de todos ustedes fue maravillosa, muy especiales.",
     "en": "la atención por parte de todos ustedes fue maravillosa, muy especiales.",
     "fr": "la atención por parte de todos ustedes fue maravillosa, muy especiales."
   },
-  "testimonials.1.name": {
+  "index.testimonials.1.name": {
     "es": "Fanny Usuga",
     "en": "Fanny Usuga",
     "fr": "Fanny Usuga"
   },
-  "testimonials.1.year": {
+  "index.testimonials.1.year": {
     "es": "2017",
     "en": "2017",
     "fr": "2017"
   },
-  "testimonials.2.1": {
+  "index.testimonials.2.1": {
     "es": "Es un espacio mágico.",
     "en": "Es un espacio mágico.",
     "fr": "Es un espacio mágico."
   },
-  "testimonials.2.2": {
+  "index.testimonials.2.2": {
     "es": "No solo es bellísimo y puro sino las personas que lo cuidan son maravillosas!",
     "en": "No solo es bellísimo y puro sino las personas que lo cuidan son maravillosas!",
     "fr": "No solo es bellísimo y puro sino las personas que lo cuidan son maravillosas!"
   },
-  "testimonials.2.name": {
+  "index.testimonials.2.name": {
     "es": "Catalina Montoya",
     "en": "Catalina Montoya",
     "fr": "Catalina Montoya"
   },
-  "testimonials.2.year": {
+  "index.testimonials.2.year": {
     "es": "2018",
     "en": "2018",
     "fr": "2018"
   },
-  "testimonials.3.1": {
+  "index.testimonials.3.1": {
     "es": "¡Excelente espacio para vivir y disfrutar de todos los valores de la naturaleza!",
     "en": "¡Excelente espacio para vivir y disfrutar de todos los valores de la naturaleza!",
     "fr": "¡Excelente espacio para vivir y disfrutar de todos los valores de la naturaleza!"
   },
-  "testimonials.3.name": {
+  "index.testimonials.3.name": {
     "es": "William Zea",
     "en": "William Zea",
     "fr": "William Zea"
   },
-  "testimonials.3.year": {
+  "index.testimonials.3.year": {
     "es": "2016",
     "en": "2016",
     "fr": "2016"
   },
-  "clients.title": {
+  "index.clients.title": {
     "es": "Nuestros aliados",
     "en": "Our network",
     "fr": "Notre réseau"
   },
-  "connect.title": {
+  "index.connect.title": {
     "es": "Conéctate",
     "en": "Connect",
     "fr": "Connecte-toi"
   },
-  "connect.subtitle": {
+  "index.connect.subtitle": {
     "es": "Síguenos en los redes sociales",
     "en": "Follow us on the social networks",
     "fr": "Suis-nous sur les réseaux sociaux"
   },
-  "connect.facebook": {
+  "index.connect.facebook": {
     "es": "Facebook",
     "en": "Facebook",
     "fr": "Facebook"
   },
-  "connect.facebook.p": {
+  "index.connect.facebook.p": {
     "es": "Para compartir",
     "en": "For sharing",
     "fr": "Pour partager"
   },
-  "connect.youtube": {
+  "index.connect.youtube": {
     "es": "Youtube",
     "en": "Youtube",
     "fr": "Youtube"
   },
-  "connect.youtube.p": {
+  "index.connect.youtube.p": {
     "es": "Para aprender",
     "en": "For learning",
     "fr": "Pour apprendre"
   },
-  "connect.instagram": {
+  "index.connect.instagram": {
     "es": "Instagram",
     "en": "Instagram",
     "fr": "Instagram"
   },
-  "connect.instagram.p": {
+  "index.connect.instagram.p": {
     "es": "Para descubrir",
     "en": "For discovering",
     "fr": "Pour découvrir"
   },
-  "connect.whatsapp": {
+  "index.connect.whatsapp": {
     "es": "WhatsApp",
     "en": "WhatsApp",
     "fr": "WhatsApp"
   },
-  "connect.whatsapp.p": {
+  "index.connect.whatsapp.p": {
     "es": "Para hablar",
     "en": "For talking",
     "fr": "Pour discuter"
   },
-  "contact.title": {
+  "common.contact.title": {
     "es": "Envíanos un correo",
     "en": "Send us an email",
     "fr": "Envoie-nous un email"
   },
-  "contact.subtitle.1": {
+  "common.contact.subtitle.1": {
     "es": "Nos gustaría conocer",
     "en": "We'd like to know about",
     "fr": "Nous aimerions être au courant de"
   },
-  "contact.subtitle.2": {
+  "common.contact.subtitle.2": {
     "es": "tus ideas",
     "en": "your ideas",
     "fr": "tes idées"
   },
-  "contact.form.name": {
+  "common.contact.form.name": {
     "es": "Tu nombre *",
     "en": "Your name *",
     "fr": "Ton nom *"
   },
-  "contact.form.email": {
+  "common.contact.form.email": {
     "es": "Tu correo *",
     "en": "Your email *",
     "fr": "Ton email *"
   },
-  "contact.form.phone": {
+  "common.contact.form.phone": {
     "es": "Tu número de teléfono",
     "en": "Your phone number",
     "fr": "Ton numéro de téléphone"
   },
-  "contact.form.message": {
+  "common.contact.form.message": {
     "es": "Tu mensaje *",
     "en": "Your message *",
     "fr": "Ton message *"
   },
-  "contact.form.submit": {
+  "common.contact.form.submit": {
     "es": "Enviar",
     "en": "Send",
     "fr": "Envoyer"
   },
-  "footer.col2.title": {
+  "common.footer.col2.title": {
     "es": "Cómo llegar",
     "en": "Directions",
     "fr": "Comment venir"
   },
-  "footer.col2.address.label": {
+  "common.footer.col2.address.label": {
     "es": "Ubicación:",
     "en": "Address:",
     "fr": "Adresse:"
   },
-  "footer.col2.address": {
+  "common.footer.col2.address": {
     "es": "Km 6.3, Vereda El Arenal San Rafael - Antioquia - Colombia",
     "en": "Km 6.3, Vereda El Arenal San Rafael - Antioquia - Colombia",
     "fr": "Km 6.3, Vereda El Arenal San Rafael - Antioquia - Colombia"
   },
-  "footer.col2.distance.label": {
+  "common.footer.col2.distance.label": {
     "es": "Distancia desde Medellín:",
     "en": "Distance from Medellín:",
     "fr": "Distance de Medellín:"
   },
-  "footer.col2.distance": {
+  "common.footer.col2.distance": {
     "es": "110 km.",
     "en": "110 km.",
     "fr": "110 km."
   },
-  "footer.col2.coordinates.label": {
+  "common.footer.col2.coordinates.label": {
     "es": "Coordenadas:",
     "en": "Coordinates:",
     "fr": "Coordonnées GPS:"
   },
-  "footer.col2.coordinates": {
+  "common.footer.col2.coordinates": {
     "es": "6° 15'09,8\"N - 75°00'51,7\"W",
     "en": "6° 15'09,8\"N - 75°00'51,7\"W",
     "fr": "6° 15'09,8\"N - 75°00'51,7\"W"
   },
-  "footer.col2.p.1": {
+  "common.footer.col2.p.1": {
     "es": "El acceso a la Reserva se hace por tierra, tomando la vía Medellín - San Rafael y luego por la vía a la Vereda El Arenal (6km desde el pueblo).",
     "en": "You first need to take the Medellín - San Rafael road, and then from San Rafael take the road called \"Vereda El Arenal\" (The Reserve is about 6km from the town, and part of it is a dirt road).",
     "fr": "À partir de Medellín, aller jusqu'à San Rafael, et une fois arrivé prendre la route qui s'appelle \"Vereda El Arenal\" (La Réserve est à environ 6km du centre-ville, et une portion de la route est en terre)."
   },
-  "footer.col2.p.2": {
+  "common.footer.col2.p.2": {
     "es": "Se puede acceder también en vehículos públicos desde la terminal del norte de Medellín y luego una vez en el pueblo se puede acceder en transporte de moto carro, que lo pueden llevar directamente hasta la Reserva. Por todo el pueblo están localizados los transportes para su servicio.",
     "en": "You can also come using public transportation from Medellín's terminal del norte, when you get to San Rafael you can take a taxi that will take you directly to the Reserve. You can find transportation all over the town.",
     "fr": "Des bus au départ du terminal del norte de Medellín sont aussi disponibles, direction San Rafael. Une fois dans San Rafael, vous pouvez prendre un taxi qui vous amenera directement à la Réserve. Vous en trouverez partout dans le centre-ville."
   },
-  "footer.col2.p.3": {
+  "common.footer.col2.p.3": {
     "es": "El número de la empresa de Motocarros es el **VERIFY NUMBER** +57 858 70 00 por si desea contactar previamente el servicio.",
     "en": "The motocarros company's phone number is **VERIFY NUMBER** +57 858 70 00, is you want to plan your trip in advance.",
     "fr": "Si vous voulez planifier votre arrivée en avance, le numéro de téléphone de l'entreprise de Motocarros est le **VERIFY NUMBER** +57 858 70 00."
   },
-  "footer.copyright": {
+  "common.footer.copyright": {
     "es": "© Reserva Natural Zafra 2020",
     "en": "© Reserva Natural Zafra 2020",
     "fr": "© Reserva Natural Zafra 2020"
   },
-  "footer.design.by": {
+  "common.footer.design.by": {
     "es": "Diseño por",
     "en": "Design by",
     "fr": "Design par"
   },
-  "footer.wunderkind": {
+  "common.footer.wunderkind": {
     "es": "Wunderkind",
     "en": "Wunderkind",
     "fr": "Wunderkind"
   },
-  "footer.adapted.by": {
+  "common.footer.adapted.by": {
     "es": "adaptado por",
     "en": "adapted by",
     "fr": "adapté par"
   },
-  "footer.francois": {
+  "common.footer.francois": {
     "es": "François",
     "en": "François",
     "fr": "François"
   },
-  "hero.portfolio.title": {
+  "portfolio.hero.title": {
     "es": "Galería",
     "en": "Portfolio",
     "fr": "Galerie"
   },
-  "hero.portfolio.subtitle": {
+  "portfolio.hero.subtitle": {
     "es": "¡Ven a dar un paseo!",
     "en": "Come on in!",
     "fr": "Viens faire un tour!"
   },
-  "hero.accomodation.title": {
+  "accomodation.hero.title": {
     "es": "Alojamiento",
     "en": "Accomodation",
     "fr": "Logement"
   },
-  "hero.accomodation.subtitle": {
+  "accomodation.hero.subtitle": {
     "es": "Cabañas naturales en el bosque",
     "en": "Natural cabins in the forest",
     "fr": "Cabanes naturelles en forêt"
   },
-  "hero.productos.title": {
-    "es": "Productos y Eventos",
-    "en": "Products and Events",
-    "fr": "Produits et Évenements"
+  "products.hero.title": {
+    "es": "Productos locales",
+    "en": "Local products",
+    "fr": "Produits locaux"
   },
-  "hero.productos.subtitle": {
-    "es": "Bienes materiales y immateriales que puedes conseguir",
-    "en": "Material and immaterials goods you can get",
-    "fr": "Biens matériels et immatériels que tu peux obtenir"
+  "products.hero.subtitle": {
+    "es": "Para degustar en el acto o para llevar",
+    "en": "To taste on the spot or to take away",
+    "fr": "À déguster sur place ou à emporter"
+  },
+  "products.cafe.title.strong": {
+    "es": "Producción de café orgánica",
+    "en": "Organic coffee production",
+    "fr": "Production de café bio"
+  },
+  "products.cafe.title": {
+    "es": "en entorno de bosque",
+    "en": "in a forest environment",
+    "fr": "en milieu forestier"
+  },
+  "products.cafe.p.1": {
+    "es": "En la zafra conservamos la tradición cultural, por ello nos motiva la siembra de café en entorno de bosque, como lo hacían los ancestros y propiciando la dinámica natural de los cultivos.",
+    "en": "",
+    "fr": ""
+  },
+  "products.cafe.p.2": {
+    "es": "Establecemos nuestros cafetales en zonas boscosas, intercalando con los cultivos diferentes especies de árboles y plantas que propician alimento y sombrío para las plantas, fauna circundante y para nuestros visitantes.",
+    "en": "",
+    "fr": ""
+  },
+  "products.cafe.p.3": {
+    "es": "Complementamos la producción de café con sistemas de fertilización orgánica, que garantizan la regeneración permanente del suelo y la calidad de nuestro grano. La recolección, secado y tostión del café mantiene las prácticas artesanales y se obtiene un café molido que compartimos con nuestros visitantes.",
+    "en": "",
+    "fr": ""
+  },
+  "products.honey.title.strong": {
+    "es": "Producción de miel",
+    "en": "Honey production",
+    "fr": "Production de miel"
+  },
+  "products.honey.subtitle": {
+    "es": "Las Abejas desempañan un papel imprescindible dentro del ecosistema",
+    "en": "Bees play an essential role in the ecosystem",
+    "fr": "Les abeilles jouent un rôle essentiel dans l'écosystème"
+  },
+  "products.honey.p.1": {
+    "es": "La pervivencia en el bosque es una tarea permanente en nuestra Reserva.",
+    "en": "",
+    "fr": ""
+  },
+  "products.honey.p.2": {
+    "es": "Por ello mantenemos la apicultura como una estrategia de reproducción de arboles y plantas en todo el lugar y en la zona. La producción de miel es un valor agregado que nos aportan las abejas y que ponemos a disposición para la compra a nuestros visitantes.",
+    "en": "",
+    "fr": ""
   }
 }

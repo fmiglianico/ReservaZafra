@@ -5,11 +5,11 @@
 
             <div class="col-md-12 text-center pb20">
                 <h2>
-                    <span data-lang-key="portfolio.title"></span>
+                    <span data-lang-key="common.portfolio.title"></span>
                     <br>
-                    <strong data-lang-key="portfolio.title.strong"></strong>
+                    <strong data-lang-key="common.portfolio.title.strong"></strong>
                 </h2>
-                <p class="lead" data-lang-key="portfolio.subtitle"></p>
+                <p class="lead" data-lang-key="common.portfolio.subtitle"></p>
             </div>
 
             <div class="portfolio" data-gap="20">
@@ -17,7 +17,7 @@
 
                 <!-- Portfolio Category Filters -->
                 <ul class="vossen-portfolio-filters" data-initial-filter="*" id="portfolioFilters">
-                    <li data-filter="*" data-lang-key="portfolio.filter.all"></li>
+                    <li data-filter="*" data-lang-key="common.portfolio.filter.all"></li>
                 </ul>
 
                 <!-- Portfolio Items Container-->
@@ -29,7 +29,7 @@
             <?php if ($portfolioId == 'indexPortfolio') { ?>
 
                 <a href="/galeria.php" class="btn btn-md btn-ghost btn-square btn-appear mt30">
-                    <span><span data-lang-key="portfolio.button"></span> <i class="ion-arrow-right-c"></i></span>
+                    <span><span data-lang-key="common.portfolio.button"></span> <i class="ion-arrow-right-c"></i></span>
                 </a>
 
             <?php } ?>

@@ -291,7 +291,7 @@
 	/*										 Init portfolio											*/
 	/**********************************************************/
 
-	const PORTFOLIO_FILTER_TEMPLATE = '<li data-filter="{filter}" data-lang-key="portfolio.filter.{filter}"></li>';
+	const PORTFOLIO_FILTER_TEMPLATE = '<li data-filter="{filter}" data-lang-key="common.portfolio.filter.{filter}"></li>';
 	const PORTFOLIO_ITEM_TEMPLATE =
 		'<!-- Portfolio Item -->\
 		<div class="{class}" data-filter="{filters}">\
