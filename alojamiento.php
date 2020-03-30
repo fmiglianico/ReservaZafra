@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <?php include('common/imports.html'); ?>
+    <?php include('sections/common/imports.html'); ?>
     <title data-lang-key="accomodation.head.title"></title>
 </head>
 
