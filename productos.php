@@ -9,13 +9,13 @@
 <body data-fade-in="true">
 
     <?php 
-        include('common/header.html');
+        include('sections/common/header.html');
         include('sections/products/hero.html');
 
         include('sections/products/products.html'); 
 
-        include('common/footer.html');
-        include('common/scripts.html'); 
+        include('sections/common/footer.html');
+        include('sections/common/scripts.html'); 
     ?>
 
 </body>

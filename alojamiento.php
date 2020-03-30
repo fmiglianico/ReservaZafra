@@ -9,15 +9,15 @@
 <body data-fade-in="true">
 
     <?php 
-        include('common/header.html');
+        include('sections/common/header.html');
         include('sections/accomodation/hero.html');
 
         include('sections/accomodation/cabins.html');
         include('sections/accomodation/prices.html');
-        include('common/contact.html');
+        include('sections/common/contact.html');
 
-        include('common/footer.html');
-        include('common/scripts.html'); 
+        include('sections/common/footer.html');
+        include('sections/common/scripts.html'); 
     ?>
 
 </body>
