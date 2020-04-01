@@ -211,14 +211,14 @@
       "size": 1,
       "portrait": false
     },
-    "Naturaleza (6).jpg": {
+    "Naturaleza (5).jpg": {
       "title": "",
       "subtitle": "",
       "categories": [
         "Naturaleza"
       ],
       "size": 1,
-      "portrait": false
+      "portrait": true
     },
     "Alojamiento (15).jpg": {
       "title": "",
@@ -337,15 +337,6 @@
       "size": 1,
       "portrait": false
     },
-    "Eventos (6).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Eventos"
-      ],
-      "size": 1,
-      "portrait": false
-    },
     "Eventos (7).jpg": {
       "title": "",
       "subtitle": "",
@@ -353,6 +344,15 @@
         "Eventos"
       ],
       "size": 2,
+      "portrait": false
+    },
+    "Eventos (6).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Eventos"
+      ],
+      "size": 1,
       "portrait": false
     },
     "Lugar (1).jpg": {
@@ -582,14 +582,14 @@
       "size": 1,
       "portrait": true
     },
-    "Naturaleza (5).jpg": {
+    "Naturaleza (6).jpg": {
       "title": "",
       "subtitle": "",
       "categories": [
         "Naturaleza"
       ],
       "size": 1,
-      "portrait": true
+      "portrait": false
     },
     "Naturaleza (7).jpg": {
       "title": "",
