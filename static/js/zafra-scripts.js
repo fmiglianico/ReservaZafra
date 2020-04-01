@@ -1,5 +1,5 @@
-/*global $, jQuery, alert*/
-(function ($) {
+/*global $, jQuery, alert, PhotoSwipe, PhotoSwipeUI_Default */
+(function ($, PhotoSwipe, PhotoSwipeUI_Default) {
 	"use strict";
 
 	/**********************************************************/
@@ -9,6 +9,45 @@
 	const ZAFRA_LANG_COOKIE_NAME = 'zafra-lang';
 	const HANDLED_LOCALES = ["es", "en", "fr"];
 	const DEFAULT_LOCALE = "es";
+
+	/**********************************************************/
+	/*									 Utility Functions										*/
+	/**********************************************************/
+
+	function setCookie(name, value, days) {
+		var expires = "";
+		if (days) {
+			var date = new Date();
+			date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+			expires = "; expires=" + date.toUTCString();
+		}
+		document.cookie = name + "=" + (value || "") + expires + "; path=/";
+	}
+
+	function getCookie(name) {
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for (var i = 0; i < ca.length; i++) {
+			var c = ca[i];
+			while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+		}
+		return null;
+	}
+
+	function getLocale() {
+
+		// If lang is set in a cookie, return it
+		const cookieLocale = getCookie(ZAFRA_LANG_COOKIE_NAME);
+		if (cookieLocale && HANDLED_LOCALES.indexOf(cookieLocale) != -1) {
+			return cookieLocale;
+		}
+
+		// Else return the user navigator's lang
+		const currentLocale = (navigator.language || navigator.userLanguage).substring(0, 2);
+		const validLocale = HANDLED_LOCALES.indexOf(currentLocale) == -1 ? DEFAULT_LOCALE : currentLocale;
+		return validLocale;
+	}
 
 	/**********************************************************/
 	/*								 Wunderkind functions										*/
@@ -129,45 +168,6 @@
 				});
 			});
 		}, { offset: '100%', triggerOnce: true });
-	}
-
-	/**********************************************************/
-	/*									 Utility Functions										*/
-	/**********************************************************/
-
-	function setCookie(name, value, days) {
-		var expires = "";
-		if (days) {
-			var date = new Date();
-			date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-			expires = "; expires=" + date.toUTCString();
-		}
-		document.cookie = name + "=" + (value || "") + expires + "; path=/";
-	}
-
-	function getCookie(name) {
-		var nameEQ = name + "=";
-		var ca = document.cookie.split(';');
-		for (var i = 0; i < ca.length; i++) {
-			var c = ca[i];
-			while (c.charAt(0) == ' ') c = c.substring(1, c.length);
-			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
-		}
-		return null;
-	}
-
-	function getLocale() {
-
-		// If lang is set in a cookie, return it
-		const cookieLocale = getCookie(ZAFRA_LANG_COOKIE_NAME);
-		if (cookieLocale && HANDLED_LOCALES.indexOf(cookieLocale) != -1) {
-			return cookieLocale;
-		}
-
-		// Else return the user navigator's lang
-		const currentLocale = (navigator.language || navigator.userLanguage).substring(0, 2);
-		const validLocale = HANDLED_LOCALES.indexOf(currentLocale) == -1 ? DEFAULT_LOCALE : currentLocale;
-		return validLocale;
 	}
 
 	/**********************************************************/
@@ -294,8 +294,8 @@
 	const PORTFOLIO_FILTER_TEMPLATE = '<li data-filter="{filter}" data-lang-key="index.portfolio.filter.{filter}"></li>';
 	const PORTFOLIO_ITEM_TEMPLATE =
 		'<!-- Portfolio Item -->\
-		<div class="{class}" data-filter="{filters}" style="{style}">\
-				<a href="#">\
+		<div class="portfolio-item-div {class}" data-filter="{filters}" style="{style}">\
+				<a href="javascript:void(0)" class="portfolio-item-a">\
 						<div class="portfolio-item">\
 								<div class="item-caption">\
 										<h4>{title}</h4>\
@@ -312,6 +312,41 @@
 	const SIZE_2X = 'col-md-6 col-sm-6';
 
 	const PORTFOLIO_CONF_URL = "static/img/portfolio/conf/conf.json";
+
+	// Init Photoswipe
+	function initPhotoSwipe() {
+		$('.portfolio-item-a').click(function () {
+			var pswpElement = $('.pswp')[0];
+
+			// build items array
+			var items = $('.portfolio-item-div:visible').map(function () {
+				var imgSrc = $(this).find('.item-image img').attr('src');
+				var w, h;
+				if ($(this).hasClass('tall')) {
+					w = 512;
+					h = 768;
+				} else {
+					w = 1152;
+					h = 768;
+				}
+
+				return {
+					src: imgSrc,
+					w: w,
+					h: h
+				}
+			});
+
+			// Start at current photo slide
+			var options = {
+				index: $('.portfolio-item-div:visible .portfolio-item-a').index($(this))
+			};
+
+			// Initializes and opens PhotoSwipe
+			var gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, options);
+			gallery.init();
+		});
+	}
 
 	function initPortfolio (images, portfolioDiv) {
 		for (var i in images) {
@@ -363,24 +398,15 @@
 				portfolioFilterDiv.append(filterLi);
 			}
 
-			// Button actions
-			$('#portfolioShowMore').click(function() {
-				$('.showMorePic').show();
-				$(this).hide();
-				$('#portfolioShowLess').show();
-			});
-
-			$('#portfolioShowLess').click(function () {
-				$(this).hide();
-				$('#portfolioShowMore').show();
-			});
-
 			// Generate image divs
 			initPortfolio(images, indexPortfolio);
 
 			// Show
 			$('#portfolio').show();
 			vossenPortfolio();
+
+			// Init PhotoSwipe
+			initPhotoSwipe();
 
 		});
 
@@ -448,4 +474,4 @@
 		countUp();
 	}
 
-}(jQuery));
+}(jQuery, PhotoSwipe, PhotoSwipeUI_Default));
