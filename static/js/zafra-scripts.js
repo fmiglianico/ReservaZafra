@@ -474,4 +474,52 @@
 		countUp();
 	}
 
+	/**********************************************************/
+	/*										 Init tabs pic											*/
+	/**********************************************************/
+
+
+	function initTabPics(tabClass) {
+		var pictures = $(tabClass);
+
+		if (pictures.length) {
+			console.log(tabClass);
+			var pswpElement = $('.pswp')[0];
+
+			pictures.click(function() {
+				var items = pictures.map(function () {
+					var imgSrc = $(this).find('img').attr('src');
+					var w, h;
+					if ($(this).hasClass('tall')) {
+						w = 512;
+						h = 768;
+					} else {
+						w = 1152;
+						h = 768;
+					}
+					return {
+						src: imgSrc,
+						w: w,
+						h: h
+					}
+				});
+
+				// Start at current photo slide
+				var options = {
+					index: pictures.index($(this))
+				};
+
+				// Initializes and opens PhotoSwipe
+				var gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, options);
+				gallery.init();
+
+			});
+		}
+
+	}
+
+	initTabPics('.tab1-pic');
+	initTabPics('.tab2-pic');
+	initTabPics('.tab3-pic');
+
 }(jQuery, PhotoSwipe, PhotoSwipeUI_Default));

@@ -10,9 +10,9 @@
     "fr": "Logement - Reserva Natural Zafra"
   },
   "productos.head.title": {
-    "es": "Productos y Eventos - Reserva Natural Zafra",
-    "en": "Products and Events - Reserva Natural Zafra",
-    "fr": "Produits et Évenements - Reserva Natural Zafra"
+    "es": "Restaurante y Productos locales - Reserva Natural Zafra",
+    "en": "Restaurant and Local products - Reserva Natural Zafra",
+    "fr": "Restauration et Produits locaux - Reserva Natural Zafra"
   },
   "common.header.about": {
     "es": "La Reserva",
@@ -50,9 +50,9 @@
     "fr": "Logement"
   },
   "common.header.products": {
-    "es": "Productos y Eventos",
-    "en": "Products and Events",
-    "fr": "Produits et Évenements"
+    "es": "Restaurante y Productos Locales",
+    "en": "Restaurant and Local Products",
+    "fr": "Restauration et Produits Locaux"
   },
   "common.header.menu": {
     "es": "Menu",
@@ -655,14 +655,79 @@
     "fr": "Logement"
   },
   "accomodation.hero.subtitle": {
-    "es": "Cabañas naturales en el bosque",
-    "en": "Natural cabins in the forest",
-    "fr": "Cabanes naturelles en forêt"
+    "es": "Prueba el turismo sostenible",
+    "en": "Experiment with sustainable tourism",
+    "fr": "Essaie-toi au tourisme durable"
+  },
+  "accomodation.cabins.title.strong": {
+    "es": "Cabañas naturales",
+    "en": "Natural cabins",
+    "fr": "Cabanes naturelles"
+  },
+  "accomodation.cabins.title": {
+    "es": "en el bosque",
+    "en": "in the forest",
+    "fr": "en forêt"
+  },
+  "accomodation.cabins.subtitle": {
+    "es": "Para la comodidad y el descanso, ofrecemos cabañas construidas con materiales naturales (guadua, madera y bahareque). Son 7 cabañas con capacidad de 2 a 10 personas, ubicadas en sitios estratégicos de la reserva, para que el visitante pueda tener contacto permanente con la naturaleza desde su habitación.",
+    "en": "For comfort and rest, we offer cabins built with natural materials (bamboo, wood and bahareque). We have 7 cabins with a capacity of 2 to 10 people, located in strategic places of the reserve so that the visitor can have a permanent contact with nature from his room.",
+    "fr": "Pour le confort et le repos, nous vous proposons des cabanes construites avec des matériaux naturels (Bambou, bois et bahareque). Nous disposons de 7 cabanes d'une capacité de 2 à 10 personnes, situés dans des endroits stratégiques de la réserve afin que le visiteur puisse avoir un contact permanent avec la nature depuis sa chambre."
+  },
+  "accomodation.cabins.tab.1.title": {
+    "es": "Para parejas",
+    "en": "For couples",
+    "fr": "Pour les couples"
+  },
+  "accomodation.cabins.tab.2.title": {
+    "es": "Para familias",
+    "en": "For families",
+    "fr": "Pour les familles"
+  },
+  "accomodation.cabins.tab.3.title": {
+    "es": "Para grupos",
+    "en": "For groups",
+    "fr": "Pour les groupes"
+  },
+  "accomodation.cabins.tab.1.p": {
+    "es": "Cabaña construida totalmente en guadua, ubicada sobre el restaurante y cerca al rio, lo que propicia el descanso al son de los arrullos del agua.",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.1.info1.label": {
+    "es": "Construcción",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.1.info1": {
+    "es": "Marzo 2018",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.1.info2.label": {
+    "es": "Capacidad",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.1.info2": {
+    "es": "2 parejas",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.prices.title": {
+    "es": "Precios",
+    "en": "Pricing",
+    "fr": "Prix"
+  },
+  "accomodation.prices.subtitle": {
+    "es": "Elige la fórmula que más te convenga",
+    "en": "Choose the formula that suits you best",
+    "fr": "Choisis la formule qui te convient le mieux"
   },
   "products.hero.title": {
-    "es": "Productos locales",
-    "en": "Local products",
-    "fr": "Produits locaux"
+    "es": "Restaurante y Productos locales",
+    "en": "Restaurant and Local products",
+    "fr": "Restauration et Produits locaux"
   },
   "products.hero.subtitle": {
     "es": "Para degustar en el acto o para llevar",
@@ -690,6 +755,31 @@
     "fr": ""
   },
   "products.cafe.p.3": {
+    "es": "Complementamos la producción de café con sistemas de fertilización orgánica, que garantizan la regeneración permanente del suelo y la calidad de nuestro grano. La recolección, secado y tostión del café mantiene las prácticas artesanales y se obtiene un café molido que compartimos con nuestros visitantes.",
+    "en": "",
+    "fr": ""
+  },
+  "products.restaurant.title.strong": {
+    "es": "Producción de café orgánica",
+    "en": "Organic coffee production",
+    "fr": "Production de café bio"
+  },
+  "products.restaurant.title": {
+    "es": "en entorno de bosque",
+    "en": "in a forest environment",
+    "fr": "en milieu forestier"
+  },
+  "products.restaurant.p.1": {
+    "es": "En la zafra conservamos la tradición cultural, por ello nos motiva la siembra de café en entorno de bosque, como lo hacían los ancestros y propiciando la dinámica natural de los cultivos.",
+    "en": "",
+    "fr": ""
+  },
+  "products.restaurant.p.2": {
+    "es": "Establecemos nuestros cafetales en zonas boscosas, intercalando con los cultivos diferentes especies de árboles y plantas que propician alimento y sombrío para las plantas, fauna circundante y para nuestros visitantes.",
+    "en": "",
+    "fr": ""
+  },
+  "products.restaurant.p.3": {
     "es": "Complementamos la producción de café con sistemas de fertilización orgánica, que garantizan la regeneración permanente del suelo y la calidad de nuestro grano. La recolección, secado y tostión del café mantiene las prácticas artesanales y se obtiene un café molido que compartimos con nuestros visitantes.",
     "en": "",
     "fr": ""

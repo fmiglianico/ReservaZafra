@@ -227,3 +227,37 @@ a.francois:hover:after {
 #portfolioShowLess {
   display: none;
 }
+
+.nav-tabs>li {
+  margin-right: 20px;
+}
+
+#myTabContent .col-md-3,
+#myTabContent .col-md-12 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.cabin-first {
+  padding: 5px;
+}
+
+.cabin-other {
+  padding: 5px;
+}
+
+.cabin-other img {
+  width: 100%;
+  height: 90px;
+  object-fit: cover;
+}
+
+.tab-pane.fade {
+  position: absolute;
+  top: -9999px;
+}
+
+.tab-pane.fade.active {
+  position: unset;
+  top: unset;
+}
