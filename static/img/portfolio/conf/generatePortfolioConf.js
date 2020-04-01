@@ -33,7 +33,7 @@ function createPortfolioJSON(portfolioJSON) {
       subtitle: '',
       categories: CATEGORIES_LIST,
       size: 1,
-      landscape: false,
+      portrait: false,
       showOnIndex: false
     };
   }

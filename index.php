@@ -18,10 +18,7 @@
         include('sections/index/funfacts.html'); 
         include('sections/index/news.html'); 
         include('sections/index/quotes.html'); 
-
-        $portfolioId = 'indexPortfolio';
-        include('sections/common/portfolio.php'); 
-        
+        include('sections/index/portfolio.html'); 
         include('sections/index/testimonials.html'); 
         include('sections/index/clients.html'); 
         include('sections/index/connect.html'); 

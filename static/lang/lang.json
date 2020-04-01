@@ -4,11 +4,6 @@
     "en": "Reserva Natural Zafra - Welcome",
     "fr": "Reserva Natural Zafra - Bienvenue"
   },
-  "portfolio.head.title": {
-    "es": "Galería - Reserva Natural Zafra",
-    "en": "Portfolio - Reserva Natural Zafra",
-    "fr": "Galerie - Reserva Natural Zafra"
-  },
   "accomodation.head.title": {
     "es": "Alojamiento - Reserva Natural Zafra",
     "en": "Accomodation - Reserva Natural Zafra",
@@ -364,55 +359,50 @@
     "en": "Mahatma Gandhi",
     "fr": "Mahatma Gandhi"
   },
-  "common.portfolio.title": {
+  "index.portfolio.title": {
     "es": "Una muestra",
     "en": "A sample",
     "fr": "Un aperçu"
   },
-  "common.portfolio.title.strong": {
+  "index.portfolio.title.strong": {
     "es": "de lo que te proponemos aquí",
     "en": "of what you will see here",
     "fr": "de ce que tu pourras voir ici"
   },
-  "common.portfolio.subtitle": {
+  "index.portfolio.subtitle": {
     "es": "¡Zafra se queda en tí!",
     "en": "¡Zafra se queda en tí!",
     "fr": "¡Zafra se queda en tí!"
   },
-  "common.portfolio.filter.all": {
-    "es": "Todo",
-    "en": "All",
-    "fr": "Tout"
+  "index.portfolio.filter.selection": {
+    "es": "Avance",
+    "en": "Preview",
+    "fr": "Aperçu"
   },
-  "common.portfolio.filter.alojamiento": {
+  "index.portfolio.filter.alojamiento": {
     "es": "Alojamiento",
     "en": "Accomodation",
     "fr": "Logement"
   },
-  "common.portfolio.filter.naturaleza": {
+  "index.portfolio.filter.naturaleza": {
     "es": "Naturaleza",
     "en": "Nature",
     "fr": "Nature"
   },
-  "common.portfolio.filter.eventos": {
+  "index.portfolio.filter.eventos": {
     "es": "Eventos",
     "en": "Events",
     "fr": "Événements"
   },
-  "common.portfolio.filter.lugardevida": {
+  "index.portfolio.filter.lugardevida": {
     "es": "Lugar de vida",
     "en": "Life spaces",
     "fr": "Lieux de vie"
   },
-  "common.portfolio.filter.productos": {
+  "index.portfolio.filter.productos": {
     "es": "Productos",
     "en": "Products",
     "fr": "Produits"
-  },
-  "common.portfolio.button": {
-    "es": "Ver todo",
-    "en": "See all",
-    "fr": "Voir tout"
   },
   "index.testimonials.title": {
     "es": "Algunos commentarios",

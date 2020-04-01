@@ -223,3 +223,7 @@ a.francois:hover:after {
   -moz-transition: margin-top 0.3s;
   transition: margin-top 0.3s;
 }
+
+#portfolioShowLess {
+  display: none;
+}

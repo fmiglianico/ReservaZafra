@@ -1,325 +1,171 @@
 {
   "images": {
-    "Alojamiento (1).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
     "Naturaleza (15).jpg": {
       "title": "",
       "subtitle": "",
       "categories": [
-        "Naturaleza"
+        "Naturaleza",
+        "selectedPic"
       ],
       "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Naturaleza (13).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Naturaleza"
-      ],
-      "size": 2,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Alojamiento (11).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Alojamiento (12).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Alojamiento (14).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Naturaleza (6).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Naturaleza"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Alojamiento (15).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Alojamiento (16).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Alojamiento (17).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Alojamiento (18).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Alojamiento (19).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Alojamiento (20).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Alojamiento (21).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Eventos (1).JPG": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Eventos"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Productos (2).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Productos"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Alojamiento (23).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Alojamiento (24).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Alojamiento (25).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 2,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Alojamiento (26).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Alojamiento (27).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Alojamiento (28).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Alojamiento (29).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Alojamiento (3).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Naturaleza (12).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Naturaleza"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Alojamiento (5).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Alojamiento (6).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Alojamiento (7).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Alojamiento (8).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Alojamiento (9).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Lugar (2).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Lugar de Vida"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
+      "portrait": true
     },
     "Eventos (2).jpg": {
       "title": "",
       "subtitle": "",
       "categories": [
-        "Eventos"
+        "Eventos",
+        "selectedPic"
       ],
       "size": 2,
-      "landscape": false,
-      "showOnIndex": true
+      "portrait": false
     },
+    "Naturaleza (11).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Naturaleza",
+        "selectedPic"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Alojamiento (16).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento",
+        "selectedPic"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "Alojamiento (2).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento",
+        "selectedPic"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Naturaleza (13).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Naturaleza",
+        "selectedPic"
+      ],
+      "size": 2,
+      "portrait": false
+    },
+    "Naturaleza (17).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Naturaleza",
+        "Productos",
+        "selectedPic"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Alojamiento (25).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento",
+        "selectedPic"
+      ],
+      "size": 2,
+      "portrait": false
+    },
+    "Alojamiento (6).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento",
+        "selectedPic"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "Lugar (2).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Lugar de Vida",
+        "selectedPic"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Alojamiento (21).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento",
+        "selectedPic"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Eventos (8).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Eventos",
+        "selectedPic"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Alojamiento (4).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento",
+        "selectedPic"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Alojamiento (19).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento",
+        "selectedPic"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Eventos (4).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Eventos",
+        "selectedPic"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Lugar (6).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Lugar de Vida",
+        "selectedPic"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+
+
+
+
+    
     "Eventos (3).jpg": {
       "title": "",
       "subtitle": "",
@@ -327,219 +173,7 @@
         "Eventos"
       ],
       "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Eventos (4).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Eventos"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Eventos (5).JPG": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Eventos"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Eventos (6).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Eventos"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Eventos (7).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Eventos"
-      ],
-      "size": 2,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Lugar (1).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Lugar de Vida"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Lugar (10).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Lugar de Vida"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Lugar (11).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Lugar de Vida"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Lugar (12).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Lugar de Vida"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Naturaleza (21).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Naturaleza"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Lugar (14).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Lugar de Vida"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Lugar (15).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Lugar de Vida"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Lugar (16).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Lugar de Vida"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Naturaleza (18).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Naturaleza",
-        "Productos"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Lugar (3).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Lugar de Vida"
-      ],
-      "size": 2,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Alojamiento (10).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Alojamiento (2).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Lugar (4).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Lugar de Vida"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Lugar (5).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Lugar de Vida"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Lugar (6).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Lugar de Vida"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Lugar (7).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Lugar de Vida"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Lugar (8).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Lugar de Vida"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
+      "portrait": true
     },
     "Lugar (9).jpg": {
       "title": "",
@@ -548,8 +182,295 @@
         "Lugar de Vida"
       ],
       "size": 2,
-      "landscape": false,
-      "showOnIndex": true
+      "portrait": false
+    },
+    "Lugar (11).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Lugar de Vida"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Alojamiento (1).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Alojamiento (12).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Naturaleza (6).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Naturaleza"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Alojamiento (15).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "Alojamiento (17).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "Alojamiento (20).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Eventos (1).JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Eventos"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Productos (2).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Productos"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Alojamiento (24).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "Alojamiento (26).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Alojamiento (27).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "Alojamiento (28).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "Alojamiento (29).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Naturaleza (12).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Naturaleza"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "Alojamiento (5).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Alojamiento"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "Eventos (5).JPG": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Eventos"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Eventos (6).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Eventos"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Eventos (7).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Eventos"
+      ],
+      "size": 2,
+      "portrait": false
+    },
+    "Lugar (1).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Lugar de Vida"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Lugar (10).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Lugar de Vida"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Lugar (12).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Lugar de Vida"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "Naturaleza (21).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Naturaleza"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "Lugar (14).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Lugar de Vida"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "Lugar (15).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Lugar de Vida"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Lugar (16).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Lugar de Vida"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Lugar (8).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Lugar de Vida"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "Lugar (3).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Lugar de Vida"
+      ],
+      "size": 2,
+      "portrait": false
+    },
+    "Lugar (4).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Lugar de Vida"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "Lugar (5).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Lugar de Vida"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "Naturaleza (8).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Naturaleza"
+      ],
+      "size": 2,
+      "portrait": false
+    },
+    "Naturaleza (9).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Naturaleza"
+      ],
+      "size": 1,
+      "portrait": true
     },
     "Naturaleza (1).jpg": {
       "title": "",
@@ -558,8 +479,7 @@
         "Naturaleza"
       ],
       "size": 1,
-      "landscape": false,
-      "showOnIndex": true
+      "portrait": false
     },
     "Naturaleza (10).jpg": {
       "title": "",
@@ -568,18 +488,7 @@
         "Naturaleza"
       ],
       "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Naturaleza (11).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Naturaleza"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
+      "portrait": true
     },
     "Alojamiento (22).jpg": {
       "title": "",
@@ -588,8 +497,7 @@
         "Alojamiento"
       ],
       "size": 1,
-      "landscape": false,
-      "showOnIndex": true
+      "portrait": false
     },
     "Naturaleza (14).jpg": {
       "title": "",
@@ -598,40 +506,7 @@
         "Naturaleza"
       ],
       "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Eventos (8).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Eventos"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Naturaleza (16).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Naturaleza",
-        "Productos"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Naturaleza (17).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Naturaleza",
-        "Productos"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
+      "portrait": true
     },
     "Productos (1).jpg": {
       "title": "",
@@ -640,8 +515,7 @@
         "Productos"
       ],
       "size": 1,
-      "landscape": true,
-      "showOnIndex": true
+      "portrait": true
     },
     "Naturaleza (19).jpg": {
       "title": "",
@@ -651,8 +525,7 @@
         "Productos"
       ],
       "size": 1,
-      "landscape": false,
-      "showOnIndex": true
+      "portrait": false
     },
     "Naturaleza (2).JPG": {
       "title": "",
@@ -661,8 +534,7 @@
         "Naturaleza"
       ],
       "size": 1,
-      "landscape": false,
-      "showOnIndex": true
+      "portrait": false
     },
     "Naturaleza (20).jpg": {
       "title": "",
@@ -671,18 +543,7 @@
         "Naturaleza"
       ],
       "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Alojamiento (4).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": false,
-      "showOnIndex": true
+      "portrait": true
     },
     "Naturaleza (22).jpg": {
       "title": "",
@@ -691,8 +552,7 @@
         "Naturaleza"
       ],
       "size": 1,
-      "landscape": false,
-      "showOnIndex": true
+      "portrait": false
     },
     "Naturaleza (23).jpg": {
       "title": "",
@@ -702,8 +562,7 @@
         "Productos"
       ],
       "size": 1,
-      "landscape": true,
-      "showOnIndex": true
+      "portrait": true
     },
     "Naturaleza (3).JPG": {
       "title": "",
@@ -712,8 +571,7 @@
         "Naturaleza"
       ],
       "size": 1,
-      "landscape": false,
-      "showOnIndex": true
+      "portrait": false
     },
     "Naturaleza (4).JPG": {
       "title": "",
@@ -722,8 +580,7 @@
         "Naturaleza"
       ],
       "size": 1,
-      "landscape": true,
-      "showOnIndex": true
+      "portrait": true
     },
     "Naturaleza (5).jpg": {
       "title": "",
@@ -732,8 +589,7 @@
         "Naturaleza"
       ],
       "size": 1,
-      "landscape": true,
-      "showOnIndex": true
+      "portrait": true
     },
     "Naturaleza (7).jpg": {
       "title": "",
@@ -743,38 +599,7 @@
         "Productos"
       ],
       "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Naturaleza (8).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Naturaleza"
-      ],
-      "size": 2,
-      "landscape": false,
-      "showOnIndex": true
-    },
-    "Naturaleza (9).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Naturaleza"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
-    },
-    "Alojamiento (13).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Alojamiento"
-      ],
-      "size": 1,
-      "landscape": true,
-      "showOnIndex": true
+      "portrait": true
     },
     "Lugar (13).jpg": {
       "title": "",
@@ -783,8 +608,7 @@
         "Lugar de Vida"
       ],
       "size": 1,
-      "landscape": true,
-      "showOnIndex": true
+      "portrait": true
     },
     "Productos (3).jpg": {
       "title": "",
@@ -793,8 +617,7 @@
         "Productos"
       ],
       "size": 1,
-      "landscape": true,
-      "showOnIndex": true
+      "portrait": true
     }
   },
   "categories": [

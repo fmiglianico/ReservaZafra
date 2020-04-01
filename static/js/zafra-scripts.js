@@ -30,7 +30,7 @@
 			}
 		});
 		// Filters data to class except first
-		vossenFilters.not(':first').each(function () {
+		vossenFilters.each(function () {
 			var dataOption = $(this).attr('data-filter');
 			$(this).attr('data-filter', "." + dataOption);
 		});
@@ -291,10 +291,10 @@
 	/*										 Init portfolio											*/
 	/**********************************************************/
 
-	const PORTFOLIO_FILTER_TEMPLATE = '<li data-filter="{filter}" data-lang-key="common.portfolio.filter.{filter}"></li>';
+	const PORTFOLIO_FILTER_TEMPLATE = '<li data-filter="{filter}" data-lang-key="index.portfolio.filter.{filter}"></li>';
 	const PORTFOLIO_ITEM_TEMPLATE =
 		'<!-- Portfolio Item -->\
-		<div class="{class}" data-filter="{filters}">\
+		<div class="{class}" data-filter="{filters}" style="{style}">\
 				<a href="#">\
 						<div class="portfolio-item">\
 								<div class="item-caption">\
@@ -309,33 +309,29 @@
 		</div>';
 
 	const SIZE_1X = 'col-md-3 col-sm-6';
-	const SIZE_2X = 'col-md-6 col-sm-12';
+	const SIZE_2X = 'col-md-6 col-sm-6';
 
 	const PORTFOLIO_CONF_URL = "static/img/portfolio/conf/conf.json";
 
-	function initPortfolio (images, portfolioDiv, isIndex) {
+	function initPortfolio (images, portfolioDiv) {
 		for (var i in images) {
 			var portfolioItem = PORTFOLIO_ITEM_TEMPLATE;
 
 			var image = images[i];
-
-			if (isIndex && !image.showOnIndex) {
-				continue;
-			}
 
 			portfolioItem = portfolioItem.replace('{filters}', image.categories.map(categorie => categorie.split(' ').join('').toLowerCase()).join(' '));
 			portfolioItem = portfolioItem.replace('{title}', image.title);
 			portfolioItem = portfolioItem.replace('{subtitle}', image.subtitle);
 			portfolioItem = portfolioItem.replace('{filename}', i);
 
-			var clazz = '';
+			var clazz;
 			if (image.size == 2) {
-				clazz += SIZE_2X;
+				clazz = SIZE_2X;
 			} else {
-				clazz += SIZE_1X;
+				clazz = SIZE_1X;
 			}
 
-			if (image.landscape) {
+			if (image.portrait) {
 				clazz += ' tall';
 			}
 			
@@ -346,11 +342,8 @@
 	}
 
 	const indexPortfolio = $('#indexPortfolio');
-	const fullPortfolio = $('#fullPortfolio');
-	console.log(indexPortfolio);
-	console.log(fullPortfolio);
 
-	if (indexPortfolio.length || fullPortfolio.length) {
+	if (indexPortfolio.length) {
 
 		$.get(PORTFOLIO_CONF_URL, function (data) {
 			if (data.error) {
@@ -370,13 +363,22 @@
 				portfolioFilterDiv.append(filterLi);
 			}
 
-			// Generate image divs
+			// Button actions
+			$('#portfolioShowMore').click(function() {
+				$('.showMorePic').show();
+				$(this).hide();
+				$('#portfolioShowLess').show();
+			});
 
-			if (indexPortfolio.length) {
-				initPortfolio(images, indexPortfolio, true);
-			} else {
-				initPortfolio(images, fullPortfolio, false);
-			}
+			$('#portfolioShowLess').click(function () {
+				$(this).hide();
+				$('#portfolioShowMore').show();
+			});
+
+			// Generate image divs
+			initPortfolio(images, indexPortfolio);
+
+			// Show
 			$('#portfolio').show();
 			vossenPortfolio();
 
