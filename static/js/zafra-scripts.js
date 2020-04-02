@@ -302,14 +302,14 @@
 										<p>{subtitle}</p>\
 								</div>\
 								<div class="item-image">\
-									<img src="/static/img/portfolio/{filename}" />\
+									<img src="static/img/portfolio/{filename}" />\
 								</div>\
 						</div>\
 				</a>\
 		</div>';
 
-	const SIZE_1X = 'col-md-3 col-sm-6';
-	const SIZE_2X = 'col-md-6 col-sm-6';
+	const SIZE_1X = 'col-md-3 col-sm-6 col-xs-6';
+	const SIZE_2X = 'col-md-6 col-sm-6 col-xs-6';
 
 	const PORTFOLIO_CONF_URL = "static/img/portfolio/conf/conf.json";
 

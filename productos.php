@@ -12,8 +12,8 @@
         include('sections/common/header.html');
         include('sections/products/hero.html');
 
-        include('sections/products/products.html'); 
         include('sections/products/restaurant.html'); 
+        include('sections/products/products.html'); 
 
         include('sections/common/footer.html');
         include('sections/common/scripts.html'); 

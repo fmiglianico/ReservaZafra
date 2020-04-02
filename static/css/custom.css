@@ -261,3 +261,16 @@ a.francois:hover:after {
   position: unset;
   top: unset;
 }
+
+@media (max-width: 992px) {
+  .navbar-brand img,
+  .nav-small .navbar-brand img {
+    max-height: 100%;
+    margin-top: 0;
+  }
+
+  .vossen-portfolio-filters li:first-child,
+  .vossen-portfolio-filters li:last-child {
+    border-radius: 0px;
+  }
+}

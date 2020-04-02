@@ -3,7 +3,7 @@
 if(!$_POST) exit;
 
 // Email address that messages will be sent to;
-$address = "francois.miglianico@gmail.com";
+$address = "reservazafra@gmail.com";
 
 // Email address verification, do not edit.
 function isEmail($email) {
@@ -77,11 +77,6 @@ $headers .= "Reply-To: $email" . PHP_EOL;
 $headers .= "MIME-Version: 1.0" . PHP_EOL;
 $headers .= "Content-type: text/plain; charset=utf-8" . PHP_EOL;
 $headers .= "Content-Transfer-Encoding: quoted-printable" . PHP_EOL;
-
-ini_set('SMTP', 'ssl:smtp.gmail.com');
-ini_set('smtp_port', '465');
-ini_set('auth_username', 'reservazafra@gmail.com');
-ini_set('auth_password', 'reserva2014');
 
 if(mail($address, $e_subject, $msg, $headers)) {
 	// Email has sent successfully, echo a success page.

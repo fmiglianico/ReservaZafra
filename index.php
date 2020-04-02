@@ -4,6 +4,7 @@
 <head>
     <?php include('sections/common/imports.html'); ?>
     <title data-lang-key="index.head.title"></title>
+    <link rel="preload" href="static/img/backgrounds/bg-1.jpg" as="image">
 </head>
 
 <body data-fade-in="true">
