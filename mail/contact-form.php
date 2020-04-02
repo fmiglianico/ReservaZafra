@@ -21,20 +21,20 @@ $locale			= $_POST['locale'];
 
 if(trim($name) == '') {
 	if ($locale == 'en') {
-		echo '<div class="error_message">Name has to be filled</div>';
+		echo '<div class="error_message">Name has to be filled.</div>';
 	} else if ($locale == 'fr') {
-		echo '<div class="error_message">Le nom est obligatoire</div>';
+		echo '<div class="error_message">Le nom est obligatoire.</div>';
 	} else {
 		echo '<div class="error_message">El nombre es obligatorio.</div>';
 	}
 	exit();
 } else if(trim($email) == '') {
 	if ($locale == 'en') {
-		echo '<div class="error_message">Email not valid.</div>';
+		echo '<div class="error_message">Email has to be filled.</div>';
 	} else if ($locale == 'fr') {
-		echo '<div class="error_message">Email non valide.</div>';
+		echo '<div class="error_message">L\'adresse email est obligatoire.</div>';
 	} else {
-		echo '<div class="error_message">El correo no es válido.</div>';
+		echo '<div class="error_message">El correo no es obligatorio.</div>';
 	}
 	exit();
 } else if(!isEmail($email)) {
@@ -65,7 +65,7 @@ if(get_magic_quotes_gpc()) {
 // Configuration option.
 
 // Email content
-$e_subject = 'Nuevo mensaje desde la pagina web';
+$e_subject = '[ReservaZafra.com] Nuevo mensaje desde la pagina web';
 $e_content = "$message" . PHP_EOL . PHP_EOL;
 $e_details = "\n Nombre: $name \n Tel: $phone \n Correo: $email" . PHP_EOL . PHP_EOL;
 $e_reply = "Puede responder directamente a este correo electrónico para responder a $name." . PHP_EOL . PHP_EOL;
