@@ -180,6 +180,7 @@ a.francois:hover:after {
 
 .item-image img {
   object-fit: cover;
+  width: 100%;
 }
 
 .col-md-3 .item-image img {
@@ -194,11 +195,11 @@ a.francois:hover:after {
   height: 420px;
 }
 
-.navbar-nav>li>a.lang i.world{
+.navbar-nav>li.lang>a i.world {
   font-size: 24px;
 }
 
-.navbar-nav>li>a.lang {
+.navbar-nav>li.lang>a {
   padding: 5px 11px 5px 11px;
 }
 
@@ -262,6 +263,9 @@ a.francois:hover:after {
   top: unset;
 }
 
+
+
+
 @media (max-width: 992px) {
   .navbar-brand img,
   .nav-small .navbar-brand img {
@@ -272,5 +276,69 @@ a.francois:hover:after {
   .vossen-portfolio-filters li:first-child,
   .vossen-portfolio-filters li:last-child {
     border-radius: 0px;
+  }
+
+  .portfolio-item .item-image:after,
+  .portfolio-item:hover .item-image:after {
+    background: linear-gradient(rgba(0, 0, 0, 0) 0%, #191a1c 160%);
+    opacity: 1;
+  }
+
+  .navbar-nav>li.lang>a i.world {
+    padding: 0;
+    margin: 0;
+    left: 0;
+  }
+
+  .navbar-nav>li.lang a {
+    height: 40px;
+  }
+
+  #langBadge {
+    top: 26px;
+    left: 29px;
+}
+
+@media (max-width: 768px) {
+  #about h2 {
+    font-size: 28px;
+  }
+
+  #about h2 strong {
+    font-size: 28px;
+  }
+
+  #about p.lead {
+    font-size: 16px;
+  }
+
+  .col-xs-6.tall .item-image img {
+    height: 400px;
+  }
+
+  .col-xs-6 .item-image img {
+    height: 190px;
+  }
+}
+
+@media (max-width: 767px) {
+
+  .col-xs-6.tall .item-image img {
+    height: 300px;
+  }
+
+  .col-xs-6 .item-image img {
+    height: 140px;
+  }
+}
+
+@media (max-width: 375px) {
+
+  .col-xs-6.tall .item-image img {
+    height: 200px;
+  }
+
+  .col-xs-6 .item-image img {
+    height: 90px;
   }
 }
