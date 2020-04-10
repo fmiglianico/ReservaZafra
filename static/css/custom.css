@@ -6,17 +6,6 @@
   font-style: normal;
 }
 
-@media (min-width:992px) {
-	nav.navbar[data-menu-style="transparent-to-dark"] {
-		border-bottom: none;
-  }
-
-  .nav>li>a {
-      font-family: 'Roboto Condensed', sans-serif;
-      font-size: 12.4px;
-  }
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Dosis';
   color: #444;
@@ -195,22 +184,6 @@ a.francois:hover:after {
   height: 420px;
 }
 
-.navbar-nav>li.lang>a i.world {
-  font-size: 24px;
-}
-
-.navbar-nav>li.lang>a {
-  padding: 5px 11px 5px 11px;
-}
-
-#langBadge {
-  font-size: 9px;
-  position: absolute;
-  top: 55%;
-  left: 40%;
-  background-color: #82b440;
-  padding: 2px 5px;
-}
 
 .navbar-brand img {
   max-height: 100px;
@@ -265,7 +238,6 @@ a.francois:hover:after {
 
 
 
-
 @media (max-width: 992px) {
   .navbar-brand img,
   .nav-small .navbar-brand img {
@@ -297,6 +269,35 @@ a.francois:hover:after {
   #langBadge {
     top: 26px;
     left: 29px;
+  }
+}
+
+@media (min-width:992px) {
+  nav.navbar[data-menu-style="transparent-to-dark"] {
+    border-bottom: none;
+  }
+
+  .nav>li>a {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 12.4px;
+  }
+
+  .navbar-nav>li.lang>a i.world {
+    font-size: 24px;
+  }
+
+  .navbar-nav>li.lang>a {
+    padding: 5px 11px 5px 11px;
+  }
+
+  #langBadge {
+    font-size: 9px;
+    position: absolute;
+    top: 55%;
+    left: 40%;
+    background-color: #82b440;
+    padding: 2px 5px;
+  }
 }
 
 @media (max-width: 768px) {

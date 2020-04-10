@@ -14,6 +14,11 @@
     "en": "Restaurant and Local products - Reserva Natural Zafra",
     "fr": "Restauration et Produits locaux - Reserva Natural Zafra"
   },
+  "eventos.head.title": {
+    "es": "Salón para reuniones y eventos - Reserva Natural Zafra",
+    "en": "Meeting and event space - Reserva Natural Zafra",
+    "fr": "Salle de réunions et d'événements - Reserva Natural Zafra"
+  },
   "common.header.about": {
     "es": "La Reserva",
     "en": "The Reserve",
@@ -54,6 +59,11 @@
     "en": "Restaurant and Local Products",
     "fr": "Restauration et Produits Locaux"
   },
+  "common.header.events": {
+    "es": "Salón para reuniones y eventos",
+    "en": "Meeting and event space",
+    "fr": "Salle de réunions et d'événements"
+  },
   "common.header.menu": {
     "es": "Menu",
     "en": "Menu",
@@ -91,7 +101,7 @@
   },
   "index.hero.subtitle": {
     "es": "Un espacio de naturaleza para conocer, aprender y disfrutar.",
-    "en": "A nature space to meet, learn and enjoy.",
+    "en": "A space in nature to meet, learn and enjoy.",
     "fr": "Un espace en pleine nature pour apprendre, se rencontrer et se reposer."
   },
   "index.hero.button": {
@@ -105,7 +115,7 @@
     "fr": "Nous sommes la Réserve Zafra"
   },
   "index.about.title.strong": {
-    "es": "Un espacio estimulante tu inspiración",
+    "es": "Un espacio estimulante para tu inspiración",
     "en": "A space stimulating your inspiration",
     "fr": "Un espace stimulant ton inspiration"
   },
@@ -120,7 +130,7 @@
     "fr": "options de vie"
   },
   "index.about.subtitle.3": {
-    "es": "mas saludable",
+    "es": "más saludable",
     "en": "life options",
     "fr": "plus saines"
   },
@@ -160,12 +170,12 @@
     "fr": "Repose-toi"
   },
   "index.about.2.title": {
-    "es": "Entre arboles y agua",
+    "es": "Entre árboles y agua",
     "en": "In between water and trees",
     "fr": "Entre forêts et rivières"
   },
   "index.about.2.content": {
-    "es": "La Reserva es un espacio para el descanso en entorno de bosque, con proximidad al Rio Arenal, principal rio turístico del Municipio de San Rafael, un destino \"único por naturaleza\".",
+    "es": "La Reserva es un espacio para el descanso en entorno de bosque, con proximidad al Río Arenal, principal río turístico del Municipio de San Rafael, un destino \"único por naturaleza\".",
     "en": "The Reserve is a space for rest surrounded by a forest, close to the Arenal River, the main touristic river of the Municipality of San Rafael, a destination \"unique in naturaleza\".",
     "fr": "La Réserve est un espace de repos dans un cadre forestier, à proximité de la rivière Arenal, la principale rivière touristique de la municipalité de San Rafael, une destination \"unique dans la nature\"."
   },
@@ -190,12 +200,12 @@
     "fr": "Réunissez-vous"
   },
   "index.about.4.title": {
-    "es": "En nuestro salon de eventos",
+    "es": "En nuestro salón de eventos",
     "en": "In our event room",
-    "fr": "Dans notre salon pour les événements"
+    "fr": "Dans notre salón pour les événements"
   },
   "index.about.4.content": {
-    "es": "Un espacioso lugar, ubicado en medio de la tranquilidad del bosque, que tiene capacidad para reunir hasta a 40 personas y cuenta con ayudas tecnológicas audio visuales.",
+    "es": "Un espacioso lugar, ubicado en medio de la tranquilidad del bosque, que tiene capacidad para reunir hasta 40 personas y cuenta con ayudas tecnológicas audiovisuales.",
     "en": "A spacious space, surrounded by the tranquility of the forest, with a capacity to gather up to 40 people and fully equipped with audio/video technology.",
     "fr": "Un lieu spacieux, situé au coeur de la forêt et de sa tranquilité, ayant une capacité maximum de 40 personnes et disposant de tout l'équipement audiovisuel."
   },
@@ -240,12 +250,12 @@
     "fr": "Nous protégeons la nature"
   },
   "index.video.p.1": {
-    "es": "La Zafra es una Reserva Natural de Sociedad Civil, es una figura de conservación que ha sido avalada por el ministerio de medio ambiente. Es una muestra de cómo los humanos, cuando nos establecemos en un territorio, tenemos todas las posibilidades de generar  interacciones positivas, cuidando el entorno, cuidando la naturaleza y posibilitando la vida.",
+    "es": "La Zafra es una Reserva Natural de Sociedad Civil, es una figura de conservación que ha sido avalada por el Ministerio de Medio Ambiente. Es una muestra de cómo los humanos, cuando nos establecemos en un territorio, tenemos todas las posibilidades de generar  interacciones positivas, cuidando el entorno, cuidando la naturaleza y posibilitando la vida.",
     "en": "La Zafra is a private Natural Reserve, it is a conservation figure that has been endorsed by the Ministry of the Environment. It is an example of how humans, when settling in a territory, have all the possibilities of generating positive interactions, taking care of the environment, taking care of nature and making life possible.",
     "fr": "La Zafra est une Réserve Naturelle de la Société Civile, c'est une figure de la conservation qui a été approuvée par le ministère de l'Environnement. Elle constitue un exemple de la manière dont les humains, lors de l'installation sur un territoire, ont toutes les possibilités de générer des interactions positives, de prendre soin de l'environnement, de prendre soin de la nature et de rendre la vie possible."
   },
   "index.video.p.2": {
-    "es": "La naturaleza es parte de la riqueza que tiene el vivir acá, y queremos invitarlos a venir a conocer la Zafra: hay la posibilidad de venir pasar un día de sol para conocer, quedarse, interactuar como familia y también interactuar con esta naturaleza. Es una manera de empezar a conocer una forma diferente de relacionarse con ella y llevarse elementos de inspiración.",
+    "es": "La naturaleza es parte de la riqueza que tiene el vivir acá, y queremos invitarlos a venir a conocer la Zafra: hay la posibilidad de venir a pasar un día de sol para conocer, quedarse, interactuar como familia y también interactuar con esta naturaleza. Es una manera de empezar a conocer una forma diferente de relacionarse con ella y llevarse elementos de inspiración.",
     "en": "Nature is part of the richness of linving here, and we want to invite you to come to know Zafra: there is the possibility of coming to spend a sunny day to meet us, enjoy, interact as a family and also interact with this nature. It is a way to begin to know a different way of relating to her and take elements of inspiration.",
     "fr": "La nature fait partie de la richesse de vivre ici, et nous voulons vous inviter à découvrir la Zafra: il est possible de venir passer une journée ensoleillée pour se rencontrer, profiter, interagir en famille et aussi interagir avec cette nature. C'est une façon de commencer à connaître une manière différente de se comporter face à elle, et de s'en inspirer."
   },
@@ -260,7 +270,7 @@
     "fr": "Rivières"
   },
   "index.funfacts.3": {
-    "es": "Especies de aves enumeradas",
+    "es": "Especies de aves identificadas",
     "en": "Bird species",
     "fr": "Espèces d'oiseaux recensées"
   },
@@ -370,12 +380,12 @@
     "fr": "de ce que tu pourras voir ici"
   },
   "index.portfolio.subtitle": {
-    "es": "¡Zafra se queda en tí!",
-    "en": "¡Zafra se queda en tí!",
-    "fr": "¡Zafra se queda en tí!"
+    "es": "¡Zafra se queda en ti!",
+    "en": "¡Zafra se queda en ti!",
+    "fr": "¡Zafra se queda en ti!"
   },
   "index.portfolio.filter.selection": {
-    "es": "Avance",
+    "es": "Destacadas",
     "en": "Preview",
     "fr": "Aperçu"
   },
@@ -405,7 +415,7 @@
     "fr": "Produits"
   },
   "index.testimonials.title": {
-    "es": "Algunos commentarios",
+    "es": "Algunos comentarios",
     "en": "A few comments",
     "fr": "Quelques retours"
   },
@@ -480,7 +490,7 @@
     "fr": "Connecte-toi"
   },
   "index.connect.subtitle": {
-    "es": "Síguenos en los redes sociales",
+    "es": "Síguenos en las redes sociales",
     "en": "Follow us on the social networks",
     "fr": "Suis-nous sur les réseaux sociaux"
   },
@@ -649,13 +659,13 @@
     "en": "Come on in!",
     "fr": "Viens faire un tour!"
   },
-  "accomodation.hero.title": {
+  "accomodation.hero.title.strong": {
     "es": "Alojamiento",
     "en": "Accomodation",
     "fr": "Logement"
   },
-  "accomodation.hero.subtitle": {
-    "es": "Prueba el turismo sostenible",
+  "accomodation.hero.title": {
+    "es": "Vive el turismo sostenible",
     "en": "Experiment with sustainable tourism",
     "fr": "Essaie-toi au tourisme durable"
   },
@@ -670,7 +680,7 @@
     "fr": "en forêt"
   },
   "accomodation.cabins.subtitle": {
-    "es": "Para la comodidad y el descanso, ofrecemos cabañas construidas con materiales naturales (guadua, madera y bahareque). Son 7 cabañas con capacidad de 2 a 10 personas, ubicadas en sitios estratégicos de la reserva, para que el visitante pueda tener contacto permanente con la naturaleza desde su habitación.",
+    "es": "Para la comodidad y el descanso, ofrecemos cabañas construídas con materiales naturales (guadua, madera y bahareque). Son 7 cabañas con capacidad de 2 a 10 personas, ubicadas en sitios estratégicos de la reserva, para que el visitante pueda tener contacto permanente con la naturaleza desde su habitación.",
     "en": "For comfort and rest, we offer cabins built with natural materials (bamboo, wood and bahareque). We have 7 cabins with a capacity of 2 to 10 people, located in strategic places of the reserve so that the visitor can have a permanent contact with nature from his room.",
     "fr": "Pour le confort et le repos, nous vous proposons des cabanes construites avec des matériaux naturels (Bambou, bois et bahareque). Nous disposons de 7 cabanes d'une capacité de 2 à 10 personnes, situés dans des endroits stratégiques de la réserve afin que le visiteur puisse avoir un contact permanent avec la nature depuis sa chambre."
   },
@@ -690,7 +700,7 @@
     "fr": "Pour les groupes"
   },
   "accomodation.cabins.tab.1.p": {
-    "es": "Cabaña construida totalmente en guadua, ubicada sobre el restaurante y cerca al rio, lo que propicia el descanso al son de los arrullos del agua.",
+    "es": "Cabaña construída totalmente en guadua, ubicada sobre el restaurante y cerca al rio, lo que propicia el descanso al son de los arrullos del agua.",
     "en": "",
     "fr": ""
   },
@@ -724,13 +734,13 @@
     "en": "Choose the formula that suits you best",
     "fr": "Choisis la formule qui te convient le mieux"
   },
-  "products.hero.title": {
+  "products.hero.title.strong": {
     "es": "Restaurante y Productos locales",
     "en": "Restaurant and Local products",
     "fr": "Restauration et Produits locaux"
   },
-  "products.hero.subtitle": {
-    "es": "Para degustar en el acto o para llevar",
+  "products.hero.title": {
+    "es": "Para probar o para llevar",
     "en": "To taste on the spot or to take away",
     "fr": "À déguster sur place ou à emporter"
   },
@@ -745,7 +755,7 @@
     "fr": "en milieu forestier"
   },
   "products.cafe.p.1": {
-    "es": "En la zafra conservamos la tradición cultural, por ello nos motiva la siembra de café en entorno de bosque, como lo hacían los ancestros y propiciando la dinámica natural de los cultivos.",
+    "es": "En la Zafra conservamos la tradición cultural, por ello nos motiva la siembra de café en entorno de bosque, como lo hacían los ancestros y propiciando la dinámica natural de los cultivos.",
     "en": "",
     "fr": ""
   },
@@ -770,7 +780,7 @@
     "fr": "Nourriture locale, saine et équilibrée"
   },
   "products.restaurant.p.1": {
-    "es": "En la zafra conservamos la tradición cultural, por ello nos motiva la siembra de café en entorno de bosque, como lo hacían los ancestros y propiciando la dinámica natural de los cultivos.",
+    "es": "En la Zafra conservamos la tradición cultural, por ello nos motiva la siembra de café en entorno de bosque, como lo hacían los ancestros y propiciando la dinámica natural de los cultivos.",
     "en": "",
     "fr": ""
   },
@@ -790,7 +800,7 @@
     "fr": "Production de miel"
   },
   "products.honey.subtitle": {
-    "es": "Las Abejas desempañan un papel imprescindible dentro del ecosistema",
+    "es": "Las Abejas desempeñan un papel imprescindible dentro del ecosistema",
     "en": "Bees play an essential role in the ecosystem",
     "fr": "Les abeilles jouent un rôle essentiel dans l'écosystème"
   },
@@ -800,7 +810,42 @@
     "fr": ""
   },
   "products.honey.p.2": {
-    "es": "Por ello mantenemos la apicultura como una estrategia de reproducción de arboles y plantas en todo el lugar y en la zona. La producción de miel es un valor agregado que nos aportan las abejas y que ponemos a disposición para la compra a nuestros visitantes.",
+    "es": "Por ello mantenemos la apicultura como una estrategia de reproducción de árboles y plantas en todo el lugar y en la zona. La producción de miel es un valor agregado que nos aportan las abejas y que ponemos a disposición para la compra a nuestros visitantes.",
+    "en": "",
+    "fr": ""
+  },
+  "events.hero.title.strong": {
+    "es": "Salón para reuniones y eventos",
+    "en": "",
+    "fr": ""
+  },
+  "events.hero.title": {
+    "es": "Realiza tu encuentro en un lugar mágico",
+    "en": "",
+    "fr": ""
+  },
+  "events.space.title.strong": {
+    "es": "Producción de café orgánica",
+    "en": "Organic coffee production",
+    "fr": "Production de café bio"
+  },
+  "events.space.title": {
+    "es": "en entorno de bosque",
+    "en": "in a forest environment",
+    "fr": "en milieu forestier"
+  },
+  "events.space.p.1": {
+    "es": "En la Zafra conservamos la tradición cultural, por ello nos motiva la siembra de café en entorno de bosque, como lo hacían los ancestros y propiciando la dinámica natural de los cultivos.",
+    "en": "",
+    "fr": ""
+  },
+  "events.space.p.2": {
+    "es": "Establecemos nuestros cafetales en zonas boscosas, intercalando con los cultivos diferentes especies de árboles y plantas que propician alimento y sombrío para las plantas, fauna circundante y para nuestros visitantes.",
+    "en": "",
+    "fr": ""
+  },
+  "products.space.p.3": {
+    "es": "Complementamos la producción de café con sistemas de fertilización orgánica, que garantizan la regeneración permanente del suelo y la calidad de nuestro grano. La recolección, secado y tostión del café mantiene las prácticas artesanales y se obtiene un café molido que compartimos con nuestros visitantes.",
     "en": "",
     "fr": ""
   }

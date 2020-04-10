@@ -256,7 +256,7 @@
 	// Get facebook page feed
 	function initNews() {
 		window.FB.api(
-			'/reservanaturalzafra/feed?access_token=' + FBAT,
+			'/reservazafra/feed?access_token=' + FBAT,
 			'GET',
 			{ "limit": "20", "fields": "full_picture,id,message,created_time,permalink_url,status_type" },
 			function (response) {
