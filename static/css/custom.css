@@ -206,6 +206,10 @@ a.francois:hover:after {
   margin-right: 20px;
 }
 
+.nav-tabs>li>a {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
 #myTabContent .col-md-3,
 #myTabContent .col-md-12 {
   padding-left: 0;
@@ -226,12 +230,12 @@ a.francois:hover:after {
   object-fit: cover;
 }
 
-.tab-pane.fade {
+.tab-pane {
   position: absolute;
   top: -9999px;
 }
 
-.tab-pane.fade.active {
+.tab-pane.active {
   position: unset;
   top: unset;
 }
@@ -252,6 +256,19 @@ a.francois:hover:after {
   display: inline;
   padding: 0 30px;
 }
+
+.accomodation-price .currency {
+  vertical-align: super;
+}
+
+.accomodation-price .value {
+  font-size: 20px;
+}
+
+
+
+
+
 
 
 

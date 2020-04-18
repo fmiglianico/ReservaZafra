@@ -13,7 +13,6 @@
         include('sections/accomodation/hero.html');
 
         include('sections/accomodation/cabins.html');
-        include('sections/accomodation/prices.html');
         include('sections/common/contact.html');
 
         include('sections/common/footer.html');

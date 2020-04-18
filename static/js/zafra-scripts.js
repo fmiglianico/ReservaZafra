@@ -483,7 +483,6 @@
 		var pictures = $(tabClass);
 
 		if (pictures.length) {
-			console.log(tabClass);
 			var pswpElement = $('.pswp')[0];
 
 			pictures.click(function() {

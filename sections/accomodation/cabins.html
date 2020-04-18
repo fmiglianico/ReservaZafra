@@ -14,45 +14,37 @@
 
             <div class="col-md-10 mr-auto text-center">
 
-                <div class="icon-tabs-centered">
+                <div class="buttons-tabs-centered">
 
-                    <ul id="iconTabs" class="nav-tabs nav-tabs-center">
+                    <ul id="buttonTabs" class="nav-tabs nav-tabs-center">
                         <li class="active">
-                            <a href="#tab-i1" data-toggle="tab">
-                                <span class="icon-tab ion-ios-moon-outline"></span>
-                                <span data-lang-key="accomodation.cabins.tab.1.title"></span>
-                            </a>
+                            <a href="#tab-c1" data-toggle="tab"
+                                data-lang-key="accomodation.cabins.tab.1.title">Placeholder</a>
                         </li>
                         <li class="">
-                            <a href="#tab-i2" data-toggle="tab">
-                                <span class="icon-tab ion-ios-bolt-outline"></span>
-                                <span data-lang-key="accomodation.cabins.tab.2.title"></span>
-                            </a>
+                            <a href="#tab-c2" data-toggle="tab"
+                                data-lang-key="accomodation.cabins.tab.2.title">Placeholder</a>
                         </li>
                         <li class="">
-                            <a href="#tab-i3" data-toggle="tab">
-                                <span class="icon-tab ion-ios-infinite-outline"></span>
-                                <span data-lang-key="accomodation.cabins.tab.3.title"></span>
-                            </a>
+                            <a href="#tab-c3" data-toggle="tab"
+                                data-lang-key="accomodation.cabins.tab.3.title">Placeholder</a>
                         </li>
                     </ul>
 
                     <div id="myTabContent" class="tab-content">
 
                         <!-- First Tab -->
-                        <div class="tab-pane fade active in" id="tab-i1">
+                        <div class="tab-pane active in" id="tab-c1">
+
+                            <div class="col-md-8 mr-auto">
+                                <h2><strong data-lang-key="accomodation.cabins.tab.1.title"></strong></h2>
+                                <p data-lang-key="accomodation.cabins.tab.1.p"></p>
+                            </div>
 
                             <div class="col-md-8 mt20 mb40">
                                 <div class="col-md-12 col-sm-12">
                                     <a href="javascript:void(0)" class="tab1-pic">
                                         <div class="cabin-first">
-                                            <img src="static/img/accomodation/couples/Couples (3).jpg" />
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="col-md-3 col-sm-6">
-                                    <a href="javascript:void(0)" class="tab1-pic">
-                                        <div class="cabin-other">
                                             <img src="static/img/accomodation/couples/Couples (2).jpg" />
                                         </div>
                                     </a>
@@ -65,14 +57,21 @@
                                     </a>
                                 </div>
                                 <div class="col-md-3 col-sm-6">
-                                    <a href="javascript:void(0)" class="tab1-pic tall">
+                                    <a href="javascript:void(0)" class="tab1-pic">
+                                        <div class="cabin-other">
+                                            <img src="static/img/accomodation/couples/Couples (3).jpg" />
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="col-md-3 col-sm-6">
+                                    <a href="javascript:void(0)" class="tab1-pic">
                                         <div class="cabin-other">
                                             <img src="static/img/accomodation/couples/Couples (4).jpg" />
                                         </div>
                                     </a>
                                 </div>
                                 <div class="col-md-3 col-sm-6">
-                                    <a href="javascript:void(0)" class="tab1-pic tall">
+                                    <a href="javascript:void(0)" class="tab1-pic">
                                         <div class="cabin-other">
                                             <img src="static/img/accomodation/couples/Couples (5).jpg" />
                                         </div>
@@ -81,88 +80,159 @@
                             </div>
 
                             <!-- Sidebar -->
-                            <div class="col-md-4 project-sidebar">
-
-                                <div>
-                                    <h4><strong data-lang-key="accomodation.cabins.tab.1.title"></strong></h4>
-                                    <p data-lang-key="accomodation.cabins.tab.1.p"></p>
-                                </div>
+                            <div class="col-md-4 mt20 project-sidebar">
 
                                 <div class="project-info">
-                                    <div>
-                                        <p data-lang-key="accomodation.cabins.tab.1.info1.label"></p>
-                                        <p data-lang-key="accomodation.cabins.tab.1.info1"></p>
-                                    </div>
-                                    <div>
-                                        <p data-lang-key="accomodation.cabins.tab.1.info2.label"></p>
-                                        <p data-lang-key="accomodation.cabins.tab.1.info2"></p>
-                                    </div>
+                                    <h4><strong data-lang-key="accomodation.cabins.tab.1.info.title"></strong></h4>
+
+                                    <ul class="list-icons text-left">
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.1.info.bed"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.1.info.bathroom"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.1.info.outdoor"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.1.info.food"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.1.info.cafe"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.1.info.process"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.1.info.senderos"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.1.info.wifi"></span>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                <div class="accomodation-price">
+                                    <h4><strong data-lang-key="accomodation.cabins.tab.1.price.title"></strong></h4>
+                                    <span class="currency" data-lang-key="accomodation.cabins.tab.1.price.currency"></span>
+                                    <strong class="value" data-lang-key="accomodation.cabins.tab.1.price.value"></strong>
+                                    <span class="person" data-lang-key="accomodation.cabins.tab.1.price.perperson"></span>
                                 </div>
 
                             </div>
                             <!-- End Sidebar -->
-
                         </div>
                         <!-- End First Tab -->
 
                         <!-- Second Tab -->
-                        <div class="tab-pane fade" id="tab-i2">
+                        <div class="tab-pane" id="tab-c2">
+
+                            <div class="col-md-8 mr-auto">
+                                <h2><strong data-lang-key="accomodation.cabins.tab.2.title"></strong></h2>
+                                <p data-lang-key="accomodation.cabins.tab.2.p"></p>
+                            </div>
 
                             <div class="col-md-8 mt20 mb40">
                                 <div class="col-md-12 col-sm-12">
                                     <a href="javascript:void(0)" class="tab2-pic">
                                         <div class="cabin-first">
-                                            <img src="static/img/accomodation/families/Twins (5).jpg" />
+                                            <img src="static/img/accomodation/families/Families (4).jpg" />
                                         </div>
                                     </a>
                                 </div>
                                 <div class="col-md-3 col-sm-6">
                                     <a href="javascript:void(0)" class="tab2-pic">
                                         <div class="cabin-other">
-                                            <img src="static/img/accomodation/families/Twins (2).jpg" />
+                                            <img src="static/img/accomodation/families/Families (2).jpg" />
                                         </div>
                                     </a>
                                 </div>
                                 <div class="col-md-3 col-sm-6">
-                                    <a href="javascript:void(0)" class="tab2-pic tall">
+                                    <a href="javascript:void(0)" class="tab2-pic">
                                         <div class="cabin-other">
-                                            <img src="static/img/accomodation/families/Twins (3).jpg" />
+                                            <img src="static/img/accomodation/families/Families (3).jpg" />
                                         </div>
                                     </a>
                                 </div>
                                 <div class="col-md-3 col-sm-6">
-                                    <a href="javascript:void(0)" class="tab2-pic tall">
+                                    <a href="javascript:void(0)" class="tab2-pic">
                                         <div class="cabin-other">
-                                            <img src="static/img/accomodation/families/Twins (4).jpg" />
+                                            <img src="static/img/accomodation/families/Families (5).jpg" />
                                         </div>
                                     </a>
                                 </div>
                                 <div class="col-md-3 col-sm-6">
-                                    <a href="javascript:void(0)" class="tab2-pic tall">
+                                    <a href="javascript:void(0)" class="tab2-pic">
                                         <div class="cabin-other">
-                                            <img src="static/img/accomodation/families/Twins (1).jpg" />
+                                            <img src="static/img/accomodation/families/Families (1).jpg" />
                                         </div>
                                     </a>
                                 </div>
                             </div>
 
                             <!-- Sidebar -->
-                            <div class="col-md-4 project-sidebar">
-
-                                <div>
-                                    <h4><strong data-lang-key="accomodation.cabins.tab.2.title"></strong></h4>
-                                    <p data-lang-key="accomodation.cabins.tab.2.p"></p>
-                                </div>
+                            <div class="col-md-4 mt20 project-sidebar">
 
                                 <div class="project-info">
-                                    <div>
-                                        <p data-lang-key="accomodation.cabins.tab.2.info1.label"></p>
-                                        <p data-lang-key="accomodation.cabins.tab.2.info1"></p>
-                                    </div>
-                                    <div>
-                                        <p data-lang-key="accomodation.cabins.tab.2.info2.label"></p>
-                                        <p data-lang-key="accomodation.cabins.tab.2.info2"></p>
-                                    </div>
+                                    <h4><strong data-lang-key="accomodation.cabins.tab.2.info.title"></strong></h4>
+
+                                    <ul class="list-icons text-left">
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.2.info.rooms"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.2.info.bed"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.2.info.bathroom"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.2.info.outdoor"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.2.info.food"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.2.info.cafe"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.2.info.process"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.2.info.senderos"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.2.info.wifi"></span>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                <div class="accomodation-price">
+                                    <h4><strong data-lang-key="accomodation.cabins.tab.2.price.title"></strong></h4>
+                                    <span class="currency"
+                                        data-lang-key="accomodation.cabins.tab.2.price.currency"></span>
+                                    <strong class="value"
+                                        data-lang-key="accomodation.cabins.tab.2.price.value"></strong>
+                                    <span class="person"
+                                        data-lang-key="accomodation.cabins.tab.2.price.perperson"></span>
                                 </div>
 
                             </div>
@@ -172,7 +242,12 @@
                         <!-- End Second Tab -->
 
                         <!-- Third Tab -->
-                        <div class="tab-pane fade" id="tab-i3">
+                        <div class="tab-pane" id="tab-c3">
+
+                            <div class="col-md-8 mr-auto">
+                                <h2><strong data-lang-key="accomodation.cabins.tab.3.title"></strong></h2>
+                                <p data-lang-key="accomodation.cabins.tab.3.p"></p>
+                            </div>
 
                             <div class="col-md-8 mt20 mb40">
                                 <div class="col-md-12 col-sm-12">
@@ -183,7 +258,7 @@
                                     </a>
                                 </div>
                                 <div class="col-md-3 col-sm-6">
-                                    <a href="javascript:void(0)" class="tab3-pic tall">
+                                    <a href="javascript:void(0)" class="tab3-pic">
                                         <div class="cabin-other">
                                             <img src="static/img/accomodation/dorms/Dorm (2).jpg" />
                                         </div>
@@ -213,22 +288,55 @@
                             </div>
 
                             <!-- Sidebar -->
-                            <div class="col-md-4 project-sidebar">
-
-                                <div>
-                                    <h4><strong data-lang-key="accomodation.cabins.tab.3.title"></strong></h4>
-                                    <p data-lang-key="accomodation.cabins.tab.3.p"></p>
-                                </div>
+                            <div class="col-md-4 mt20 project-sidebar">
 
                                 <div class="project-info">
-                                    <div>
-                                        <p data-lang-key="accomodation.cabins.tab.3.info1.label"></p>
-                                        <p data-lang-key="accomodation.cabins.tab.3.info1"></p>
-                                    </div>
-                                    <div>
-                                        <p data-lang-key="accomodation.cabins.tab.3.info2.label"></p>
-                                        <p data-lang-key="accomodation.cabins.tab.3.info2"></p>
-                                    </div>
+                                    <h4><strong data-lang-key="accomodation.cabins.tab.3.info.title"></strong></h4>
+
+                                    <ul class="list-icons text-left">
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.3.info.bed"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.3.info.bathroom"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.3.info.outdoor"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.3.info.food"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.3.info.cafe"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.3.info.process"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.3.info.senderos"></span>
+                                        </li>
+                                        <li>
+                                            <i class="ion-checkmark-round"></i>
+                                            <span data-lang-key="accomodation.cabins.tab.3.info.wifi"></span>
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                <div class="accomodation-price">
+                                    <h4><strong data-lang-key="accomodation.cabins.tab.3.price.title"></strong></h4>
+                                    <span class="currency"
+                                        data-lang-key="accomodation.cabins.tab.3.price.currency"></span>
+                                    <strong class="value"
+                                        data-lang-key="accomodation.cabins.tab.3.price.value"></strong>
+                                    <span class="person"
+                                        data-lang-key="accomodation.cabins.tab.3.price.perperson"></span>
                                 </div>
 
                             </div>
@@ -236,8 +344,11 @@
 
                         </div>
                         <!-- End Third Tab -->
+
                     </div>
+
                 </div>
+
             </div>
         </div>
     </div>

@@ -640,9 +640,9 @@
     "fr": "Des bus au départ du terminal del norte de Medellín sont aussi disponibles, direction San Rafael. Une fois dans San Rafael, vous pouvez prendre un taxi qui vous amenera directement à la Réserve. Vous en trouverez partout dans le centre-ville."
   },
   "common.footer.col2.p.3": {
-    "es": "El número de la empresa de Motocarros es el **VERIFY NUMBER** +57 858 70 00 por si desea contactar previamente el servicio.",
-    "en": "The motocarros company's phone number is **VERIFY NUMBER** +57 858 70 00, is you want to plan your trip in advance.",
-    "fr": "Si vous voulez planifier votre arrivée en avance, le numéro de téléphone de l'entreprise de Motocarros est le **VERIFY NUMBER** +57 858 70 00."
+    "es": "El número de la empresa de Motocarros es el +57 4 858 70 00 por si desea contactar previamente el servicio.",
+    "en": "The motocarros company's phone number is +57 4 858 70 00, is you want to plan your trip in advance.",
+    "fr": "Si vous voulez planifier votre arrivée en avance, le numéro de téléphone de l'entreprise de Motocarros est le +57 4 858 70 00."
   },
   "common.footer.copyright": {
     "es": "© Reserva Natural Zafra 2020",
@@ -720,39 +720,219 @@
     "fr": "Pour les groupes"
   },
   "accomodation.cabins.tab.1.p": {
-    "es": "Cabaña construída totalmente en guadua, ubicada sobre el restaurante y cerca al rio, lo que propicia el descanso al son de los arrullos del agua.",
+    "es": "Cómodas cabañas para disfrutar la naturaleza y compartir en pareja con hermosa vista al bosque o al rio según ubicación. Contamos con 3 cabañas y 2 econidos en lugares distintos de la Reserva para mantener la tranquilidad y la armonía con el entorno.",
     "en": "",
     "fr": ""
   },
-  "accomodation.cabins.tab.1.info1.label": {
-    "es": "Construcción",
+  "accomodation.cabins.tab.1.info.title": {
+    "es": "Servicios y Comodidades",
     "en": "",
     "fr": ""
   },
-  "accomodation.cabins.tab.1.info1": {
-    "es": "Marzo 2018",
+  "accomodation.cabins.tab.1.info.bed": {
+    "es": "Cama doble (1.40 m)",
     "en": "",
     "fr": ""
   },
-  "accomodation.cabins.tab.1.info2.label": {
-    "es": "Capacidad",
+  "accomodation.cabins.tab.1.info.bathroom": {
+    "es": "Baño privado",
     "en": "",
     "fr": ""
   },
-  "accomodation.cabins.tab.1.info2": {
-    "es": "2 parejas",
+  "accomodation.cabins.tab.1.info.outdoor": {
+    "es": "Mirador/Hamaca",
     "en": "",
     "fr": ""
   },
-  "accomodation.prices.title": {
-    "es": "Precios",
-    "en": "Pricing",
+  "accomodation.cabins.tab.1.info.food": {
+    "es": "Alimentación completa (tres comidas)",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.1.info.cafe": {
+    "es": "Degustación de café orgánico",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.1.info.process": {
+    "es": "Conocimiento de procesos ecológicos",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.1.info.senderos": {
+    "es": "Senderos",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.1.info.wifi": {
+    "es": "Wifi (en áreas comunes)",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.1.price.title": {
+    "es": "Precio",
+    "en": "Price",
     "fr": "Prix"
   },
-  "accomodation.prices.subtitle": {
-    "es": "Elige la fórmula que más te convenga",
-    "en": "Choose the formula that suits you best",
-    "fr": "Choisis la formule qui te convient le mieux"
+  "accomodation.cabins.tab.1.price.currency": {
+    "es": "COP$",
+    "en": "COP$",
+    "fr": "COP$"
+  },
+  "accomodation.cabins.tab.1.price.value": {
+    "es": "120,000 a 150,000",
+    "en": "120,000 to 150,000",
+    "fr": "120 000 à 150 000"
+  },
+  "accomodation.cabins.tab.1.price.perperson": {
+    "es": "/persona",
+    "en": "/person",
+    "fr": "/personne"
+  },
+  "accomodation.cabins.tab.2.p": {
+    "es": "Una casa amplia, construida con técnica tradicional de bahareque con espacios para el descanso y compartir de las familias. Especial para familias con niños o personas adultas (un piso cerca al comedor).",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.2.info.title": {
+    "es": "Servicios y Comodidades",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.2.info.rooms": {
+    "es": "Tres habitaciones",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.2.info.bed": {
+    "es": "Camas dobles y sencillas según necesidades",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.2.info.bathroom": {
+    "es": "Baño privado interno y baños exteriores para mayor comodidad",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.2.info.outdoor": {
+    "es": "Mesa de juegos y Hamacas",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.2.info.food": {
+    "es": "Alimentación completa (tres comidas)",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.2.info.cafe": {
+    "es": "Degustación de café orgánico",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.2.info.process": {
+    "es": "Conocimiento de procesos ecológicos",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.2.info.senderos": {
+    "es": "Senderos",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.2.info.wifi": {
+    "es": "Wifi (en áreas comunes)",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.2.price.title": {
+    "es": "Precio",
+    "en": "Price",
+    "fr": "Prix"
+  },
+  "accomodation.cabins.tab.2.price.currency": {
+    "es": "COP$",
+    "en": "COP$",
+    "fr": "COP$"
+  },
+  "accomodation.cabins.tab.2.price.value": {
+    "es": "120,000",
+    "en": "120,000",
+    "fr": "120 000"
+  },
+  "accomodation.cabins.tab.2.price.perperson": {
+    "es": "/persona",
+    "en": "/person",
+    "fr": "/personne"
+  },
+  "accomodation.cabins.tab.3.p": {
+    "es": "Para los que prefieren disfrutar de la compañía de los amigos. Contamos con esta casa construida en guadua y paredes con técnica de esterilla revocada. Con dos espacios amplios, para acomodación de grupos. Dos habitaciones para cinco personas cada una.",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.3.info.title": {
+    "es": "Servicios y Comodidades",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.3.info.bed": {
+    "es": "Camas sencillas, adaptables a camas dobles",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.3.info.bathroom": {
+    "es": "Baño exterior (Un baño por habitación)",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.3.info.outdoor": {
+    "es": "Balcon",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.3.info.food": {
+    "es": "Alimentación completa (tres comidas)",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.3.info.cafe": {
+    "es": "Degustación de café orgánico",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.3.info.process": {
+    "es": "Conocimiento de procesos ecológicos",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.3.info.senderos": {
+    "es": "Senderos",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.3.info.wifi": {
+    "es": "Wifi (en áreas comunes)",
+    "en": "",
+    "fr": ""
+  },
+  "accomodation.cabins.tab.3.price.title": {
+    "es": "Precio",
+    "en": "Price",
+    "fr": "Prix"
+  },
+  "accomodation.cabins.tab.3.price.currency": {
+    "es": "COP$",
+    "en": "COP$",
+    "fr": "COP$"
+  },
+  "accomodation.cabins.tab.3.price.value": {
+    "es": "115,000",
+    "en": "115,000",
+    "fr": "115 000"
+  },
+  "accomodation.cabins.tab.3.price.perperson": {
+    "es": "/persona",
+    "en": "/person",
+    "fr": "/personne"
   },
   "products.hero.title.strong": {
     "es": "Restaurante y Productos locales",
