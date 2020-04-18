@@ -419,10 +419,10 @@
     "en": "Events",
     "fr": "Événements"
   },
-  "index.portfolio.filter.lugardevida": {
-    "es": "Lugar de vida",
-    "en": "Life spaces",
-    "fr": "Lieux de vie"
+  "index.portfolio.filter.espacioscomunes": {
+    "es": "Espacios comunes",
+    "en": "Common spaces",
+    "fr": "Espaces communs"
   },
   "index.portfolio.filter.productos": {
     "es": "Productos",
