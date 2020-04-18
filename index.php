@@ -17,7 +17,6 @@
         include('sections/index/about.html'); 
         include('sections/index/video.html'); 
         include('sections/index/funfacts.html'); 
-        include('sections/index/news.html'); 
         include('sections/index/quotes.html'); 
         include('sections/index/portfolio.html'); 
         include('sections/index/testimonials.html'); 

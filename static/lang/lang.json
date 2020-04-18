@@ -19,6 +19,11 @@
     "en": "Meeting and event space - Reserva Natural Zafra",
     "fr": "Salle de réunions et d'événements - Reserva Natural Zafra"
   },
+  "policy.head.title": {
+    "es": "Politica de Sostenibilidad - Reserva Natural Zafra",
+    "en": "Sustainability Policy - Reserva Natural Zafra",
+    "fr": "Politique de Développement Durable - Reserva Natural Zafra"
+  },
   "common.header.about": {
     "es": "La Reserva",
     "en": "The Reserve",
@@ -44,10 +49,10 @@
     "en": "Contact",
     "fr": "Contact"
   },
-  "common.header.services": {
-    "es": "Servicios",
-    "en": "Services",
-    "fr": "Services"
+  "common.header.get.here": {
+    "es": "Comó llegar",
+    "en": "How to get here",
+    "fr": "Comment venir"
   },
   "common.header.accomodation": {
     "es": "Alojamiento",
@@ -55,14 +60,19 @@
     "fr": "Logement"
   },
   "common.header.products": {
-    "es": "Restaurante y Productos Locales",
-    "en": "Restaurant and Local Products",
-    "fr": "Restauration et Produits Locaux"
+    "es": "Gastronomia",
+    "en": "Gastronomy",
+    "fr": "Gastronomie"
   },
   "common.header.events": {
-    "es": "Salón para reuniones y eventos",
-    "en": "Meeting and event space",
-    "fr": "Salle de réunions et d'événements"
+    "es": "Eventos",
+    "en": "Events",
+    "fr": "Événements"
+  },
+  "common.header.activities": {
+    "es": "Actividades",
+    "en": "Activities",
+    "fr": "Activités"
   },
   "common.header.menu": {
     "es": "Menu",
@@ -259,6 +269,11 @@
     "en": "Nature is part of the richness of linving here, and we want to invite you to come to know Zafra: there is the possibility of coming to spend a sunny day to meet us, enjoy, interact as a family and also interact with this nature. It is a way to begin to know a different way of relating to her and take elements of inspiration.",
     "fr": "La nature fait partie de la richesse de vivre ici, et nous voulons vous inviter à découvrir la Zafra: il est possible de venir passer une journée ensoleillée pour se rencontrer, profiter, interagir en famille et aussi interagir avec cette nature. C'est une façon de commencer à connaître une manière différente de se comporter face à elle, et de s'en inspirer."
   },
+  "index.video.button": {
+    "es": "Nuestra Politica de Sostenibilidad",
+    "en": "Our Sustainability Policy",
+    "fr": "Notre Politique de Développement Durable"
+  },
   "index.funfacts.1": {
     "es": "Hectáreas de reserva",
     "en": "Hectares of reserve",
@@ -413,6 +428,11 @@
     "es": "Productos",
     "en": "Products",
     "fr": "Produits"
+  },
+  "index.portfolio.filter.colaboradores": {
+    "es": "Colaboradores",
+    "en": "Team",
+    "fr": "Équipe"
   },
   "index.testimonials.title": {
     "es": "Algunos comentarios",
@@ -846,6 +866,101 @@
   },
   "products.space.p.3": {
     "es": "Complementamos la producción de café con sistemas de fertilización orgánica, que garantizan la regeneración permanente del suelo y la calidad de nuestro grano. La recolección, secado y tostión del café mantiene las prácticas artesanales y se obtiene un café molido que compartimos con nuestros visitantes.",
+    "en": "",
+    "fr": ""
+  },
+  "policy.hero.title.strong": {
+    "es": "Politica de Sostenibilidad",
+    "en": "Sustainability Policy",
+    "fr": "Politique de Développement Durable"
+  },
+  "policy.decalogo.title.strong": {
+    "es": "Decálogo de Sostenibilidad Turística",
+    "en": "",
+    "fr": ""
+  },
+  "policy.decalogo.1.content": {
+    "es": "1. Elija lugares con enfoque sostenible, que garanticen buena calidad.",
+    "en": "",
+    "fr": ""
+  },
+  "policy.decalogo.2.content": {
+    "es": "2. Use el agua y la energía con moderacion.",
+    "en": "",
+    "fr": ""
+  },
+  "policy.decalogo.3.content": {
+    "es": "3. Minimice la generacíon de residuos.",
+    "en": "",
+    "fr": ""
+  },
+  "policy.decalogo.4.content": {
+    "es": "4. En los lugares naturales, impacte lo menos posible.",
+    "en": "",
+    "fr": ""
+  },
+  "policy.decalogo.5.content": {
+    "es": "5. Compre regalos y recuerdos que sean locales y artesanales.",
+    "en": "",
+    "fr": ""
+  },
+  "policy.decalogo.6.content": {
+    "es": "6. No compre ni extraiga flora o fauna.",
+    "en": "",
+    "fr": ""
+  },
+  "policy.decalogo.7.content": {
+    "es": "7. Respete y comparta con los habitantes.",
+    "en": "",
+    "fr": ""
+  },
+  "policy.decalogo.8.content": {
+    "es": "8. Conozca y disfrute de la gastronomía local.",
+    "en": "",
+    "fr": ""
+  },
+  "policy.decalogo.9.content": {
+    "es": "9. Infórmese sobre la cultura y su historia.",
+    "en": "",
+    "fr": ""
+  },
+  "policy.decalogo.10.content": {
+    "es": "10. Contrate guías e informadores turistícos locales.",
+    "en": "",
+    "fr": ""
+  },
+  "policy.politica.title.strong": {
+    "es": "Politica de Sostenibilidad",
+    "en": "Sustainability Policy",
+    "fr": "Politique de Développement Durable"
+  },
+  "policy.politica.title": {
+    "es": "de nuestra Reserva Natural",
+    "en": "of our Natural Reserve",
+    "fr": "de notre Réserve Naturelle"
+  },
+  "policy.politica.p.1": {
+    "es": "La Reserva Natural Zafra se sustenta en principios de vida en un entorno saludable, en la producción agroecológica y permacultural, en la conservación de la vida y de la naturaleza y en las relaciones sociales y comunitarias con equidad.",
+    "en": "",
+    "fr": ""
+  },
+  "policy.politica.p.2": {
+    "es": "Desarrollamos las actividades turísticas en función de la contemplación y el respeto por el entorno natural, la conservación de fauna, flora local y de los recursos hídricos; en el propósito de permitir su disfrute a las generaciones futuras y derivar el sustento de los propietarios y de los colaboradores. Promovemos objetivos de conservación, realizamos proyectos de restauración ecologica y adelantamos acciones de capacitación para la sensibilización ambiental, mediante la participación comprometida en redes de operadores turísticos, ambientales, y organizaciones sociales con los que encontramos intereses comunes.",
+    "en": "",
+    "fr": ""
+  },
+  "policy.politica.p.3": {
+    "es": "Nuestro proyecto se sustenta en la naturaleza, de la cual hacemos parte, por ello su permanencia en condiciones de sustentabilidad, garantiza el entorno ideal para ofrecer actividades turísticas pero principalmente un espacio de vida en armonía, con la posibilidad de disfrutar, aprender y compartir lo que somos y hacemos.  Nuestro compromiso se centra en garantizar un ambiente sano, para habitar en condiciones de bienestar, alegría y confort; crear relaciones de intercambio productivo y económico justo con los pobladores de la zona, nuestros principales proveedores y con aquellos a quienes brindamos nuestros servicios.   Promovemos la valoración de la diversidad y de la riqueza  cultural de los habitantes de nuestro Municipio y de la Región y contribuimos a las interacciones  que en ella se tejen.  Rechazamos por ello, cualquier práctica que atropelle la dignidad humana y lesione la vida animal.  Nos oponemos a   cualquier tipo de  discriminación y al maltrato o abuso a los niños, niñas y adolescentes.",
+    "en": "",
+    "fr": ""
+  },
+  "policy.politica.p.4": {
+    "es": "Son nuestros referentes y nos impulsan permanentemente: el patrimonio natural, porque en nuestra Reserva se expresa e interactúa cotidianamente y nos da ejemplo de la necesaria convivencia; el patrimonio cultural material e inmaterial , que nos da elementos que  nutren el conocimiento de la región, nuestra identidad y permiten la recreación de la memoria colectiva; los pobladores, campesinos nativos y neo rurales, que aportan desde sus múltiples conocimientos, vivencias y experiencias; las  instituciones de apoyo, con el reconocimiento y valoración de nuestro proceso de interacción respetuosa con el  ambiente como experiencia significativa en la región; nuestros visitantes que nos impulsan a fortalecer cada día la oferta de servicios para el disfrute en entorno de naturaleza.  En la reserva se conjuga una asociación de sueños, esfuerzos, dinamismo, respeto por el entorno y aprecio por las personas,  interés solidario con los colaboradores y alegría por el buen sentir de los visitantes.",
+    "en": "",
+    "fr": ""
+  },
+  "policy.politica.p.5": {
+    "es": "Nos comprometemos a fortalecer la oferta de experiencias  para los visitantes, garantizar excelente calidad en los servicios, acompañamiento informado en los diferentes momentos de la estadía en la Reserva y a trabajar permanentemente por el bienestar del entorno  natural, de los habitantes propios y de los visitantes.",
     "en": "",
     "fr": ""
   }

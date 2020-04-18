@@ -1,8 +1,8 @@
 {
   "images": {
     "Naturaleza (15).jpg": {
-      "title": "",
-      "subtitle": "",
+      "title": "Titulo",
+      "subtitle": "Subtitulo",
       "categories": [
         "Naturaleza",
         "selectedPic"
@@ -625,6 +625,7 @@
     "Naturaleza",
     "Eventos",
     "Lugar de Vida",
-    "Productos"
+    "Productos",
+    "Colaboradores"
   ]
 }
