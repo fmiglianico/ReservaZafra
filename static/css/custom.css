@@ -248,6 +248,11 @@ a.francois:hover:after {
   font-size: 84px;
 }
 
+#clients .imgs a img {
+  display: inline;
+  padding: 0 30px;
+}
+
 
 
 @media (max-width: 992px) {
