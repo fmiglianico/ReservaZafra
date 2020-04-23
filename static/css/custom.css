@@ -265,7 +265,11 @@ a.francois:hover:after {
   font-size: 20px;
 }
 
-
+.footer-img {
+  width: 360px;
+  margin: auto;
+  margin-bottom: 20px;
+}
 
 
 

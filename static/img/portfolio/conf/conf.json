@@ -10,6 +10,15 @@
       "size": 1,
       "portrait": true
     },
+    "Eventos (3).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Eventos"
+      ],
+      "size": 1,
+      "portrait": true
+    },
     "Eventos (2).jpg": {
       "title": "",
       "subtitle": "",
@@ -166,15 +175,6 @@
 
 
     
-    "Eventos (3).jpg": {
-      "title": "",
-      "subtitle": "",
-      "categories": [
-        "Eventos"
-      ],
-      "size": 1,
-      "portrait": true
-    },
     "Lugar (9).jpg": {
       "title": "",
       "subtitle": "",
@@ -618,6 +618,114 @@
       ],
       "size": 1,
       "portrait": true
+    },
+    "People (1).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Colaboradores"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "People (2).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Colaboradores"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "People (9).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Colaboradores"
+      ],
+      "size": 2,
+      "portrait": false
+    },
+    "People (3).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Colaboradores"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "People (4).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Colaboradores"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "People (5).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Colaboradores"
+      ],
+      "size": 2,
+      "portrait": false
+    },
+    "People (6).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Colaboradores"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "People (7).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Colaboradores"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "People (8).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Colaboradores"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "People (10).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Colaboradores"
+      ],
+      "size": 1,
+      "portrait": true
+    },
+    "People (11).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Colaboradores"
+      ],
+      "size": 1,
+      "portrait": false
+    },
+    "People (12).jpg": {
+      "title": "",
+      "subtitle": "",
+      "categories": [
+        "Colaboradores"
+      ],
+      "size": 1,
+      "portrait": false
     }
   },
   "categories": [

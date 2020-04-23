@@ -644,6 +644,11 @@
     "en": "The motocarros company's phone number is +57 4 858 70 00, is you want to plan your trip in advance.",
     "fr": "Si vous voulez planifier votre arrivée en avance, le numéro de téléphone de l'entreprise de Motocarros est le +57 4 858 70 00."
   },
+  "common.footer.question": {
+    "es": "Cualquiera pregunta, mandanos un mensaje.",
+    "en": "If you have any question, send us a message!",
+    "fr": "Une question? Envoie-nous un message!"
+  },
   "common.footer.copyright": {
     "es": "© Reserva Natural Zafra 2020",
     "en": "© Reserva Natural Zafra 2020",
