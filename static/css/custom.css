@@ -275,6 +275,10 @@ a.francois:hover:after {
   padding-bottom: 50vh;
 }
 
+#activities .project-info p {
+  width: 100%;
+}
+
 
 
 

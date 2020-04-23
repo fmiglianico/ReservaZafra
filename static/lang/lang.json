@@ -24,6 +24,11 @@
     "en": "Sustainability Policy - Reserva Natural Zafra",
     "fr": "Politique de Développement Durable - Reserva Natural Zafra"
   },
+  "activities.head.title": {
+    "es": "Experiencias - Reserva Natural Zafra",
+    "en": "Experiences - Reserva Natural Zafra",
+    "fr": "Expériences - Reserva Natural Zafra"
+  },
   "common.header.about": {
     "es": "La Reserva",
     "en": "The Reserve",
@@ -70,9 +75,9 @@
     "fr": "Événements"
   },
   "common.header.activities": {
-    "es": "Actividades",
-    "en": "Activities",
-    "fr": "Activités"
+    "es": "Experiencias",
+    "en": "Experiences",
+    "fr": "Expériences"
   },
   "common.header.menu": {
     "es": "Menu",
@@ -260,7 +265,7 @@
     "fr": "Nous protégeons la nature"
   },
   "index.video.p.1": {
-    "es": "La Zafra es una Reserva Natural de Sociedad Civil, es una figura de conservación que ha sido avalada por el Ministerio de Medio Ambiente. Es una muestra de cómo los humanos, cuando nos establecemos en un territorio, tenemos todas las posibilidades de generar  interacciones positivas, cuidando el entorno, cuidando la naturaleza y posibilitando la vida.",
+    "es": "La Zafra es una Reserva Natural de Sociedad Civil, es una figura de conservación que ha sido avalada por el Ministerio de Medio Ambiente. Es una muestra de cómo los humanos, cuando nos establecemos en un territorio, tenemos todas las posibilidades de generar interacciones positivas, cuidando el entorno, cuidando la naturaleza y posibilitando la vida.",
     "en": "La Zafra is a private Natural Reserve, it is a conservation figure that has been endorsed by the Ministry of the Environment. It is an example of how humans, when settling in a territory, have all the possibilities of generating positive interactions, taking care of the environment, taking care of nature and making life possible.",
     "fr": "La Zafra est une Réserve Naturelle de la Société Civile, c'est une figure de la conservation qui a été approuvée par le ministère de l'Environnement. Elle constitue un exemple de la manière dont les humains, lors de l'installation sur un territoire, ont toutes les possibilités de générer des interactions positives, de prendre soin de l'environnement, de prendre soin de la nature et de rendre la vie possible."
   },
@@ -366,7 +371,7 @@
   },
   "index.quotes.4.1": {
     "es": "El buen hombre es el amigo de",
-    "en": "The good man is the friend of  ",
+    "en": "The good man is the friend of ",
     "fr": "L'homme bon est l'ami de"
   },
   "index.quotes.4.strong": {
@@ -673,16 +678,6 @@
     "es": "François",
     "en": "François",
     "fr": "François"
-  },
-  "portfolio.hero.title": {
-    "es": "Galería",
-    "en": "Portfolio",
-    "fr": "Galerie"
-  },
-  "portfolio.hero.subtitle": {
-    "es": "¡Ven a dar un paseo!",
-    "en": "Come on in!",
-    "fr": "Viens faire un tour!"
   },
   "accomodation.hero.title.strong": {
     "es": "Alojamiento",
@@ -1130,18 +1125,408 @@
     "fr": ""
   },
   "policy.politica.p.3": {
-    "es": "Nuestro proyecto se sustenta en la naturaleza, de la cual hacemos parte, por ello su permanencia en condiciones de sustentabilidad, garantiza el entorno ideal para ofrecer actividades turísticas pero principalmente un espacio de vida en armonía, con la posibilidad de disfrutar, aprender y compartir lo que somos y hacemos.  Nuestro compromiso se centra en garantizar un ambiente sano, para habitar en condiciones de bienestar, alegría y confort; crear relaciones de intercambio productivo y económico justo con los pobladores de la zona, nuestros principales proveedores y con aquellos a quienes brindamos nuestros servicios.   Promovemos la valoración de la diversidad y de la riqueza  cultural de los habitantes de nuestro Municipio y de la Región y contribuimos a las interacciones  que en ella se tejen.  Rechazamos por ello, cualquier práctica que atropelle la dignidad humana y lesione la vida animal.  Nos oponemos a   cualquier tipo de  discriminación y al maltrato o abuso a los niños, niñas y adolescentes.",
+    "es": "Nuestro proyecto se sustenta en la naturaleza, de la cual hacemos parte, por ello su permanencia en condiciones de sustentabilidad, garantiza el entorno ideal para ofrecer actividades turísticas pero principalmente un espacio de vida en armonía, con la posibilidad de disfrutar, aprender y compartir lo que somos y hacemos. Nuestro compromiso se centra en garantizar un ambiente sano, para habitar en condiciones de bienestar, alegría y confort; crear relaciones de intercambio productivo y económico justo con los pobladores de la zona, nuestros principales proveedores y con aquellos a quienes brindamos nuestros servicios. Promovemos la valoración de la diversidad y de la riqueza cultural de los habitantes de nuestro Municipio y de la Región y contribuimos a las interacciones que en ella se tejen. Rechazamos por ello, cualquier práctica que atropelle la dignidad humana y lesione la vida animal. Nos oponemos a cualquier tipo de discriminación y al maltrato o abuso a los niños, niñas y adolescentes.",
     "en": "",
     "fr": ""
   },
   "policy.politica.p.4": {
-    "es": "Son nuestros referentes y nos impulsan permanentemente: el patrimonio natural, porque en nuestra Reserva se expresa e interactúa cotidianamente y nos da ejemplo de la necesaria convivencia; el patrimonio cultural material e inmaterial , que nos da elementos que  nutren el conocimiento de la región, nuestra identidad y permiten la recreación de la memoria colectiva; los pobladores, campesinos nativos y neo rurales, que aportan desde sus múltiples conocimientos, vivencias y experiencias; las  instituciones de apoyo, con el reconocimiento y valoración de nuestro proceso de interacción respetuosa con el  ambiente como experiencia significativa en la región; nuestros visitantes que nos impulsan a fortalecer cada día la oferta de servicios para el disfrute en entorno de naturaleza.  En la reserva se conjuga una asociación de sueños, esfuerzos, dinamismo, respeto por el entorno y aprecio por las personas,  interés solidario con los colaboradores y alegría por el buen sentir de los visitantes.",
+    "es": "Son nuestros referentes y nos impulsan permanentemente: el patrimonio natural, porque en nuestra Reserva se expresa e interactúa cotidianamente y nos da ejemplo de la necesaria convivencia; el patrimonio cultural material e inmaterial , que nos da elementos que nutren el conocimiento de la región, nuestra identidad y permiten la recreación de la memoria colectiva; los pobladores, campesinos nativos y neo rurales, que aportan desde sus múltiples conocimientos, vivencias y experiencias; las instituciones de apoyo, con el reconocimiento y valoración de nuestro proceso de interacción respetuosa con el ambiente como experiencia significativa en la región; nuestros visitantes que nos impulsan a fortalecer cada día la oferta de servicios para el disfrute en entorno de naturaleza. En la reserva se conjuga una asociación de sueños, esfuerzos, dinamismo, respeto por el entorno y aprecio por las personas, interés solidario con los colaboradores y alegría por el buen sentir de los visitantes.",
     "en": "",
     "fr": ""
   },
   "policy.politica.p.5": {
-    "es": "Nos comprometemos a fortalecer la oferta de experiencias  para los visitantes, garantizar excelente calidad en los servicios, acompañamiento informado en los diferentes momentos de la estadía en la Reserva y a trabajar permanentemente por el bienestar del entorno  natural, de los habitantes propios y de los visitantes.",
+    "es": "Nos comprometemos a fortalecer la oferta de experiencias para los visitantes, garantizar excelente calidad en los servicios, acompañamiento informado en los diferentes momentos de la estadía en la Reserva y a trabajar permanentemente por el bienestar del entorno natural, de los habitantes propios y de los visitantes.",
     "en": "",
     "fr": ""
+  },
+  "activities.hero.title.strong": {
+    "es": "Experiencias",
+    "en": "Experiences",
+    "fr": "Expériences"
+  },
+  "activities.hero.title": {
+    "es": "Encuentra la comunidad haciendo actividades",
+    "en": "",
+    "fr": ""
+  },
+  "activities.bees.title.strong": {
+    "es": "La Reinas del bosque",
+    "en": "",
+    "fr": ""
+  },
+  "activities.bees.title": {
+    "es": "Producción artesanal de miel de abeja",
+    "en": "",
+    "fr": ""
+  },
+  "activities.bees.subtitle": {
+    "es": "Charlas informativas sobre apicultura. Producción, degustación y venta de miel de abejas Zafra.",
+    "en": "",
+    "fr": ""
+  },
+  "activities.bees.duration.title": {
+    "es": "Duración",
+    "en": "Duration",
+    "fr": "Durée"
+  },
+  "activities.bees.duration": {
+    "es": "Dos a cuatro horas, según si se quiere conocer las abejas apis o las meliponas (abejas sin aguijón)",
+    "en": "",
+    "fr": ""
+  },
+  "activities.bees.includes": {
+    "es": "Incluye",
+    "en": "Includes",
+    "fr": "Inclus"
+  },
+  "activities.bees.includes.charla": {
+    "es": "Charla informativa sobre la vida de las abejas",
+    "en": "",
+    "fr": ""
+  },
+  "activities.bees.includes.visit": {
+    "es": "Visita al apiario con traje protector especial",
+    "en": "",
+    "fr": ""
+  },
+  "activities.bees.includes.taste": {
+    "es": "Degustación de miel de abejas apis y meliponas",
+    "en": "",
+    "fr": ""
+  },
+  "activities.bees.includes.refrigerio": {
+    "es": "Refrigerio",
+    "en": "",
+    "fr": ""
+  },
+  "activities.bees.includes.suvenir": {
+    "es": "Suvenir (Jabón de miel natural, producido en la región con miel de la Reserva)",
+    "en": "",
+    "fr": ""
+  },
+  "activities.bees.includes.seguro": {
+    "es": "Seguro",
+    "en": "",
+    "fr": ""
+  },
+  "activities.bees.includes.transport": {
+    "es": "Transporte hasta la Reserva",
+    "en": "",
+    "fr": ""
+  },
+  "activities.bees.includes.other": {
+    "es": "Otros servicios no especificados",
+    "en": "",
+    "fr": ""
+  },
+  "activities.bees.price.title": {
+    "es": "Precio",
+    "en": "Price",
+    "fr": "Prix"
+  },
+  "activities.bees.price.from": {
+    "es": "desde",
+    "en": "from",
+    "fr": "à partir de"
+  },
+  "activities.bees.price.currency": {
+    "es": "COP$",
+    "en": "COP$",
+    "fr": "COP$"
+  },
+  "activities.bees.price.value": {
+    "es": "66,000",
+    "en": "66,000",
+    "fr": "66 000"
+  },
+  "activities.bees.price.perperson": {
+    "es": "/persona",
+    "en": "/person",
+    "fr": "/personne"
+  },
+  "activities.trail.title.strong": {
+    "es": "Caminos de magia y paz",
+    "en": "",
+    "fr": ""
+  },
+  "activities.trail.title": {
+    "es": "en el área protegida de la Reserva Natural Zafra",
+    "en": "",
+    "fr": ""
+  },
+  "activities.trail.subtitle": {
+    "es": "Descubre las initiativas tomadas para proteger ese área de conservación y descubrir la riqueza natural de la reserva a través de un paseo por el bosque, avistamientos de aves y especies de flora, caminatas, etc...",
+    "en": "",
+    "fr": ""
+  },
+  "activities.trail.duration.title": {
+    "es": "Duración",
+    "en": "Duration",
+    "fr": "Durée"
+  },
+  "activities.trail.duration": {
+    "es": "Dos a cinco horas según la capacidad y motivacion de los visitantes.",
+    "en": "",
+    "fr": ""
+  },
+  "activities.trail.includes": {
+    "es": "Incluye",
+    "en": "Includes",
+    "fr": "Inclus"
+  },
+  "activities.trail.includes.guide": {
+    "es": "Acompañamiento de guia conocedor de la zona.",
+    "en": "",
+    "fr": ""
+  },
+  "activities.trail.includes.refrigerio": {
+    "es": "Refrigerio y limonada durante el recorrido",
+    "en": "",
+    "fr": ""
+  },
+  "activities.trail.includes.binoculars": {
+    "es": "Disponibilidad de binoculares y guia ilustrada para identificacion de especies de aves",
+    "en": "",
+    "fr": ""
+  },
+  "activities.trail.includes.seguro": {
+    "es": "Seguro",
+    "en": "",
+    "fr": ""
+  },
+  "activities.trail.includes.transport": {
+    "es": "Transporte hasta la Reserva",
+    "en": "",
+    "fr": ""
+  },
+  "activities.trail.includes.other": {
+    "es": "Otros servicios no especificados",
+    "en": "",
+    "fr": ""
+  },
+  "activities.trail.price.title": {
+    "es": "Precio",
+    "en": "Price",
+    "fr": "Prix"
+  },
+  "activities.trail.price.from": {
+    "es": "desde",
+    "en": "from",
+    "fr": "à partir de"
+  },
+  "activities.trail.price.currency": {
+    "es": "COP$",
+    "en": "COP$",
+    "fr": "COP$"
+  },
+  "activities.trail.price.value": {
+    "es": "41,000",
+    "en": "41,000",
+    "fr": "41 000"
+  },
+  "activities.trail.price.perperson": {
+    "es": "/persona",
+    "en": "/person",
+    "fr": "/personne"
+  },
+  "activities.cacao.title.strong": {
+    "es": "Cacao",
+    "en": "",
+    "fr": ""
+  },
+  "activities.cacao.title": {
+    "es": "Bebida de los dioses",
+    "en": "",
+    "fr": ""
+  },
+  "activities.cacao.subtitle": {
+    "es": "Talleres de producción artesanal de chocolate, a partir del fruto del cacao cultivado en la Reserva.",
+    "en": "",
+    "fr": ""
+  },
+  "activities.cacao.duration.title": {
+    "es": "Duración",
+    "en": "Duration",
+    "fr": "Durée"
+  },
+  "activities.cacao.duration": {
+    "es": "Dos a tres horas de acuerdo con la motivación en el conocimiento por parte de los visitantes",
+    "en": "",
+    "fr": ""
+  },
+  "activities.cacao.includes": {
+    "es": "Incluye",
+    "en": "Includes",
+    "fr": "Inclus"
+  },
+  "activities.cacao.includes.field": {
+    "es": "Visita al sector de cultivo de cacao",
+    "en": "",
+    "fr": ""
+  },
+  "activities.cacao.includes.gathering": {
+    "es": "Recoleccion de frutos y conocimiento del proceso artesanal campesino",
+    "en": "",
+    "fr": ""
+  },
+  "activities.cacao.includes.kitchen": {
+    "es": "Visita a la cocina de la Reserva para conocer como se tuesta y muele el cacao y se produce el chocolate",
+    "en": "",
+    "fr": ""
+  },
+  "activities.cacao.includes.taste": {
+    "es": "Degustación – refriegerio con chocolate y acompañamiento",
+    "en": "",
+    "fr": ""
+  },
+  "activities.cacao.includes.seguro": {
+    "es": "Seguro",
+    "en": "",
+    "fr": ""
+  },
+  "activities.cacao.includes.transport": {
+    "es": "Transporte hasta la Reserva",
+    "en": "",
+    "fr": ""
+  },
+  "activities.cacao.includes.other": {
+    "es": "Otros servicios no especificados",
+    "en": "",
+    "fr": ""
+  },
+  "activities.cacao.price.title": {
+    "es": "Precio",
+    "en": "Price",
+    "fr": "Prix"
+  },
+  "activities.cacao.price.from": {
+    "es": "desde",
+    "en": "from",
+    "fr": "à partir de"
+  },
+  "activities.cacao.price.currency": {
+    "es": "COP$",
+    "en": "COP$",
+    "fr": "COP$"
+  },
+  "activities.cacao.price.value": {
+    "es": "34,000",
+    "en": "34,000",
+    "fr": "34 000"
+  },
+  "activities.cacao.price.perperson": {
+    "es": "/persona",
+    "en": "/person",
+    "fr": "/personne"
+  },
+  "activities.vida.title.strong": {
+    "es": "Conociendo la vida campesina",
+    "en": "",
+    "fr": ""
+  },
+  "activities.vida.subtitle": {
+    "es": "Visita por toda la zona de producciòn de alimentos de la Reserva para conocer el enfoque permacultural.",
+    "en": "",
+    "fr": ""
+  },
+  "activities.vida.duration.title": {
+    "es": "Duración",
+    "en": "Duration",
+    "fr": "Durée"
+  },
+  "activities.vida.duration": {
+    "es": "Dos horas.",
+    "en": "",
+    "fr": ""
+  },
+  "activities.vida.includes": {
+    "es": "Incluye",
+    "en": "Includes",
+    "fr": "Inclus"
+  },
+  "activities.vida.includes.guide": {
+    "es": "Charla durante el recorrido guiado",
+    "en": "",
+    "fr": ""
+  },
+  "activities.vida.includes.preparation": {
+    "es": "Preparación y degustacion de productos recolectados durante el recorrido (frutas, cafe, plàtano)",
+    "en": "",
+    "fr": ""
+  },
+  "activities.vida.includes.refrigerio": {
+    "es": "Refrigerio con los productos de la Reserva",
+    "en": "",
+    "fr": ""
+  },
+  "activities.vida.includes.cafe": {
+    "es": "Un paquete de cafe de 200gr tostado artesanalmente en la Reserva",
+    "en": "",
+    "fr": ""
+  },
+  "activities.vida.includes.seguro": {
+    "es": "Seguro",
+    "en": "",
+    "fr": ""
+  },
+  "activities.vida.includes.transport": {
+    "es": "Transporte hasta la Reserva",
+    "en": "",
+    "fr": ""
+  },
+  "activities.vida.includes.other": {
+    "es": "Otros servicios no especificados",
+    "en": "",
+    "fr": ""
+  },
+  "activities.vida.price.title": {
+    "es": "Precio",
+    "en": "Price",
+    "fr": "Prix"
+  },
+  "activities.vida.price.from": {
+    "es": "desde",
+    "en": "from",
+    "fr": "à partir de"
+  },
+  "activities.vida.price.currency": {
+    "es": "COP$",
+    "en": "COP$",
+    "fr": "COP$"
+  },
+  "activities.vida.price.value": {
+    "es": "54,000",
+    "en": "54,000",
+    "fr": "54 000"
+  },
+  "activities.vida.price.perperson": {
+    "es": "/persona",
+    "en": "/person",
+    "fr": "/personne"
+  },
+  "activities.other.title.strong": {
+    "es": "Otras actividades",
+    "en": "Other activites",
+    "fr": "Autres activités"
+  },
+  "activities.other.subtitle": {
+    "es": "¿Más bien aventurero o relajado?",
+    "en": "Rather adventurous or relaxed?",
+    "fr": "Plutôt aventurier ou relax?"
+  },
+  "activities.other.massage": {
+    "es": "Masaje",
+    "en": "Massage",
+    "fr": "Massage"
+  },
+  "activities.other.birds": {
+    "es": "Observación de aves",
+    "en": "Bird watching",
+    "fr": "Observation d'oiseaux"
+  },
+  "activities.other.tubing": {
+    "es": "Tubing/Torrentismo",
+    "en": "Tubing/Canyoning",
+    "fr": "Tubing/Canyoning"
   }
 }
