@@ -261,10 +261,10 @@
 			{ "limit": "20", "fields": "full_picture,id,message,created_time,permalink_url,status_type" },
 			function (response) {
 
-				// console.log(response);
-
 				if (response.error) {
 					console.error(response.error.message);
+					$('#news').hide();
+					$('#newsLink').hide(); 
 					return;
 				}
 
@@ -279,9 +279,10 @@
 				}
 
 				if (count > 0) {
-					$('#news').show();
-					$('#newsLink').show(); 
 					vossenBlogGrid();
+				} else {
+					$('#news').hide();
+					$('#newsLink').hide();
 				}
 			}
 		);
