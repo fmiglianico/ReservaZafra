@@ -985,19 +985,14 @@
     "fr": "Nourriture locale, saine et équilibrée"
   },
   "products.restaurant.p.1": {
-    "es": "En la Zafra conservamos la tradición cultural, por ello nos motiva la siembra de café en entorno de bosque, como lo hacían los ancestros y propiciando la dinámica natural de los cultivos.",
+    "es": "Muchos de los productos que consumimos aquí en Zafra provienen directamente de la reserva o del vecindario.",
     "en": "",
-    "fr": ""
+    "fr": "Beaucoup de produits que nous consommons ici à la Zafra viennent directement de la réserve ou du voisinage."
   },
   "products.restaurant.p.2": {
-    "es": "Establecemos nuestros cafetales en zonas boscosas, intercalando con los cultivos diferentes especies de árboles y plantas que propician alimento y sombrío para las plantas, fauna circundante y para nuestros visitantes.",
+    "es": "Con nuestros dos huertos y muchos árboles frutales, estamos intentando gradualmente alcanzar un equilibrio saludable entre los productos locales y los productos básicos que compramos en la ciudad. Esto nos permite ofrecer a los visitantes tres comidas al día, siempre variadas y preparadas con cariño por nuestro equipo de cocina.",
     "en": "",
-    "fr": ""
-  },
-  "products.restaurant.p.3": {
-    "es": "Complementamos la producción de café con sistemas de fertilización orgánica, que garantizan la regeneración permanente del suelo y la calidad de nuestro grano. La recolección, secado y tostión del café mantiene las prácticas artesanales y se obtiene un café molido que compartimos con nuestros visitantes.",
-    "en": "",
-    "fr": ""
+    "fr": "Avec nos deux potagers et beaucoup d'arbres fruitiers, nous essayons progressivement d'arriver à un équilibre sain entre produits locaux et produits de première nécéssité que nous achetons en ville. Ceci nous permet de proposer aux visiteurs trois repas par jour, toujours variés et cuisinés avec amour par notre équipe en cuisine."
   },
   "products.honey.title.strong": {
     "es": "Producción de miel",
