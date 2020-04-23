@@ -13,6 +13,7 @@
         include('sections/events/hero.html');
 
         include('sections/events/space.html');
+        include('sections/common/contact.html');
 
         include('sections/common/footer.html');
         include('sections/common/scripts.html'); 
