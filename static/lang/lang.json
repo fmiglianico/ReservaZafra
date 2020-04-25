@@ -250,7 +250,7 @@
     "fr": "En faisant diverses activités dans la forêt"
   },
   "index.about.6.content": {
-    "es": "Puedes hacer caminatas guiadas por la granja y senderos naturales, llegando hasta ríos y quebradas limpias y transparentes donde te puedes refrescar.",
+    "es": "Puedes hacer caminatas guiadas por la granja y senderos naturales, llegando hasta ríos y quebradas limpias y transparentes donde puedes refrescarte.",
     "en": "You can take guided walks through the farm on natural trails, reaching rivers and clean and transparent gorges where you can cool off.",
     "fr": "Tu peux suivre des chemins de randonnée guidés sur des sentiers naturels, qui vont jusqu'à des rivières et des gorges où les eaux sont propres, transparentes et rafraichissantes."
   },
@@ -640,13 +640,13 @@
     "fr": "À partir de Medellín, aller jusqu'à San Rafael, et une fois arrivé prendre la route qui s'appelle \"Vereda El Arenal\" (La Réserve est à environ 6km du centre-ville, et une portion de la route est en terre)."
   },
   "common.footer.col2.p.2": {
-    "es": "Se puede acceder también en vehículos públicos desde la terminal del norte de Medellín y luego una vez en el pueblo se puede acceder en transporte de moto carro, que lo pueden llevar directamente hasta la Reserva. Por todo el pueblo están localizados los transportes para su servicio.",
-    "en": "You can also come using public transportation from Medellín's terminal del norte, when you get to San Rafael you can take a taxi that will take you directly to the Reserve. You can find transportation all over the town.",
-    "fr": "Des bus au départ du terminal del norte de Medellín sont aussi disponibles, direction San Rafael. Une fois dans San Rafael, vous pouvez prendre un taxi qui vous amenera directement à la Réserve. Vous en trouverez partout dans le centre-ville."
+    "es": "Se puede acceder también en vehículos públicos desde la Terminal del Norte de Medellín y luego una vez en el pueblo se puede acceder en transporte de moto carro, que lo pueden llevar directamente hasta la Reserva. Por todo el pueblo están localizados los transportes para su servicio.",
+    "en": "You can also come using public transportation from Medellín's Terminal del Norte, when you get to San Rafael you can take a taxi that will take you directly to the Reserve. You can find transportation all over the town.",
+    "fr": "Des bus au départ du Terminal del Norte de Medellín sont aussi disponibles, direction San Rafael. Une fois dans San Rafael, vous pouvez prendre un taxi qui vous amenera directement à la Réserve. Vous en trouverez partout dans le centre-ville."
   },
   "common.footer.col2.p.3": {
     "es": "El número de la empresa de Motocarros es el +57 4 858 70 00 por si desea contactar previamente el servicio.",
-    "en": "The motocarros company's phone number is +57 4 858 70 00, is you want to plan your trip in advance.",
+    "en": "The motocarros company's phone number is +57 4 858 70 00, if you want to plan your trip in advance.",
     "fr": "Si vous voulez planifier votre arrivée en avance, le numéro de téléphone de l'entreprise de Motocarros est le +57 4 858 70 00."
   },
   "common.footer.question": {
@@ -721,53 +721,53 @@
   },
   "accomodation.cabins.tab.1.p": {
     "es": "Cómodas cabañas para disfrutar la naturaleza y compartir en pareja con hermosa vista al bosque o al rio según ubicación. Contamos con 3 cabañas y 2 econidos en lugares distintos de la Reserva para mantener la tranquilidad y la armonía con el entorno.",
-    "en": "",
-    "fr": ""
+    "en": "Comfortable cabins to enjoy nature and share with your partner with a beautiful view of the forest or the river depending on location. We have 3 cabins and 2 econests in different places of the Reserve to maintain tranquility and harmony with the environment.",
+    "fr": "Des cabanes confortables pour profiter de la nature et partager avec votre partenaire une belle vue sur la forêt ou la rivière selon l'emplacement. Nous avons 3 cabanes et 2 éco-nids dans différents endroits de la réserve pour maintenir la tranquillité et l'harmonie avec l'environnement."
   },
   "accomodation.cabins.tab.1.info.title": {
     "es": "Servicios y Comodidades",
-    "en": "",
-    "fr": ""
+    "en": "Services and Amenities",
+    "fr": "Services et Confort"
   },
   "accomodation.cabins.tab.1.info.bed": {
     "es": "Cama doble (1.40 m)",
-    "en": "",
-    "fr": ""
+    "en": "Double size bed (1.40 m)",
+    "fr": "Lit double (1.40 m)"
   },
   "accomodation.cabins.tab.1.info.bathroom": {
     "es": "Baño privado",
-    "en": "",
-    "fr": ""
+    "en": "Private bathroom",
+    "fr": "Salle de bain privée"
   },
   "accomodation.cabins.tab.1.info.outdoor": {
     "es": "Mirador/Hamaca",
-    "en": "",
-    "fr": ""
+    "en": "Lookout/Hammock",
+    "fr": "Terrasse/Hamac"
   },
   "accomodation.cabins.tab.1.info.food": {
-    "es": "Alimentación completa (tres comidas)",
-    "en": "",
-    "fr": ""
+    "es": "Alimentación completa (3 comidas)",
+    "en": "Full board (3 meals)",
+    "fr": "Pension complète (3 repas)"
   },
   "accomodation.cabins.tab.1.info.cafe": {
     "es": "Degustación de café orgánico",
-    "en": "",
-    "fr": ""
+    "en": "Organic coffee tasting",
+    "fr": "Dégustation de café bio"
   },
   "accomodation.cabins.tab.1.info.process": {
     "es": "Conocimiento de procesos ecológicos",
-    "en": "",
-    "fr": ""
+    "en": "Knowledge of ecological processes",
+    "fr": "Connaissance de processus écologiques"
   },
   "accomodation.cabins.tab.1.info.senderos": {
     "es": "Senderos",
-    "en": "",
-    "fr": ""
+    "en": "Walking trails",
+    "fr": "Sentiers de randonnée"
   },
   "accomodation.cabins.tab.1.info.wifi": {
     "es": "Wifi (en áreas comunes)",
-    "en": "",
-    "fr": ""
+    "en": "Wifi (in common areas)",
+    "fr": "Wifi (en zones communes)"
   },
   "accomodation.cabins.tab.1.price.title": {
     "es": "Precio",
@@ -791,58 +791,58 @@
   },
   "accomodation.cabins.tab.2.p": {
     "es": "Una casa amplia, construida con técnica tradicional de bahareque con espacios para el descanso y compartir de las familias. Especial para familias con niños o personas adultas (un piso cerca al comedor).",
-    "en": "",
-    "fr": ""
+    "en": "A spacious house, built with the traditional bahareque technique with spaces for families to rest and share. Special for families with children or adults (an apartment near the dining room).",
+    "fr": "Une maison spacieuse, construite avec la technique traditionnelle de bahareque avec des espaces pour les familles pour se reposer et partager. Spécial pour les familles avec enfants ou adultes (un appartement près de la salle à manger)."
   },
   "accomodation.cabins.tab.2.info.title": {
     "es": "Servicios y Comodidades",
-    "en": "",
-    "fr": ""
+    "en": "Services and Amenities",
+    "fr": "Services et Confort"
   },
   "accomodation.cabins.tab.2.info.rooms": {
     "es": "Tres habitaciones",
-    "en": "",
-    "fr": ""
+    "en": "Three rooms",
+    "fr": "Trois chambres"
   },
   "accomodation.cabins.tab.2.info.bed": {
     "es": "Camas dobles y sencillas según necesidades",
-    "en": "",
-    "fr": ""
+    "en": "Single or double beds according to needs",
+    "fr": "Lits simples ou doubles selon le besoin"
   },
   "accomodation.cabins.tab.2.info.bathroom": {
     "es": "Baño privado interno y baños exteriores para mayor comodidad",
-    "en": "",
-    "fr": ""
+    "en": "Private indoor bathroom and outdoor bathrooms for more comfort",
+    "fr": "Salle de bain privée intérieure et salles de bain extérieures pour plus de confort"
   },
   "accomodation.cabins.tab.2.info.outdoor": {
     "es": "Mesa de juegos y Hamacas",
-    "en": "",
-    "fr": ""
+    "en": "Game table and hammocks",
+    "fr": "Table de jeu et Hamacs"
   },
   "accomodation.cabins.tab.2.info.food": {
-    "es": "Alimentación completa (tres comidas)",
-    "en": "",
-    "fr": ""
+    "es": "Alimentación completa (3 comidas)",
+    "en": "Full board (3 meals)",
+    "fr": "Pension complète (3 repas)"
   },
   "accomodation.cabins.tab.2.info.cafe": {
     "es": "Degustación de café orgánico",
-    "en": "",
-    "fr": ""
+    "en": "Organic coffee tasting",
+    "fr": "Dégustation de café bio"
   },
   "accomodation.cabins.tab.2.info.process": {
     "es": "Conocimiento de procesos ecológicos",
-    "en": "",
-    "fr": ""
+    "en": "Knowledge of ecological processes",
+    "fr": "Connaissance de processus écologiques"
   },
   "accomodation.cabins.tab.2.info.senderos": {
     "es": "Senderos",
-    "en": "",
-    "fr": ""
+    "en": "Walking trails",
+    "fr": "Sentiers de randonnée"
   },
   "accomodation.cabins.tab.2.info.wifi": {
     "es": "Wifi (en áreas comunes)",
-    "en": "",
-    "fr": ""
+    "en": "Wifi (in common areas)",
+    "fr": "Wifi (en zones communes)"
   },
   "accomodation.cabins.tab.2.price.title": {
     "es": "Precio",
@@ -866,53 +866,53 @@
   },
   "accomodation.cabins.tab.3.p": {
     "es": "Para los que prefieren disfrutar de la compañía de los amigos. Contamos con esta casa construida en guadua y paredes con técnica de esterilla revocada. Con dos espacios amplios, para acomodación de grupos. Dos habitaciones para cinco personas cada una.",
-    "en": "",
-    "fr": ""
+    "en": "For those who prefer to enjoy the company of friends, we have this house built in bamboo and walls with plastered mat technique. With two large spaces, for accommodation of groups. Two rooms for five people each.",
+    "fr": "Pour ceux qui préfèrent venir avec leurs amis, nous proposons cette maison construite en bambou et ses murs en tapis de plâtre. Avec deux grands espaces, pour l'hébergement de groupes. Deux chambres pour cinq personnes chacune."
   },
   "accomodation.cabins.tab.3.info.title": {
     "es": "Servicios y Comodidades",
-    "en": "",
-    "fr": ""
+    "en": "Services and Amenities",
+    "fr": "Services et Confort"
   },
   "accomodation.cabins.tab.3.info.bed": {
     "es": "Camas sencillas, adaptables a camas dobles",
-    "en": "",
-    "fr": ""
+    "en": "Single beds, adaptable to double beds",
+    "fr": "Lits simples, adaptables en lits doubles"
   },
   "accomodation.cabins.tab.3.info.bathroom": {
     "es": "Baño exterior (Un baño por habitación)",
-    "en": "",
-    "fr": ""
+    "en": "Outdoor bathroom (One per room)",
+    "fr": "Salle de bain extérieure (Une par chambre)"
   },
   "accomodation.cabins.tab.3.info.outdoor": {
     "es": "Balcon",
-    "en": "",
-    "fr": ""
+    "en": "Balcony",
+    "fr": "Balcon"
   },
   "accomodation.cabins.tab.3.info.food": {
-    "es": "Alimentación completa (tres comidas)",
-    "en": "",
-    "fr": ""
+    "es": "Alimentación completa (3 comidas)",
+    "en": "Full board (3 meals)",
+    "fr": "Pension complète (3 repas)"
   },
   "accomodation.cabins.tab.3.info.cafe": {
     "es": "Degustación de café orgánico",
-    "en": "",
-    "fr": ""
+    "en": "Organic coffee tasting",
+    "fr": "Dégustation de café bio"
   },
   "accomodation.cabins.tab.3.info.process": {
     "es": "Conocimiento de procesos ecológicos",
-    "en": "",
-    "fr": ""
+    "en": "Knowledge of ecological processes",
+    "fr": "Connaissance de processus écologiques"
   },
   "accomodation.cabins.tab.3.info.senderos": {
     "es": "Senderos",
-    "en": "",
-    "fr": ""
+    "en": "Walking trails",
+    "fr": "Sentiers de randonnée"
   },
   "accomodation.cabins.tab.3.info.wifi": {
     "es": "Wifi (en áreas comunes)",
-    "en": "",
-    "fr": ""
+    "en": "Wifi (in common areas)",
+    "fr": "Wifi (en zones communes)"
   },
   "accomodation.cabins.tab.3.price.title": {
     "es": "Precio",
@@ -945,7 +945,7 @@
     "fr": "À déguster sur place ou à emporter"
   },
   "products.cafe.title.strong": {
-    "es": "Producción de café orgánica",
+    "es": "Producción de café orgánico",
     "en": "Organic coffee production",
     "fr": "Production de café bio"
   },
@@ -956,18 +956,18 @@
   },
   "products.cafe.p.1": {
     "es": "En la Zafra conservamos la tradición cultural, por ello nos motiva la siembra de café en entorno de bosque, como lo hacían los ancestros y propiciando la dinámica natural de los cultivos.",
-    "en": "",
-    "fr": ""
+    "en": "In Zafra we preserve the cultural tradition, which is why we are motivated to plant coffee in a forest environment, as the ancestors did while promoting the natural dynamics of the crops.",
+    "fr": "À La Zafra, nous préservons la tradition culturelle, c'est pourquoi nous sommes motivés à planter du café dans un environnement forestier, comme les ancêtres l'ont fait tout en promouvant la dynamique naturelle des cultures."
   },
   "products.cafe.p.2": {
-    "es": "Establecemos nuestros cafetales en zonas boscosas, intercalando con los cultivos diferentes especies de árboles y plantas que propician alimento y sombrío para las plantas, fauna circundante y para nuestros visitantes.",
-    "en": "",
-    "fr": ""
+    "es": "Establecemos nuestros cafetales en zonas boscosas, intercalando con los cultivos diferentes especies de árboles y plantas que propician alimento y sombrío a la flora y fauna circundante y para nuestros visitantes.",
+    "en": "We establish our coffee plantations in wooded areas, interspersing with the crops different species of trees and plants that provide food and shade for the plants, surrounding fauna and for our visitors.",
+    "fr": "Nous établissons nos plantations de café dans des zones boisées, entrecoupées par les cultures de différentes espèces d'arbres et de plantes qui leur fournissent de la nourriture et de l'ombre, ainsi qu'à la faune environnante et à nos visiteurs."
   },
   "products.cafe.p.3": {
     "es": "Complementamos la producción de café con sistemas de fertilización orgánica, que garantizan la regeneración permanente del suelo y la calidad de nuestro grano. La recolección, secado y tostión del café mantiene las prácticas artesanales y se obtiene un café molido que compartimos con nuestros visitantes.",
-    "en": "",
-    "fr": ""
+    "en": "We complement coffee production with organic fertilization systems, which guarantee the permanent regeneration of the soil and the quality of our beans. The collection, drying and roasting of coffee maintains artisan practices and we obtain a ground coffee that we share with our visitors.",
+    "fr": "Nous couplons la production de café avec des systèmes de fertilisation organique, qui garantissent la régénération permanente du sol et la qualité de nos grains. La collecte, le séchage et la torréfaction du café permettent de maintenir des pratiques artisanales, et nous obtenons un café moulu que nous partageons avec nos visiteurs."
   },
   "products.restaurant.title.strong": {
     "es": "Restaurante",
@@ -981,12 +981,12 @@
   },
   "products.restaurant.p.1": {
     "es": "Muchos de los productos que consumimos aquí en Zafra provienen directamente de la reserva o del vecindario.",
-    "en": "",
+    "en": "Many of the products we consume here in Zafra come directly from the reserve or from the neighborhood.",
     "fr": "Beaucoup de produits que nous consommons ici à la Zafra viennent directement de la réserve ou du voisinage."
   },
   "products.restaurant.p.2": {
     "es": "Con nuestros dos huertos y muchos árboles frutales, estamos intentando gradualmente alcanzar un equilibrio saludable entre los productos locales y los productos básicos que compramos en la ciudad. Esto nos permite ofrecer a los visitantes tres comidas al día, siempre variadas y preparadas con cariño por nuestro equipo de cocina.",
-    "en": "",
+    "en": "With our two orchards and lots of fruit trees, we are gradually trying to get to a healthy balance between local products and the first necessities we buy in town. This allows us to offer visitors three meals a day, always varied and lovingly prepared by our kitchen team.",
     "fr": "Avec nos deux potagers et beaucoup d'arbres fruitiers, nous essayons progressivement d'arriver à un équilibre sain entre produits locaux et produits de première nécéssité que nous achetons en ville. Ceci nous permet de proposer aux visiteurs trois repas par jour, toujours variés et cuisinés avec amour par notre équipe en cuisine."
   },
   "products.honey.title.strong": {
@@ -1001,43 +1001,43 @@
   },
   "products.honey.p.1": {
     "es": "La pervivencia en el bosque es una tarea permanente en nuestra Reserva.",
-    "en": "",
-    "fr": ""
+    "en": "The survival of all species in the forest is a permanent task in our reserve.",
+    "fr": "La survie de toutes les espèces en forêt est une tâche permanente dans notre réserve."
   },
   "products.honey.p.2": {
-    "es": "Por ello mantenemos la apicultura como una estrategia de reproducción de árboles y plantas en todo el lugar y en la zona. La producción de miel es un valor agregado que nos aportan las abejas y que ponemos a disposición para la compra a nuestros visitantes.",
-    "en": "",
-    "fr": ""
+    "es": "Por ello mantenemos la apicultura y la meliponicultura como una estrategia de polinisación y de reproducción de árboles y plantas en todo el lugar y en la zona. La producción de miel es un valor agregado que nos aportan las abejas y que ponemos a disposición para la compra a nuestros visitantes.",
+    "en": "For this reason, we maintain beekeeping as a strategy for polinating and reproducing trees and plants throughout the reserve and in the area. Honey production is an added value that bees provide for us and we make it available for purchase to our visitors.",
+    "fr": "Pour cette raison, nous maintenons l'apiculture comme stratégie de polinisation et de reproduction des arbres et des plantes dans toute la réserve et dans la région. La production de miel est une valeur ajoutée que les abeilles nous apportent et que nous mettons à disposition de nos visiteurs."
   },
   "events.hero.title.strong": {
     "es": "Salón para reuniones y eventos",
-    "en": "",
-    "fr": ""
+    "en": "Meeting and event room",
+    "fr": "Salle de réunion et d'événement"
   },
   "events.hero.title": {
     "es": "Realiza tu encuentro en un lugar mágico",
-    "en": "",
-    "fr": ""
+    "en": "Your meeting in a magical place",
+    "fr": "Faites votre rencontre dans un lieu magique"
   },
   "events.space.title.strong": {
     "es": "Este espacio puede ser tuyo",
-    "en": "",
-    "fr": ""
+    "en": "This space can be yours",
+    "fr": "Cet espace peut être le vôtre"
   },
   "events.space.subtitle": {
     "es": "para la realización de encuentros académicos, lúdicos y de reflexión.",
-    "en": "",
-    "fr": ""
+    "en": "for all types of meetings: academic, recreational or  meditational.",
+    "fr": "pour tous types de réunions: académiques, récréatives et de réflexion."
   },
   "events.space.p.1": {
     "es": "La naturaleza hace parte del lugar, aprovecha para dar más impacto a tu evento.",
-    "en": "",
-    "fr": ""
+    "en": "Nature is part of the place, take advantage of it to give more impact to your event.",
+    "fr": "La nature fait partie du lieu, profitez-en pour donner plus d'impact à votre événement."
   },
   "events.space.p.2": {
     "es": "Que sea para un seminario, un encuentro, una sesión para el bienestar... Dispones de un espacioso lugar, ubicado en medio de la tranquilidad del bosque. Tiene capacidad para reunir hasta a 40 personas y cuenta con ayudas tecnológicas audio visuales (video beam, pantalla para proyecciones y sonido). Construido con madera recuperada para disminuir el impacto sobre los bosques.",
-    "en": "",
-    "fr": ""
+    "en": "You have at your disposal a spacious place for a seminar, a meeting or a session of well-being, located in the middle of the tranquility of the forest. It has the capacity to gather up to 40 people and it comes with audio visual technological aids (video beam, projection screen and sound). Built with reclaimed wood to lessen the impact on forests.",
+    "fr": "Vous avez à votre disposition un lieu spacieux pour un séminaire, une réunion ou une séance de bien-être, situé au milieu de la tranquillité de la forêt. Il a une capacité de 40 personnes et possède tout le matériel audiovisuel (vidéo-projecteur, écran de projection et enceintes). Construit avec du bois de récupération pour réduire l'impact sur les forêts"
   },
   "policy.hero.title.strong": {
     "es": "Politica de Sostenibilidad",
@@ -1046,58 +1046,58 @@
   },
   "policy.decalogo.title.strong": {
     "es": "Decálogo de Sostenibilidad Turística",
-    "en": "",
-    "fr": ""
+    "en": "Decalogue of Tourist Sustainability",
+    "fr": "Décalogue du Développement Durable Touristique"
   },
   "policy.decalogo.1.content": {
     "es": "1. Elija lugares con enfoque sostenible, que garanticen buena calidad.",
-    "en": "",
-    "fr": ""
+    "en": "1. Choose places with a sustainable approach that guarantee good quality.",
+    "fr": "1. Choisissez des lieux avec une approche durable, qui garantissent une bonne qualité."
   },
   "policy.decalogo.2.content": {
     "es": "2. Use el agua y la energía con moderacion.",
-    "en": "",
-    "fr": ""
+    "en": "2. Use water and energy sparingly.",
+    "fr": "2. Utilisez l'eau et l'énergie avec parcimonie."
   },
   "policy.decalogo.3.content": {
     "es": "3. Minimice la generacíon de residuos.",
-    "en": "",
-    "fr": ""
+    "en": "3. Minimize the generation of waste.",
+    "fr": "3. Minimisez la production de déchets."
   },
   "policy.decalogo.4.content": {
     "es": "4. En los lugares naturales, impacte lo menos posible.",
-    "en": "",
-    "fr": ""
+    "en": "4. In natural places, impact as little as possible.",
+    "fr": "4. Dans les endroits naturels, impactez le moins possible."
   },
   "policy.decalogo.5.content": {
     "es": "5. Compre regalos y recuerdos que sean locales y artesanales.",
-    "en": "",
-    "fr": ""
+    "en": "5. Buy gifts and souvenirs that are local and handmade.",
+    "fr": "5. Achetez des cadeaux et des souvenirs locaux et faits à la main."
   },
   "policy.decalogo.6.content": {
-    "es": "6. No compre ni extraiga flora o fauna.",
-    "en": "",
-    "fr": ""
+    "es": "6. No compre ni extraiga flora o fauna local.",
+    "en": "6. Do not buy or extract flora or fauna.",
+    "fr": "6. Ne pas acheter ni extraire de flore ou de faune."
   },
   "policy.decalogo.7.content": {
     "es": "7. Respete y comparta con los habitantes.",
-    "en": "",
-    "fr": ""
+    "en": "7. Respect and share with the inhabitants.",
+    "fr": "7. Respectez et partagez avec les habitants."
   },
   "policy.decalogo.8.content": {
     "es": "8. Conozca y disfrute de la gastronomía local.",
-    "en": "",
-    "fr": ""
+    "en": "8. Try and enjoy the local gastronomy.",
+    "fr": "8. Découvrez et appréciez la gastronomie locale."
   },
   "policy.decalogo.9.content": {
     "es": "9. Infórmese sobre la cultura y su historia.",
-    "en": "",
-    "fr": ""
+    "en": "9. Learn about the culture and its history.",
+    "fr": "9. Découvrez la culture et son histoire."
   },
   "policy.decalogo.10.content": {
     "es": "10. Contrate guías e informadores turistícos locales.",
-    "en": "",
-    "fr": ""
+    "en": "10. Hire local tour guides and informants.",
+    "fr": "10. Prenez des guides touristiques et informateurs locaux."
   },
   "policy.politica.title.strong": {
     "es": "Politica de Sostenibilidad",
@@ -1111,28 +1111,28 @@
   },
   "policy.politica.p.1": {
     "es": "La Reserva Natural Zafra se sustenta en principios de vida en un entorno saludable, en la producción agroecológica y permacultural, en la conservación de la vida y de la naturaleza y en las relaciones sociales y comunitarias con equidad.",
-    "en": "",
-    "fr": ""
+    "en": "The Zafra Natural Reserve is based on principles of life in a healthy environment, in agroecological and permacultural production, in the conservation of life and nature and in social and community relations with equity.",
+    "fr": "La Réserve Naturelle Zafra est basée sur les principes de la vie dans un environnement sain, dans la production agroécologique et permaculturelle, dans la conservation de la vie et de la nature et dans les relations sociales et communautaires avec équité."
   },
   "policy.politica.p.2": {
     "es": "Desarrollamos las actividades turísticas en función de la contemplación y el respeto por el entorno natural, la conservación de fauna, flora local y de los recursos hídricos; en el propósito de permitir su disfrute a las generaciones futuras y derivar el sustento de los propietarios y de los colaboradores. Promovemos objetivos de conservación, realizamos proyectos de restauración ecologica y adelantamos acciones de capacitación para la sensibilización ambiental, mediante la participación comprometida en redes de operadores turísticos, ambientales, y organizaciones sociales con los que encontramos intereses comunes.",
-    "en": "",
-    "fr": ""
+    "en": "We develop tourist activities based on contemplation and respect for the natural environment, the conservation of local fauna, flora and water resources; in the purpose of allowing their enjoyment to future generations and providing for the owners and collaborators. We promote conservation objectives, carry out ecological restoration projects and carry out training actions for environmental awareness, through committed participation in networks of tour operators, environmental, and social organizations with whom we find common interests.",
+    "fr": "Nous développons des activités touristiques basées sur la contemplation et le respect de l'environnement naturel, la conservation de la faune, de la flore locale et des ressources en eau; dans le but de permettre leur jouissance aux générations futures et de faire vivre les propriétaires et les collaborateurs. Nous promouvons des objectifs de conservation, réalisons des projets de restauration écologique et menons des actions de formation à la sensibilisation à l'environnement, à travers une participation engagée dans des réseaux de voyagistes, d'organisations environnementales et sociales avec lesquelles nous trouvons des intérêts communs."
   },
   "policy.politica.p.3": {
     "es": "Nuestro proyecto se sustenta en la naturaleza, de la cual hacemos parte, por ello su permanencia en condiciones de sustentabilidad, garantiza el entorno ideal para ofrecer actividades turísticas pero principalmente un espacio de vida en armonía, con la posibilidad de disfrutar, aprender y compartir lo que somos y hacemos. Nuestro compromiso se centra en garantizar un ambiente sano, para habitar en condiciones de bienestar, alegría y confort; crear relaciones de intercambio productivo y económico justo con los pobladores de la zona, nuestros principales proveedores y con aquellos a quienes brindamos nuestros servicios. Promovemos la valoración de la diversidad y de la riqueza cultural de los habitantes de nuestro Municipio y de la Región y contribuimos a las interacciones que en ella se tejen. Rechazamos por ello, cualquier práctica que atropelle la dignidad humana y lesione la vida animal. Nos oponemos a cualquier tipo de discriminación y al maltrato o abuso a los niños, niñas y adolescentes.",
-    "en": "",
-    "fr": ""
+    "en": "Our project is based on nature, of which we are part, therefore its permanence in conditions of sustainability guarantees the ideal environment to offer tourist activities, but mainly a space of life in harmony, with the possibility of enjoying, learning and sharing what we are and what we do. Our commitment is focused on guaranteeing a healthy environment, to live in conditions of well-being, happiness and comfort; create relationships of fair economic and productive exchange with the inhabitants of the area, our main suppliers and those to whom we provide our services. We promote the appreciation of the diversity and cultural wealth of the inhabitants of our Municipality and the Region and contribute to the interactions that are woven into it. We therefore reject any practice that runs over human dignity and injures animal life. We oppose any type of discrimination and mistreatment or abuse of children and adolescents.",
+    "fr": "Notre projet est basé sur la nature, dont nous faisons partie, donc sa permanence dans des conditions de durabilité garantit l'environnement idéal pour offrir des activités touristiques, mais surtout un espace de vie en harmonie, avec la possibilité de profiter, d'apprendre et de partager ce que nous sommes et ce que nous faisons. Notre engagement est axé sur la garantie d'un environnement sain, pour vivre dans des conditions de bien-être, de bonheur et de confort; créer des relations d'échanges économiques et productifs équitables avec les habitants de la région, nos principaux fournisseurs et ceux à qui nous offrons nos services. Nous favorisons l'appréciation de la diversité et de la richesse culturelle des habitants de notre municipalité et de la région et nous contribuons aux interactions qui y sont tissées. Nous rejetons donc toute pratique qui bafoue la dignité humaine et porte atteinte à la vie animale. Nous nous opposons à tout type de discrimination et de maltraitance ou d'abus envers les enfants et les adolescents."
   },
   "policy.politica.p.4": {
     "es": "Son nuestros referentes y nos impulsan permanentemente: el patrimonio natural, porque en nuestra Reserva se expresa e interactúa cotidianamente y nos da ejemplo de la necesaria convivencia; el patrimonio cultural material e inmaterial , que nos da elementos que nutren el conocimiento de la región, nuestra identidad y permiten la recreación de la memoria colectiva; los pobladores, campesinos nativos y neo rurales, que aportan desde sus múltiples conocimientos, vivencias y experiencias; las instituciones de apoyo, con el reconocimiento y valoración de nuestro proceso de interacción respetuosa con el ambiente como experiencia significativa en la región; nuestros visitantes que nos impulsan a fortalecer cada día la oferta de servicios para el disfrute en entorno de naturaleza. En la reserva se conjuga una asociación de sueños, esfuerzos, dinamismo, respeto por el entorno y aprecio por las personas, interés solidario con los colaboradores y alegría por el buen sentir de los visitantes.",
-    "en": "",
-    "fr": ""
+    "en": "They are our referents and they constantly promote us: the natural heritage, because in our Reserve it is expressed and it interacts daily and gives us an example of the necessary coexistence; the material and immaterial cultural heritage, which gives us elements that nourish the knowledge of the region, our identity and allow the recreation of collective memory; the residents, native and neo-rural peasants, who contribute from their multiple knowledge and experiences; institutions that support us, with the recognition and appreciation of our process of respectful interaction with the environment as a significant experience in the region; our visitors who encourage us to strengthen the offer of services for enjoyment in a natural environment every day. The reserve combines an association of dreams, efforts, dynamism, respect for the environment and appreciation for people, solidarity interest with employees and joy for the good feelings of visitors.",
+    "fr": "Ce sont nos référents et ils nous promeuvent constamment: le patrimoine naturel, car dans notre Réserve il s'exprime et interagit quotidiennement et nous donne un exemple de la coexistence nécessaire; le patrimoine culturel matériel et immatériel, qui nous donne des éléments qui nourrissent la connaissance de la région, notre identité et permettent la recréation de la mémoire collective; les habitants, paysans indigènes et néo-ruraux, qui apportent leurs multiples connaissances, expériences et leur vécu; les institutions de soutien, avec la reconnaissance et l'appréciation de notre processus d'interaction respectueuse de l'environnement comme une expérience significative dans la région; nos visiteurs qui nous encouragent à renforcer chaque jour l'offre de services pour le plaisir en milieu naturel. La réserve combine une association de rêves, d'efforts, de dynamisme, de respect de l'environnement et d'appréciation des gens, d'intérêt solidaire avec les employés et de joie pour les bons sentiments des visiteurs."
   },
   "policy.politica.p.5": {
     "es": "Nos comprometemos a fortalecer la oferta de experiencias para los visitantes, garantizar excelente calidad en los servicios, acompañamiento informado en los diferentes momentos de la estadía en la Reserva y a trabajar permanentemente por el bienestar del entorno natural, de los habitantes propios y de los visitantes.",
-    "en": "",
-    "fr": ""
+    "en": "We are committed to strengthening the offer of experiences for visitors, guaranteeing excellent quality of services, informed accompaniment at different times of your stay in the Reserve, and permanently working for the well-being of the natural environment, of the inhabitants themselves and of visitors.",
+    "fr": "Nous nous engageons à renforcer l'offre d'expériences pour les visiteurs, en garantissant une excellente qualité de services, un accompagnement informé à différents moments de votre séjour dans la Réserve, et en travaillant en permanence pour le bien-être de l'environnement naturel, des habitants eux-mêmes et des visiteurs."
   },
   "activities.hero.title.strong": {
     "es": "Experiencias",
@@ -1140,24 +1140,24 @@
     "fr": "Expériences"
   },
   "activities.hero.title": {
-    "es": "Encuentra la comunidad haciendo actividades",
-    "en": "",
-    "fr": ""
+    "es": "Vive la Naturaleza/Recoge aprendizajes",
+    "en": "Live the Nature and learn",
+    "fr": "Vivez la nature et apprenez"
   },
   "activities.bees.title.strong": {
     "es": "La Reinas del bosque",
-    "en": "",
-    "fr": ""
+    "en": "The Queens of the forest",
+    "fr": "Les Reines de la forêt"
   },
   "activities.bees.title": {
     "es": "Producción artesanal de miel de abeja",
-    "en": "",
-    "fr": ""
+    "en": "Artisanal production of bee honey",
+    "fr": "Production artisanal de miel d'abeille"
   },
   "activities.bees.subtitle": {
     "es": "Charlas informativas sobre apicultura. Producción, degustación y venta de miel de abejas Zafra.",
-    "en": "",
-    "fr": ""
+    "en": "Informative talks on beekeeping. Production, tasting and sale of Zafra bee honey.",
+    "fr": "Conférences informatives sur l'apiculture. Production, dégustation et vente de miel d'abeilles Zafra."
   },
   "activities.bees.duration.title": {
     "es": "Duración",
@@ -1166,8 +1166,8 @@
   },
   "activities.bees.duration": {
     "es": "Dos a cuatro horas, según si se quiere conocer las abejas apis o las meliponas (abejas sin aguijón)",
-    "en": "",
-    "fr": ""
+    "en": "Two to four hours, depending on whether you want to see apis bees or meliponas (stingless bees)",
+    "fr": "Deux à quatre heures, selon si vous voulez voir des abeilles apis ou des mélipones (abeilles sans dard)"
   },
   "activities.bees.includes": {
     "es": "Incluye",
@@ -1176,43 +1176,33 @@
   },
   "activities.bees.includes.charla": {
     "es": "Charla informativa sobre la vida de las abejas",
-    "en": "",
-    "fr": ""
+    "en": "Informative talk on the life of bees",
+    "fr": "Discussion informative sur la vie des abeilles"
   },
   "activities.bees.includes.visit": {
     "es": "Visita al apiario con traje protector especial",
-    "en": "",
-    "fr": ""
+    "en": "Visit to the apiary with special protective suit",
+    "fr": "Visite du rucher avec une tenue de protection spéciale"
   },
   "activities.bees.includes.taste": {
     "es": "Degustación de miel de abejas apis y meliponas",
-    "en": "",
-    "fr": ""
+    "en": "Apis and meliponas honey tasting",
+    "fr": "Dégustation de miel d'apis et de miel de meliponas"
   },
   "activities.bees.includes.refrigerio": {
     "es": "Refrigerio",
-    "en": "",
-    "fr": ""
+    "en": "Snack",
+    "fr": "Collation"
   },
   "activities.bees.includes.suvenir": {
     "es": "Suvenir (Jabón de miel natural, producido en la región con miel de la Reserva)",
-    "en": "",
-    "fr": ""
+    "en": "Souvenir (Natural honey soap, produced in the region with Reserve honey)",
+    "fr": "Souvenir (Savon naturel au miel, produit dans la région avec du miel de réserve)"
   },
   "activities.bees.includes.seguro": {
     "es": "Seguro",
-    "en": "",
-    "fr": ""
-  },
-  "activities.bees.includes.transport": {
-    "es": "Transporte hasta la Reserva",
-    "en": "",
-    "fr": ""
-  },
-  "activities.bees.includes.other": {
-    "es": "Otros servicios no especificados",
-    "en": "",
-    "fr": ""
+    "en": "Insurance",
+    "fr": "Assurance"
   },
   "activities.bees.price.title": {
     "es": "Precio",
@@ -1241,18 +1231,18 @@
   },
   "activities.trail.title.strong": {
     "es": "Caminos de magia y paz",
-    "en": "",
-    "fr": ""
+    "en": "Magical and peaceful paths",
+    "fr": "Sentiers de magie et de paix"
   },
   "activities.trail.title": {
     "es": "en el área protegida de la Reserva Natural Zafra",
-    "en": "",
-    "fr": ""
+    "en": "in the protected area of the Zafra Natural Reserve",
+    "fr": "dans la zone protégée de la Réserve Naturelle Zafra"
   },
   "activities.trail.subtitle": {
     "es": "Descubre las initiativas tomadas para proteger ese área de conservación y descubrir la riqueza natural de la reserva a través de un paseo por el bosque, avistamientos de aves y especies de flora, caminatas, etc...",
-    "en": "",
-    "fr": ""
+    "en": "Discover the initiatives taken to protect this conservation area and discover the natural richness of the reserve through a walk in the forest, sightings of birds and species of flora, walks, etc ...",
+    "fr": "Découvrez les initiatives prises pour protéger cette zone de conservation et découvrez la richesse naturelle de la réserve à travers une promenade en forêt, des observations d'oiseaux et d'espèces de flore, des randonnées, etc ..."
   },
   "activities.trail.duration.title": {
     "es": "Duración",
@@ -1261,8 +1251,8 @@
   },
   "activities.trail.duration": {
     "es": "Dos a cinco horas según la capacidad y motivacion de los visitantes.",
-    "en": "",
-    "fr": ""
+    "en": "Two to five hours depending on the capacity and motivation of the visitors.",
+    "fr": "Deux à cinq heures selon la capacité et la motivation des visiteurs."
   },
   "activities.trail.includes": {
     "es": "Incluye",
@@ -1271,33 +1261,23 @@
   },
   "activities.trail.includes.guide": {
     "es": "Acompañamiento de guia conocedor de la zona.",
-    "en": "",
-    "fr": ""
+    "en": "Accompaniment by a knowledgeable guide of the area.",
+    "fr": "Accompagnement par un guide compétent de la région."
   },
   "activities.trail.includes.refrigerio": {
     "es": "Refrigerio y limonada durante el recorrido",
-    "en": "",
-    "fr": ""
+    "en": "Snack and lemonade during the tour",
+    "fr": "Snack et limonade pendant la tournée"
   },
   "activities.trail.includes.binoculars": {
     "es": "Disponibilidad de binoculares y guia ilustrada para identificacion de especies de aves",
-    "en": "",
-    "fr": ""
+    "en": "Availability of binoculars and illustrated guide to identify bird species",
+    "fr": "Disponibilité de jumelles et d'un guide illustré pour identifier les espèces d'oiseaux"
   },
   "activities.trail.includes.seguro": {
     "es": "Seguro",
-    "en": "",
-    "fr": ""
-  },
-  "activities.trail.includes.transport": {
-    "es": "Transporte hasta la Reserva",
-    "en": "",
-    "fr": ""
-  },
-  "activities.trail.includes.other": {
-    "es": "Otros servicios no especificados",
-    "en": "",
-    "fr": ""
+    "en": "Insurance",
+    "fr": "Assurance"
   },
   "activities.trail.price.title": {
     "es": "Precio",
@@ -1326,18 +1306,18 @@
   },
   "activities.cacao.title.strong": {
     "es": "Cacao",
-    "en": "",
-    "fr": ""
+    "en": "Cacao",
+    "fr": "Cacao"
   },
   "activities.cacao.title": {
     "es": "Bebida de los dioses",
-    "en": "",
-    "fr": ""
+    "en": "Drink of the gods",
+    "fr": "Boisson des dieux"
   },
   "activities.cacao.subtitle": {
     "es": "Talleres de producción artesanal de chocolate, a partir del fruto del cacao cultivado en la Reserva.",
-    "en": "",
-    "fr": ""
+    "en": "Artisanal chocolate production workshops, from the fruit of the cocoa grown in the Reserve.",
+    "fr": "Ateliers de fabrication artisanale de chocolat, à partir du fruit du cacao cultivé dans la Réserve."
   },
   "activities.cacao.duration.title": {
     "es": "Duración",
@@ -1346,8 +1326,8 @@
   },
   "activities.cacao.duration": {
     "es": "Dos a tres horas de acuerdo con la motivación en el conocimiento por parte de los visitantes",
-    "en": "",
-    "fr": ""
+    "en": "Two to three hours according to the motivation and the knowledge of the visitors",
+    "fr": "Deux à trois heures selon la motivation et la connaissance des visiteurs"
   },
   "activities.cacao.includes": {
     "es": "Incluye",
@@ -1356,38 +1336,28 @@
   },
   "activities.cacao.includes.field": {
     "es": "Visita al sector de cultivo de cacao",
-    "en": "",
-    "fr": ""
+    "en": "Visit to the cocoa growing sector",
+    "fr": "Visite de la filière cacao"
   },
   "activities.cacao.includes.gathering": {
     "es": "Recoleccion de frutos y conocimiento del proceso artesanal campesino",
-    "en": "",
-    "fr": ""
+    "en": "Fruit harvesting and knowledge of the peasant artisan process",
+    "fr": "Récolte de fruits et connaissance du processus artisanal paysan"
   },
   "activities.cacao.includes.kitchen": {
     "es": "Visita a la cocina de la Reserva para conocer como se tuesta y muele el cacao y se produce el chocolate",
-    "en": "",
-    "fr": ""
+    "en": "Visit to the Reserve's kitchen to learn how cocoa is roasted and grinded and how chocolate is produced",
+    "fr": "Visite à la cuisine de la Réserve pour apprendre comment le cacao est torréfié et moulu et comment le chocolat est produit"
   },
   "activities.cacao.includes.taste": {
     "es": "Degustación – refriegerio con chocolate y acompañamiento",
-    "en": "",
-    "fr": ""
+    "en": "Tasting - chocolate snack and accompaniment",
+    "fr": "Dégustation - collation au chocolat et accompagnement"
   },
   "activities.cacao.includes.seguro": {
     "es": "Seguro",
-    "en": "",
-    "fr": ""
-  },
-  "activities.cacao.includes.transport": {
-    "es": "Transporte hasta la Reserva",
-    "en": "",
-    "fr": ""
-  },
-  "activities.cacao.includes.other": {
-    "es": "Otros servicios no especificados",
-    "en": "",
-    "fr": ""
+    "en": "Insurance",
+    "fr": "Assurance"
   },
   "activities.cacao.price.title": {
     "es": "Precio",
@@ -1416,13 +1386,13 @@
   },
   "activities.vida.title.strong": {
     "es": "Conociendo la vida campesina",
-    "en": "",
-    "fr": ""
+    "en": "Knowing the peasant life",
+    "fr": "Connaître la vie paysanne"
   },
   "activities.vida.subtitle": {
     "es": "Visita por toda la zona de producciòn de alimentos de la Reserva para conocer el enfoque permacultural.",
-    "en": "",
-    "fr": ""
+    "en": "Visit the entire food production area of the Reserve to learn about the permacultural approach.",
+    "fr": "Visitez toute la zone de production alimentaire de la réserve pour en savoir plus sur l'approche permaculturelle."
   },
   "activities.vida.duration.title": {
     "es": "Duración",
@@ -1431,8 +1401,8 @@
   },
   "activities.vida.duration": {
     "es": "Dos horas.",
-    "en": "",
-    "fr": ""
+    "en": "Two hours",
+    "fr": "Deux heures"
   },
   "activities.vida.includes": {
     "es": "Incluye",
@@ -1441,38 +1411,28 @@
   },
   "activities.vida.includes.guide": {
     "es": "Charla durante el recorrido guiado",
-    "en": "",
-    "fr": ""
+    "en": "Talk during the guided tour",
+    "fr": "Discussion pendant la visite guidée"
   },
   "activities.vida.includes.preparation": {
     "es": "Preparación y degustacion de productos recolectados durante el recorrido (frutas, cafe, plàtano)",
-    "en": "",
-    "fr": ""
+    "en": "Preparation and tasting of products collected during the tour (fruits, coffee, banana)",
+    "fr": "Préparation et dégustation des produits récoltés lors de la visite (fruits, café, banane)"
   },
   "activities.vida.includes.refrigerio": {
     "es": "Refrigerio con los productos de la Reserva",
-    "en": "",
-    "fr": ""
+    "en": "Snack with the Reserve's products",
+    "fr": "Snack avec les produits de la Réserve"
   },
   "activities.vida.includes.cafe": {
     "es": "Un paquete de cafe de 200gr tostado artesanalmente en la Reserva",
-    "en": "",
-    "fr": ""
+    "en": "A 200gr package of artisan coffee roasted in the Reserve",
+    "fr": "Un paquet de 200gr de café torréfié artisanalement dans la Réserve"
   },
   "activities.vida.includes.seguro": {
     "es": "Seguro",
-    "en": "",
-    "fr": ""
-  },
-  "activities.vida.includes.transport": {
-    "es": "Transporte hasta la Reserva",
-    "en": "",
-    "fr": ""
-  },
-  "activities.vida.includes.other": {
-    "es": "Otros servicios no especificados",
-    "en": "",
-    "fr": ""
+    "en": "Insurance",
+    "fr": "Assurance"
   },
   "activities.vida.price.title": {
     "es": "Precio",
