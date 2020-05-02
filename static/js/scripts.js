@@ -480,9 +480,11 @@
         function navSmall() {
             $(window).scroll(function (){
                 if ($(window).scrollTop() > 70) {
-                $('nav').addClass("nav-small");
+                    $('nav').addClass("nav-small");
+                    $('.scroll-top').show();
                 } else {
                     $('nav').removeClass("nav-small");
+                    $('.scroll-top').hide();
                 }
             });
         }

@@ -189,8 +189,9 @@
 	const MONTHS = {
 		"es": ['ENE', 'FEB', 'MAR', 'ABR', 'MAY', 'JUN', 'JUL', 'AGO', 'SEP', 'OCT', 'NOV', 'DIC'],
 		"en": ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'],
-		"fr": ['JAN', 'FEV', 'MAR', 'AVR', 'MAI', 'JUIN', 'JUIL', 'AOÛT', 'SEP', 'OCT', 'NOV', 'DIC']
+		"fr": ['JAN', 'FEV', 'MAR', 'AVR', 'MAI', 'JUIN', 'JUIL', 'AOÛT', 'SEP', 'OCT', 'NOV', 'DEC']
 	};
+	
 	const BLOG_ITEM_TEMPLATE =
 		'<div class="col-md-4 col-sm-6 reveal">\
 				<div class="blog-grid-img">\
@@ -256,7 +257,7 @@
 	// Get facebook page feed
 	function initNews() {
 		window.FB.api(
-			'/reservazafra/feed?access_token=' + FBAT,
+			'/1219591441402181/feed?access_token=' + FBAT,
 			'GET',
 			{ "limit": "20", "fields": "full_picture,id,message,created_time,permalink_url,status_type" },
 			function (response) {

@@ -275,9 +275,9 @@
     "fr": "La nature fait partie de la richesse de vivre ici, et nous voulons vous inviter à découvrir la Zafra: il est possible de venir passer une journée ensoleillée pour se rencontrer, profiter, interagir en famille et aussi interagir avec cette nature. C'est une façon de commencer à connaître une manière différente de se comporter face à elle, et de s'en inspirer."
   },
   "index.video.button": {
-    "es": "Nuestra Politica de Sostenibilidad",
-    "en": "Our Sustainability Policy",
-    "fr": "Notre Politique de Développement Durable"
+    "es": "Nuestra Politica",
+    "en": "Our Policy",
+    "fr": "Notre Politique"
   },
   "index.funfacts.1": {
     "es": "Hectáreas de reserva",
@@ -607,7 +607,7 @@
   "common.footer.col2.address.label": {
     "es": "Ubicación:",
     "en": "Address:",
-    "fr": "Adresse:"
+    "fr": "Adresse :"
   },
   "common.footer.col2.address": {
     "es": "Km 6.3, Vereda El Arenal San Rafael - Antioquia - Colombia",
@@ -617,7 +617,7 @@
   "common.footer.col2.distance.label": {
     "es": "Distancia desde Medellín:",
     "en": "Distance from Medellín:",
-    "fr": "Distance de Medellín:"
+    "fr": "Distance de Medellín :"
   },
   "common.footer.col2.distance": {
     "es": "110 km.",
@@ -627,7 +627,7 @@
   "common.footer.col2.coordinates.label": {
     "es": "Coordenadas:",
     "en": "Coordinates:",
-    "fr": "Coordonnées GPS:"
+    "fr": "Coordonnées GPS :"
   },
   "common.footer.col2.coordinates": {
     "es": "6° 15'09,8\"N - 75°00'51,7\"W",
@@ -1027,7 +1027,7 @@
   "events.space.subtitle": {
     "es": "para la realización de encuentros académicos, lúdicos y de reflexión.",
     "en": "for all types of meetings: academic, recreational or  meditational.",
-    "fr": "pour tous types de réunions: académiques, récréatives et de réflexion."
+    "fr": "pour tous types de réunions : académiques, récréatives et de réflexion."
   },
   "events.space.p.1": {
     "es": "La naturaleza hace parte del lugar, aprovecha para dar más impacto a tu evento.",
